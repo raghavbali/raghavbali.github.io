@@ -17,7 +17,7 @@ Starting off with simple things, Simple Linear Regression is analysis of two con
 
 **Sample Height Vs Weight scatter plot:**
 
-![alt text][sample_ols]
+
 
 Since simple linear regression is an analysis of relationship between two variables, say _x_ and _y_, which are linearly dependent (_linear regression you see_) they can be mathematically denoted as-
 
@@ -30,16 +30,29 @@ where,
   + B: slope of the line
 
 
-Continuing with our _Height-Weight_ sample data set, let us apply some linear regression concepts. The sample data set contains the weight and height measurements of a sample population (these values have been generated randomly for demo purposes).
+## The Classic Height-Weight Example
 
-As mentioned earlier, Regression is the analysis of independent and dependent variables, in our current example, we have the variable _weight_ which depends on _height_ of a person. Thus, weight is the dependent while height is independent.
+![alt text][sample_ols]
+As is the common perception, weight and height are related parameters for us humans. The taller you are the heavier you get (well, usually and not always :) ).
 
-From the above plot, we can roughly say that the weight of a person increases with his/her height. We could use this information to predict/guess the weight of a person whose height we know. To formalize this behavior, we can draw a line through the data points to depict this relationship. The relationship can be depicted as:
+As can be seen from the above dummy data set, the argument seems to be true. Continuing with our _Height-Weight_ sample data set, let us apply some linear regression concepts. The sample data set contains the weight and height measurements of a sample population (these values have been generated randomly for demo purposes).
+
+By now we know that Regression is the analysis of _independent_ and _dependent_ variables, in our current example, we have the variable _weight_ which depends on _height_ of a person. Thus, weight is the _dependent_ while height is _independent_. We could use this information to predict/guess the weight of a person whose height we know. To formalize this behavior, we can draw a line through the data points to depict this relationship. The relationship can be depicted as:
 
 > weight = A + B.height
 
-We can obtain different lines for different settings of _A and B_. But now the question arises, which line represents the relationship most correctly and what values of these variables help us predict an unknown person's weight given his/her height? Luckily, we have a few data points which we can utilize to get as close a prediction as possible.
+We can obtain different lines for different settings of _A and B_. But now the question arises, which line represents the relationship most correctly? For what values of these variables will be able to predict an unknown person's weight given his/her height? Luckily, we have a few data points which we can utilize to get as close a prediction as possible.
 
+
+### The Best Fit
+
+The line which best fits our _Height-Weight_ relationship would require a bit of experimentation.
+Let us denote the data set containing height and weight of people as ```D```, which contains data points in the form of ```(h,w)``` for each person. We also denote the set of all know heights as ```H``` and all known weights as ```W```.
+
+Now, the experiment can be designed as follows:
+  + Let us start with a line between the lowest point and the highest point in the scatter plot (least height-weight and max height-weight respectively). This particular line would have certain intercept and slope, i.e. ```A``` and ```B``` respectively (say a' and b').
+  + For this line we calculate _weight_ for each person's _height_ we have in the set ```H```. Let these set of weights be denoted as ```W'```.
+  + Since we already have weights for all people in our dataset, we compare how _off_ the weights in``` w'``` are with respect to ```W```. Let this difference between _observed_ and _actual_ values of weight be denoted as error ```E```.
 
 
 Fitting a line would give us a average/central behavior. But how do we fit the best line?
