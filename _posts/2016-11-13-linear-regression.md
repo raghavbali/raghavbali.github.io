@@ -104,5 +104,5 @@ The above discussion helped us understand the basics of how a least squares regr
 In future we will discuss further concepts related to _OLS_ and _regression_ in general.
 
 
-[sample_scatter]: {{site.url}}/assets/img/ols_sample.PNG "Sample Scatter plot of Height Vs Weight"
-[sample_ols]: {{site.url}}/assets/img/ols_sample.PNG "The best fit for our sample Height Vs Weight data set"
+[sample_scatter]: {{site.url}}/assets/img/ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"
+[sample_ols]: {{site.url}}/assets/img/ols_sample_ols.PNG "The best fit for our sample Height Vs Weight data set"
