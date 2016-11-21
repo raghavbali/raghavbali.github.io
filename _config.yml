@@ -7,6 +7,10 @@ relative_permalinks: false
 # gems
 gems: [jekyll-paginate]
 
+# kramdown settings
+kramdown:
+  input: GFM
+
 # Setup
 title:               Raghav Bali
 tagline:             '' #need to think of one
