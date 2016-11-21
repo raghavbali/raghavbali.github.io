@@ -10,18 +10,18 @@ In simple words, the process of investigating the relationship between dependent
 
 ## Simple Linear Regression
 Starting off with simple things, Simple Linear Regression is analysis of two continuous variables of which one is termed as dependent (or response) while the other is called independent (or predictor). Some examples of _statistical relationship_ between two variables could be:
-+ **Relationship between height and weight**- The weight of a person increases with height, though not perfectly or always.
-+ **Relationship between vehicular speed and number of accidents**- The number of accidents are higher at higher speeds, though not always necessary.
+- **Relationship between height and weight**- The weight of a person increases with height, though not perfectly or always.
+- **Relationship between vehicular speed and number of accidents**- The number of accidents are higher at higher speeds, though not always necessary.
 
 Since simple linear regression is an analysis of relationship between two variables, say _x_ and _y_, which are linearly dependent (_linear regression you see_) they can be mathematically denoted as-
 
 > Y = a + b.X
 
 where,
-  + Y: dependent variable
-  + X: independent variable
-  + a: intercept of the line
-  + b: slope of the line
+  - Y: dependent variable
+  - X: independent variable
+  - a: intercept of the line
+  - b: slope of the line
 
 
 ## The Classic Height-Weight Example
@@ -45,9 +45,9 @@ The line which best fits our _Height-Weight_ relationship would require a bit of
 Let us denote the data set containing height and weight of people as ```D```, which contains data points in the form of ```(h,w)``` for each person. We also denote the set of all know heights as ```H``` and all known weights as ```W```.
 
 Now, the experiment can be designed as follows:
-  + Let us start with an arbitrary line. Say a line between the lowest point and the highest point in the scatter plot (least height-weight and max height-weight respectively). This particular line would have certain intercept and slope, i.e. ```a``` and ```b``` respectively.
-  + For this line we calculate _weight_ for each person's _height_ we have in the set ```H```. Let these set of weights be denoted as ```W'```.
-  + Since we already have weights for all people in our dataset, we compare how _off_ the weights in``` W'``` are with respect to ```W```. Let this difference between _observed_ and _actual_ values of weights be denoted as error ```e```.
+  - Let us start with an arbitrary line. Say a line between the lowest point and the highest point in the scatter plot (least height-weight and max height-weight respectively). This particular line would have certain intercept and slope, i.e. ```a``` and ```b``` respectively.
+  - For this line we calculate _weight_ for each person's _height_ we have in the set ```H```. Let these set of weights be denoted as ```W'```.
+  - Since we already have weights for all people in our dataset, we compare how _off_ the weights in``` W'``` are with respect to ```W```. Let this difference between _observed_ and _actual_ values of weights be denoted as error ```e```.
 
 Now, our notion of a best fitting line can be easily explained in terms of error ```e```. The error between the observed and the actual is a clear indicator of how well we map the _height-weight_ relationship. Now, how do we define and calculate the metric ```e``` ?
 
@@ -81,8 +81,8 @@ and
 > b = ∑(h−h¯)(w−w¯) / ∑(h−h¯)²
 
 where:
-  + w¯: mean weight of all data points
-  + h¯: mean height of all data points
+  - w¯: mean weight of all data points
+  - h¯: mean height of all data points
 
 #### Understanding the slope
 
