@@ -6,6 +6,10 @@ categories: general
 ---
 As with any programming activity, ```hello world``` is what we all start with.
 
+<!--more-->
+
+
+
 I am setting up this website after a lot of procrastinating and delays. I am learning ```jekyll``` along with writing posts, so expect layout and other changes as I progress.
 
 But before I get into posting content, I would like to give credit to awesome people out there whose comments/suggestions helped me setup ```jekyll``` on my system (I use _Windows_ and its okay). The suggestions/workarounds mentioned here helped me get it up and running-

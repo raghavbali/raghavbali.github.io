@@ -17,6 +17,7 @@ tagline:             'Data Scientist at Intel | Shutterbug at Life' #need to thi
 description:         'Think. Tinker. Code. Click' # add something here
 url:                 raghavbali.github.io
 baseurl:             ''
+excerpt_separator:   <!--more-->
 #paginate:            1
 
 # About/contact
