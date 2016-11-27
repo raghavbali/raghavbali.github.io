@@ -7,6 +7,9 @@ categories: statistics
 ## Regression Analysis
 In the previous post we had a quick sneak peak into Regression and Ordinary Least Squares Regression in particular. In this post we will build onto those concepts and understand how a linear regression model is built and evaluated. We will use some ```python``` to get the job done!
 
+<!--more-->
+
+
 ### Quick Refresh
 Simple linear regression is an analysis of relationship between two variables, say _x_ and _y_, which are linearly dependent (_linear regression you see_) they can be mathematically denoted as-
 
@@ -154,7 +157,7 @@ The second post in the linear regression series adds on to the concepts we learn
 The complete notebook is available: [python_notebook](https://github.com/raghavbali/python_notebooks/blob/master/ols/ols_notebook.ipynb).
 
 
-[ols_plot]: {{site.url}}/public/img/ols_final_plot.PNG "Summary of OLS model build for Height Vs Weight data set"
-[sample_model_summary]: {{site.url}}/public/img/ols_model_summary.PNG "Summary of OLS model build for Height Vs Weight data set"
-[sample_data]: {{site.url}}/public/img/ols_sample_data.PNG "Sample data from Height Vs Weight data set"
-[sample_scatter]: {{site.url}}/public/img/ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"
+[ols_plot]: {{site.baseurl}}/public/img/ols_final_plot.PNG "Summary of OLS model build for Height Vs Weight data set"
+[sample_model_summary]: {{site.baseurl}}/public/img/ols_model_summary.PNG "Summary of OLS model build for Height Vs Weight data set"
+[sample_data]: {{site.baseurl}}/public/img/ols_sample_data.PNG "Sample data from Height Vs Weight data set"
+[sample_scatter]: {{site.baseurl}}/public/img/ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"

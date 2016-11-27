@@ -8,6 +8,9 @@ categories: statistics
 In simple words, the process of investigating the relationship between dependent and independent variables is termed as ___Regression Analysis___. It includes various techniques for modeling and analyzing these relationships. Regression Analysis has roots in statistics but is widely used in the machine learning space. It is used for predictive analysis, forecasting and time series analysis. Another use case for regression analysis is [_causal-effect relationship_](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), though this should be considered with a pinch of salt.
 
 
+<!--more-->
+
+
 ## Simple Linear Regression
 Starting off with simple things, Simple Linear Regression is analysis of two continuous variables of which one is termed as dependent (or response) while the other is called independent (or predictor). Some examples of _statistical relationship_ between two variables could be-
 
@@ -107,5 +110,5 @@ The above discussion helped us understand the basics of how a least squares regr
 In future we will discuss further concepts related to _OLS_ and _regression_ in general.
 
 
-[sample_scatter]: {{site.url}}/public/img/ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"
-[sample_ols]: {{site.url}}/public/img/ols_sample_ols.PNG "The best fit for our sample Height Vs Weight data set"
+[sample_scatter]: {{site.baseurl}}/public/img//ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"
+[sample_ols]: {{site.baseurl}}/public/img/ols_sample_ols.PNG "The best fit for our sample Height Vs Weight data set"
