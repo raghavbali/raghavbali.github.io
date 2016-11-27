@@ -79,6 +79,8 @@ To begin with, we would be making use of some awesome python packages, namely:
   - **[matplotlib](http://matplotlib.org/)**: the de-facto plotting package.
 
 Let's get started with loading the data first:
+
+
 ```
 df = pd.DataFrame.from_csv(r'data\student_height_weight.csv',
                            index_col=None)
