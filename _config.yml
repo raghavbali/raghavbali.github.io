@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: false
 
 # gems
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 
 # kramdown settings
 kramdown:
@@ -13,11 +13,11 @@ kramdown:
 
 # Setup
 title:               Raghav Bali
-tagline:             '' #need to think of one
-description:         '' # add something here
+tagline:             'Data Scientist at Intel | Shutterbug at Life' #need to think of one
+description:         'Think. Tinker. Code. Click' # add something here
 url:                 raghavbali.github.io
 baseurl:             ''
-paginate:            1
+#paginate:            1
 
 # About/contact
 author:
