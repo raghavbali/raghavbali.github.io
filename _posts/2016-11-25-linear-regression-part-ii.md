@@ -49,12 +49,15 @@ The **Coefficient of Determination** or **R-Squared** as it is usually known, is
 
 
   - **Sum of Squares Explained (SSE)**: this is a measure of how much the data points vary from the regression line.
+
   > SSE = ∑(y - y_regression)²
 
   - **Regression Sum of Squares (SSR)**: this is a measure between the estimated regression line and the mean line (or line of no relationship).
+
   > SSR = ∑(y_regression - y¯)²
 
   - **Total Sum of Squares(TSS)**: this is a measure to denote the variance of data points around mean.
+
   > TSS = ∑(y - y¯)²
 
 Note that TSS =  SSE + SSR and we denote **R-Squared** as:
