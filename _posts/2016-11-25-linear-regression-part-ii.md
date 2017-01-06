@@ -61,6 +61,7 @@ The **Coefficient of Determination** or **R-Squared** as it is usually known, is
   > TSS = ∑(y - y¯)²
 
 Note that TSS =  SSE + SSR and we denote **R-Squared** as:
+
 > R² = SSR / TSS
 
 i.e. R² points out to the fact that a regression line better represents the data if the total variance in data(TSS) is dominated by its regression variance(SSR). Since TSS is a sum of other two measures, R² is a real number between 0 and 1. The following are a few observations related to R²:
