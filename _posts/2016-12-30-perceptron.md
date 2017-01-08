@@ -56,7 +56,7 @@ The following is a visual representation of a perceptron:
 Now that we understand and can visualize how a perceptron looks, let us get to know the algorithm to train it.
 The ultimate aim of a binary classifier is to identify a decision boundary which can separate the dataset into different classes. Since a simple perceptron is a binary classifier, it attempts to find a decision boundary which separates data into two different classes. As the input data can be an n-dimensional vector, the decision boundary would then be a [hyperplane](https://en.wikipedia.org/wiki/Hyperplane) separating our data into two. Our sample dataset consists of points in a 2-D space, thus our decision boundary would be a simple straight line separating the green and red data points.
 
-The algorithm works as follows:
+The algorithm works as follows-
 
 
   + **Initialization**:
@@ -72,7 +72,7 @@ The algorithm works as follows:
 
   + **Update Step**:
 
-  
+
     + For each sample data point $$x_j$$ in the training data set with labeled outputs $$o_j$$:
       + Calculate the output label with current weight vector as:
 
@@ -165,11 +165,13 @@ Perceptrons have been recently utilized in scenarios with class imbalance and in
 
 ## Resources
 
-For further reading, you may consult these resources:
+For further reading, you may consult these resources
 
 
   + [Perceptron for Dummies](https://www.jilp.org/cbp/Daniel-slides.PDF)
+
   + [Perceptron Learning, Fu-Berlin](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
+
   + [Perceptrons and Neural Networks](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-f01/www/handouts/110601.pdf)
 
 
