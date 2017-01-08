@@ -88,7 +88,7 @@ To begin with, we would be making use of some awesome python packages, namely:
 Let's get started with loading the data first:
 
 
-```
+```python
 df = pd.DataFrame.from_csv(r'data\student_height_weight.csv',
                            index_col=None)
 df.head()
@@ -103,7 +103,7 @@ The same data on a plot looks like this:
 
 Time to build an OLS model for the same. Using a package like ```statsmodels``` makes things really easy. All we need to do is prepare our independent and dependent variables from the data set and rest of the magic happens in a breeze. Remember, behind the scenes all the theory we covered is being used to get the final results.
 
-```
+```python
 # Set the independent variable
 X = df1.height.values.tolist()
 
@@ -139,7 +139,7 @@ Model Summary:
 
 The final output can be visualized with a few lines of code:
 
-```
+```python
 # plot the data points
 plt.scatter(df1.height,df1.weight)
 
