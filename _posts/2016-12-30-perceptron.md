@@ -38,6 +38,8 @@ As we can see in the above dataset, there are two different classes, one represe
 
 ### What is a Perceptron
 A perceptron can be thought of as a computational equivalent of a single neuron. Very much like a neuron, a perceptron can be explained as:
+
+
   + It receives data from input nodes (say vector $$X$$).
   + All inputs nodes are connected to a node in the next layer.
   + This node in the next layer takes the weighted sum of the input data (using weight vector $$W$$).
@@ -55,7 +57,11 @@ Now that we understand and can visualize how a perceptron looks, let us get to k
 The ultimate aim of a binary classifier is to identify a decision boundary which can separate the dataset into different classes. Since a simple perceptron is a binary classifier, it attempts to find a decision boundary which separates data into two different classes. As the input data can be an n-dimensional vector, the decision boundary would then be a [hyperplane](https://en.wikipedia.org/wiki/Hyperplane) separating our data into two. Our sample dataset consists of points in a 2-D space, thus our decision boundary would be a simple straight line separating the green and red data points.
 
 The algorithm works as follows:
+
+
   + **Initialization**:
+
+
     + Assume we have an activation function $$f(Y)$$ which generates an output of $$+1$$ or $$-1$$ based on a given decision threshold $$\theta$$.
 
     + Where Y is the weighted sum of input vector $$X$$ and weights vector $$W$$.
@@ -65,6 +71,8 @@ The algorithm works as follows:
     + Let the $$O$$ be the output label vector for input vector $$X$$.
 
   + **Update Step**:
+
+  
     + For each sample data point $$x_j$$ in the training data set with labeled outputs $$o_j$$:
       + Calculate the output label with current weight vector as:
 
@@ -90,6 +98,8 @@ The Perceptron algorithm has been proven to converge mathematically. For mitigat
 ### Things to Remember
 
 While understanding the perceptron algorithm, we introduced quite a few vectors and other symbols. Each of those carries a specific meaning. Some of the important ones are:
+
+
   + $$w_0$$ : This is called the bias of the weight vector $$W$$. This helps in assigning a non-zero probability for a particular vector to be chosen
   + Decision Threshold ($$\theta$$) : This keeps the algorithm from overfitting on the training dataset.
 
@@ -156,6 +166,8 @@ Perceptrons have been recently utilized in scenarios with class imbalance and in
 ## Resources
 
 For further reading, you may consult these resources:
+
+
   + [Perceptron for Dummies](https://www.jilp.org/cbp/Daniel-slides.PDF)
   + [Perceptron Learning, Fu-Berlin](https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf)
   + [Perceptrons and Neural Networks](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15381-f01/www/handouts/110601.pdf)
