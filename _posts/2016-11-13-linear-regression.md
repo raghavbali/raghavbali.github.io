@@ -63,14 +63,17 @@ Now, our notion of a best fitting line can be easily explained in terms of error
 
 #### Calculating Errors
 For starters we could begin with a simple difference between the observed and actual values. Such an error measure is termed as **prediction error** and denoted as:
+
 > e = w - w'
 
 The best fitting line would have least prediction error for each data point in our data set. One problem with such an error measure is that it carries a sign. A signed measure has the probability of cancelling out when summed (can you visualize the issue here?).
 
 To avoid this, we make use of **sqaured prediction error**, i.e.:
+
 > e² = (w-w')²
 
 To achieve the overall squared prediction error for a line in consideration, we use the _least squares criterion_ i.e. the overall squared prediction error for a given line is sum of squared errors for each of its data points.
+
 > q = ∑(w-w')²
 
 ### Least Squares Estimates
@@ -84,9 +87,11 @@ Luckily finding that perfect fit would require certain values for its intercept 
 > => q = ∑(w-(a+b.h))²
 
 This involves a bit of a calculus and what we get as output is termed as the **least squares regression line** which would have least possible squared error! The intercept and slope are given as:
+
 > a = w¯ − bh¯
 
 and
+
 > b = ∑(h−h¯)(w−w¯) / ∑(h−h¯)²
 
 where:

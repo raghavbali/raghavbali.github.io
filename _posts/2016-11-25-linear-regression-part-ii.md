@@ -49,15 +49,19 @@ The **Coefficient of Determination** or **R-Squared** as it is usually known, is
 
 
   - **Sum of Squares Explained (SSE)**: this is a measure of how much the data points vary from the regression line.
+
   > SSE = ∑(y - y_regression)²
 
   - **Regression Sum of Squares (SSR)**: this is a measure between the estimated regression line and the mean line (or line of no relationship).
+
   > SSR = ∑(y_regression - y¯)²
 
   - **Total Sum of Squares(TSS)**: this is a measure to denote the variance of data points around mean.
+
   > TSS = ∑(y - y¯)²
 
 Note that TSS =  SSE + SSR and we denote **R-Squared** as:
+
 > R² = SSR / TSS
 
 i.e. R² points out to the fact that a regression line better represents the data if the total variance in data(TSS) is dominated by its regression variance(SSR). Since TSS is a sum of other two measures, R² is a real number between 0 and 1. The following are a few observations related to R²:
@@ -84,7 +88,7 @@ To begin with, we would be making use of some awesome python packages, namely:
 Let's get started with loading the data first:
 
 
-```
+```python
 df = pd.DataFrame.from_csv(r'data\student_height_weight.csv',
                            index_col=None)
 df.head()
@@ -99,7 +103,7 @@ The same data on a plot looks like this:
 
 Time to build an OLS model for the same. Using a package like ```statsmodels``` makes things really easy. All we need to do is prepare our independent and dependent variables from the data set and rest of the magic happens in a breeze. Remember, behind the scenes all the theory we covered is being used to get the final results.
 
-```
+```python
 # Set the independent variable
 X = df1.height.values.tolist()
 
@@ -135,7 +139,7 @@ Model Summary:
 
 The final output can be visualized with a few lines of code:
 
-```
+```python
 # plot the data points
 plt.scatter(df1.height,df1.weight)
 
