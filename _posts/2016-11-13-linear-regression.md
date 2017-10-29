@@ -8,6 +8,9 @@ categories: statistics
 In simple words, the process of investigating the relationship between dependent and independent variables is termed as ___Regression Analysis___. It includes various techniques for modeling and analyzing these relationships. Regression Analysis has roots in statistics but is widely used in the machine learning space. It is used for predictive analysis, forecasting and time series analysis. Another use case for regression analysis is [_causal-effect relationship_](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), though this should be considered with a pinch of salt.
 
 
+<!--more-->
+
+
 ## Simple Linear Regression
 Starting off with simple things, Simple Linear Regression is analysis of two continuous variables of which one is termed as dependent (or response) while the other is called independent (or predictor). Some examples of _statistical relationship_ between two variables could be-
 
@@ -60,14 +63,17 @@ Now, our notion of a best fitting line can be easily explained in terms of error
 
 #### Calculating Errors
 For starters we could begin with a simple difference between the observed and actual values. Such an error measure is termed as **prediction error** and denoted as:
+
 > e = w - w'
 
 The best fitting line would have least prediction error for each data point in our data set. One problem with such an error measure is that it carries a sign. A signed measure has the probability of cancelling out when summed (can you visualize the issue here?).
 
 To avoid this, we make use of **sqaured prediction error**, i.e.:
+
 > e² = (w-w')²
 
 To achieve the overall squared prediction error for a line in consideration, we use the _least squares criterion_ i.e. the overall squared prediction error for a given line is sum of squared errors for each of its data points.
+
 > q = ∑(w-w')²
 
 ### Least Squares Estimates
@@ -81,9 +87,11 @@ Luckily finding that perfect fit would require certain values for its intercept 
 > => q = ∑(w-(a+b.h))²
 
 This involves a bit of a calculus and what we get as output is termed as the **least squares regression line** which would have least possible squared error! The intercept and slope are given as:
+
 > a = w¯ − bh¯
 
 and
+
 > b = ∑(h−h¯)(w−w¯) / ∑(h−h¯)²
 
 where:
@@ -107,5 +115,5 @@ The above discussion helped us understand the basics of how a least squares regr
 In future we will discuss further concepts related to _OLS_ and _regression_ in general.
 
 
-[sample_scatter]: {{site.url}}/public/img/ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"
-[sample_ols]: {{site.url}}/public/img/ols_sample_ols.PNG "The best fit for our sample Height Vs Weight data set"
+[sample_scatter]: {{site.baseurl}}/public/img//ols_sample_scatter.PNG "Sample Scatter plot of Height Vs Weight"
+[sample_ols]: {{site.baseurl}}/public/img/ols_sample_ols.PNG "The best fit for our sample Height Vs Weight data set"
