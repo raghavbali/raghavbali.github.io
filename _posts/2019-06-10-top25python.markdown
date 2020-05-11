@@ -7,7 +7,7 @@ categories: general
 
 Python is one of the most widely used languages by Data Scientists and Machine Learning experts across the world. Though there is no shortage of alternatives in the form of languages like R, Julia and others, python has steadily and rightfully gained popularity.
 
-<center><img src ="https://imgs.xkcd.com/comics/python.png" height=300></center>
+<img src ="https://imgs.xkcd.com/comics/python.png" height=400>
 
 <!--more-->
 This article was featured on [zeolearn.com](https://www.zeolearn.com) platform. Read the full article on the [zeolearn blog](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
