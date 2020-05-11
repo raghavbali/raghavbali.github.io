@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Become a Data Scientist"
-date:   2018-11-24 08:00:34 +0530
+date:   2019-03-22 22:30:34 +0530
 categories: general
 ---
 
