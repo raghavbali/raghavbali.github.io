@@ -19,4 +19,3 @@ I got a similar opportunity to work towards preparing and presenting a workshop 
 
 [Github](https://github.com/dipanjanS/nlp_workshop_dhs18#workshop--datahack-summit-2018)
 ---
-This post will be updated with more details soon.
