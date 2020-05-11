@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "How to Become a Data Scientist"
+date:   2018-11-24 08:00:34 +0530
+categories: general
+---
+
+Data Scientist is a professional standing at the confluence of technology, domain knowledge, and business to tackle the data revolution. A Data Scientist needs to be a mathematician, computer programmer, analyst, statistician, and effective communicator to turn insights into actions.
+
+<!--more-->
+This article was featured on [zeolearn.com](https://www.zeolearn.com) platform. Read the full article on the [zeolearn blog](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
+---
