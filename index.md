@@ -18,7 +18,15 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-- Stay Tuned
+- [2020] Runner's Up, Global Data Science Hackathon, Optum
+- [2020] Award for Exemplary Leadership, Optum
+- [2018] Runner's Up, Global Data Science Hackathon, Optum
+- [2017] Best Paper Presentation Award at ITTLC, Intel
+- [2014] Awarded Gold Medal (Late Sri N Rama Rao Medal- Student of the Year), IIIT-B
+- [2013-14] Google Student Ambassador
+- [2013] Dean's Merit List, 3rd Semester, IIIT-B
+- [2013] Dean's Merit List, 2nd Semester, IIIT-B
+- [2012] Dean's Merit List, 1st Semester, IIIT-B
 
 <div id="read-more-button">
     <a nohref>Read more</a>
@@ -75,9 +83,9 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     </div>
 </div>
 
-During my Masters, I've 
+During Masters, I've taken up exciting and challenging courses related to Machine Learning, Software Architecture, Advanced Algorithms and Operating systems. I also worked on a number of large scale projects such as <i>Language Recognizer for Indian Languages </i>, <i>Hierarchical Document Clustering System</i>, <i>Bitcoin Payments based Cloud Provisioning Platform</i> and so on.
 
-On the side, Raghav is a technology enthusiast who loves reading and playing around with new gadgets and technologies. He is a shutterbug  capturing moments when he isn’t busy solving problems, checkout his [instagram](https://www.instagram.com/raghavbali/).
+On the side, I am a technology enthusiast who loves reading and playing around with new gadgets and technologies. I am a shutterbug  capturing moments when he isn’t busy solving problems, checkout his [instagram](https://www.instagram.com/raghavbali/).
 
 [Occassional Blog Posts](/blog)
 

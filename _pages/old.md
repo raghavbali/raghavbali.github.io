@@ -11,7 +11,6 @@ permalink:  /blog/
                 <li>
                     <span class="title"><a href="{{ post.url }}">{{ post.title }}</a></span>
                     <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
-                    <span><img src={{post.logo}}></span>
                 </li>
             {% endfor %}
         </ul>
