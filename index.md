@@ -10,7 +10,7 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Senior Data Scientist<br>
-        Optum (United HealthGroup<br>
+        Optum (United HealthGroup)<br>
     </div>
 </div>
 <hr>
