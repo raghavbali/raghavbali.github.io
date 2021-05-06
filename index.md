@@ -63,7 +63,7 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iiitb.ac.in"><img src="/img/logos/iitr.jpg"></a>
+            <a href="//iiitb.ac.in"><img src="/img/logos/iiitb_logo.jpg"></a>
         </div>
         <div class="logo-desc">
             IIIT Bangalore<br>
@@ -94,7 +94,7 @@ On the side, Raghav is a technology enthusiast who loves reading and playing aro
         <a target="_blank" href="#">Peer Reviewed Version</a>
     </span>
 </p>
-<img src="/img/pubs/easter_arch.png">
+<img src="/img/pubs/easter_arch.jpg">
 <hr>
 
 <a name="/patient1"></a>
@@ -107,7 +107,7 @@ On the side, Raghav is a technology enthusiast who loves reading and playing aro
         <a target="_blank" href="#">Peer Reviewed Version</a>
     </span>
 </p>
-<img src="/img/pubs/shap_all.png">
+<img src="/img/pubs/shap_all.jpg">
 <hr>
 
 <a name="/rfp1"></a>
