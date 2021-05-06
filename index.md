@@ -79,7 +79,7 @@ During my Masters, I've
 
 On the side, Raghav is a technology enthusiast who loves reading and playing around with new gadgets and technologies. He is a shutterbug  capturing moments when he isn’t busy solving problems, checkout his [instagram](https://www.instagram.com/raghavbali/).
 
-[Occassional Blog Posts](/archive)
+[Occassional Blog Posts](/blog)
 
 ---
 

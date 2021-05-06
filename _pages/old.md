@@ -1,7 +1,7 @@
 ---
 layout:     default
-title:      Archive
-permalink:  /archive/
+title:      Blogs
+permalink:  /blog/
 ---
 
 <div class="row">
