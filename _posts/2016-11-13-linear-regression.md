@@ -3,11 +3,11 @@ layout: post
 title:  "Linear Regression"
 date:   2016-11-13 10:22:34 +0530
 categories: statistics
-excerpt:    "the process of investigating the relationship between dependent and independent variables is termed as ___Regression Analysis___"
+excerpt:    "The process of investigating the relationship between dependent and independent variables is termed as Regression Analysis"
 logo:       "/img/posts/ols/ols_sample_ols.PNG"
 ---
 ## Regression Analysis
-In simple words, the process of investigating the relationship between dependent and independent variables is termed as ___Regression Analysis___. It includes various techniques for modeling and analyzing these relationships. Regression Analysis has roots in statistics but is widely used in the machine learning space. It is used for predictive analysis, forecasting and time series analysis. Another use case for regression analysis is [_causal-effect relationship_](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), though this should be considered with a pinch of salt.
+It includes various techniques for modeling and analyzing these relationships. Regression Analysis has roots in statistics but is widely used in the machine learning space. It is used for predictive analysis, forecasting and time series analysis. Another use case for regression analysis is [_causal-effect relationship_](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation), though this should be considered with a pinch of salt.
 
 
 ## Simple Linear Regression

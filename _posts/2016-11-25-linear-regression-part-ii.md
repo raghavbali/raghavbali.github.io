@@ -3,7 +3,6 @@ layout: post
 title:  "Linear Regression Part II"
 date:   2016-11-25 17:49:34 +0530
 categories: statistics
-excerpt:    "Y = a + b.X"
 logo:       "/img/posts/ols/ols_final_plot.PNG"
 ---
 ## Regression Analysis

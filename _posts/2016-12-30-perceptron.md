@@ -3,12 +3,10 @@ layout: post
 title:  "Perceptron"
 date:   2017-01-06 18:32:34 +0530
 categories: machine-learning
-excerpt:    "The meaning of the word **perceptron** as per the English dictionary is _"a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate"_"
+excerpt:    "The meaning of the word perceptron as per the English dictionary is "a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate""
 logo:       "/img/posts/ols/ols_sample_ols.PNG"
 ---
-The meaning of the word **perceptron** as per the English dictionary is _"a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate"_. This definition holds pretty true even when we talk in the context of Machine Learning. A Perceptron is a _Supervised Classification_ algorithm.
-
-<!--more-->
+This definition holds pretty true even when we talk in the context of Machine Learning. A Perceptron is a _Supervised Classification_ algorithm.
 
 >"a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate"
 
