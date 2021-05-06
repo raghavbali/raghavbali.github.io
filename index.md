@@ -201,7 +201,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         </div>
         <div class="talkt">
             <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2018/2018/08/04/getting-started-with-natural-language-processing/">
-                2019, Workshop: Getting Started With Natural Language Processing
+                2018, Workshop: Getting Started With Natural Language Processing
             </a>|
             <a target="_blank" href="https://github.com/raghavbali/nlp_workshop_dhs18">
                 GitHub
