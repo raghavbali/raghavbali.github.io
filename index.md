@@ -18,38 +18,11 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-TBA
-<!-- - [Mar 21] Awarded the [Georgia Tech Sigma Xi Best PhD Thesis Award][sigma-xi-thesis-award].
-- [Mar 21] Awarded the [Georgia Tech College of Computing Dissertation Award][coc-dissertation-award].
-- [Nov 20] The [Open Catalyst Project][ocp] was covered by [Fortune][ocp-fortune], [Engadget][ocp-engadget], [CNBC][ocp-cnbc], [VentureBeat][ocp-venturebeat].
-- [Nov 20] Organizing the 4th [Visually-Grounded Interaction & Language Workshop at NAACL][vigil20].
-- [July 20] Presenting [Probing Emergent Semantics in Predictive Agents](#/qa-probing) at ICML 2020 ([Video][qa-probing-icml20-talk]).
-- [Mar 20] I completed my PhD!
-- [Nov 19] Organizing the [Visual Question Answering and Dialog workshop at CVPR 2020][51].
-- [Sep 19] Organizing the [Visually-Grounded Interaction & Language Workshop at NeurIPS][vigil19].
-- [Jun 19] Presenting [Targeted Multi-Agent Communication](#/multi-agent-comm) as an oral at ICML 2019 ([Video][tarmac-icml-talk]).
-- [Mar 19] Co-founded [Caliper][caliper]. Caliper helps recruiters evaluate practical AI skills.
-- [Feb 19] My work was featured in this [wonderful article by Georgia Tech][ic-gt-article].
-- [Jan 19] Awarded the [Facebook Graduate Fellowship][fb-fellow-page].
-- [Jan 19] Awarded the Microsoft Research PhD Fellowship (declined).
-- [Jan 19] Awarded the NVIDIA Graduate Fellowship (declined).
-- [Jan 19] Organizing the [2nd Visual Dialog Challenge][visdial-challenge-2].
-- [Oct 18] Presenting [Neural Modular Control for Embodied QA](#/eqa-modular) at CoRL 2018 ([Video][58]).
-- [Sep 18] Presenting [results and analysis of the 1st Visual Dialog Challenge][57] at ECCV 2018.
-- [Jul 18] Presenting a [tutorial on Connecting Language and Vision to Actions][49] at [ACL 2018][50].
-- [Jun 18] Organizing the 1st [Visual Dialog Challenge][53].
-- [Jun 18] Presenting [Embodied Question Answering](#/embodied-qa) as an oral at CVPR 2018 ([Video][54]).
-- [Jun 18] Organizing the [VQA Challenge and Visual Dialog Workshop at CVPR 2018][51].
-- [Mar 18] Speaking on [Embodied Question Answering][40] at [NVIDIA GTC][42] ([Video][52]).
-- [Dec 17] Awarded the [Adobe Research Fellowship][39]. ([Department's news story][44])
-- [Dec 17] Awarded the [Snap Inc. Research Fellowship][36]. ([Department's news story][43])
-- [Oct 17] Presenting [Cooperative Visual Dialog Agents](#/visdial-rl) as an oral at ICCV 2017 ([Video][37]).
-- [Jul 17] Presenting [Visual Dialog](//visualdialog.org) at the [VQA Challenge Workshop](http://visualqa.org/workshop.html), CVPR 2017 ([Video][41]).
-- [Jul 17] Presenting our paper on [Visual Dialog](#/visdial) as a spotlight at CVPR 2017 ([Video][38]).
+- Stay Tuned
 
 <div id="read-more-button">
     <a nohref>Read more</a>
-</div> -->
+</div>
 
 <hr>
 
