@@ -159,14 +159,9 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 # Talks
 
 <div class="row">
-    <div class="col-xs-6">
+    <div class="col-xs-12">
         <p class="talkd">
             <img src="/img/talks/talk_2019.jpeg">
-        </p>
-    </div>
-    <div class="col-xs-6">
-        <p class="talkd">
-            <img src="/img/talks/talk_2018.jpeg">
         </p>
     </div>
 </div>
@@ -191,26 +186,35 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         <div class="talkt">
             <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-synthetic-text-data-generation-using-rnn-based-deep-learning-models/">
                 2019, Hack Session: Synthetic Text Data Generation using Recurrent Neural Networks (RNN)
+            </a>|
+            <a target="_blank" href="https://github.com/raghavbali/handwritten_text_dhs_av_2019">
+                GitHub
             </a>
         </div>
         <div class="talkt">
             <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/workshop-applied-machine-learning/">
                 2019, Workshop: Applied Machine Learning
+            </a>|
+            <a target="_blank" href="https://github.com/raghavbali/appliedml_workshop_dhs_av_2019">
+                GitHub
             </a>
         </div>
         <div class="talkt">
             <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2018/2018/08/04/getting-started-with-natural-language-processing/">
                 2019, Workshop: Getting Started With Natural Language Processing
+            </a>|
+            <a target="_blank" href="https://github.com/raghavbali/nlp_workshop_dhs18">
+                GitHub
             </a>
         </div>
     </div>
 </div>
 <hr>
 
-<!-- <a name="/projects"></a>
+ <a name="/books"></a>
 
-# Side projects
-
+# Books
+<!--
 <div class="row">
     <div class="col-sm-12">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="http://aipaygrad.es">aipaygrad.es</a></h2>
