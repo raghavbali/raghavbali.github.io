@@ -63,6 +63,36 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
+            <a href="https://www.optum.com/"><img src="/img/logos/optum_logo.png"></a>
+        </div>
+        <div class="logo-desc">
+            Optum<br>
+            2017 - Present
+        </div>
+    </div>
+    <div class="col-xs-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="https://intel.in"><img src="/img/logos/intel_logo.png"></a>
+        </div>
+        <div class="logo-desc">
+            Intel<br>
+            2015 - 2017
+        </div>
+    </div>
+    <div class="col-xs-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="https://www.americanexpress.com/en-in/"><img src="/img/logos/amex_logo.jpg"></a>
+        </div>
+        <div class="logo-desc">
+            American Express<br>
+            2014 - 2015
+        </div>
+    </div>
+    <div class="col-xs-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
             <a href="//iiitb.ac.in"><img src="/img/logos/iiitb_logo.jpg"></a>
         </div>
         <div class="logo-desc">
