@@ -3,6 +3,7 @@ layout: post
 title:  "Linear Regression Part II"
 date:   2016-11-25 17:49:34 +0530
 categories: statistics
+excerpt:    "OLS Part 2"
 logo:       "/img/posts/ols/ols_final_plot.PNG"
 ---
 ## Regression Analysis

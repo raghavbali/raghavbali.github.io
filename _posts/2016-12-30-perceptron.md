@@ -177,6 +177,6 @@ For further reading, you may consult these resources
 
 
 [perceptron_notebook_snapshot]: {{site.baseurl}}/public/img//perceptron_notebook_snapshot.jpg "A snapshot from my notebook"
-[sample_dataset]: {{site.baseurl}}/public/img//sample_dataset.PNG "A snapshot from my notebook"
-[perceptron_schematic]: {{site.baseurl}}/public/img//perceptron_schematic.PNG "Visual representation of perceptron"
-[perceptron_output]: {{site.baseurl}}/public/img//perceptron_output.PNG "Output of Perceptron"
+[sample_dataset]: {{site.baseurl}}/posts/img/perceptron/sample_dataset.PNG "A snapshot from my notebook"
+[perceptron_schematic]: {{site.baseurl}}/posts/img/perceptron/perceptron_schematic.PNG "Visual representation of perceptron"
+[perceptron_output]: {{site.baseurl}}/posts/img/perceptron/perceptron_output.PNG "Output of Perceptron"
