@@ -158,33 +158,53 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 
 # Talks
 
-<!-- <div class="row">
+<div class="row">
     <div class="col-xs-6">
         <p class="talkd">
-            <img src="/img/talks/visdial_rl_iccv17.jpg">
+            <img src="/img/talks/talk_2019.jpeg">
         </p>
     </div>
     <div class="col-xs-6">
         <p class="talkd">
-            <img src="/img/talks/embodiedqa_cvpr18_4.jpg">
+            <img src="/img/talks/talk_2018.jpeg">
         </p>
     </div>
 </div>
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
-            <a target="_blank" href="https://slideslive.com/38928261/probing-emergent-semantics-in-predictive-agents-via-question-answering">
-                ICML 2020: Probing Emergent Semantics in Predictive Agents via Question Answering
+            <a target="_blank" href="https://github.com/raghavbali/nlp_starterpack_webinar">
+                2020, NLP Starter Pack, Analytics Vidhya Webinar
+            </a>|
+            <a target="_blank" href="https://www.facebook.com/watch/live/?v=337463904223866&ref=watch_permalink">
+            Video
             </a>
         </div>
         <div class="talkt">
-            <a target="_blank" href="https://slideslive.com/38917625/tarmac-targeted-multiagent-communication">
-                ICML 2019 Imitation, Intent, and Interaction Workshop:
-                Targeted Multi-Agent Communication
+            <a target="_blank" href="https://github.com/raghavbali/text_generation">
+                2020, Text Generation using Deep Learning, Springboard Webinar
+            </a>|
+            <a target="_blank" href="https://www.youtube.com/watch?v=vSN5Tn38ZIc&ab_channel=SpringboardIndia">
+            Video
+            </a>
+        </div>
+        <div class="talkt">
+            <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-synthetic-text-data-generation-using-rnn-based-deep-learning-models/">
+                2019, Hack Session: Synthetic Text Data Generation using Recurrent Neural Networks (RNN)
+            </a>
+        </div>
+        <div class="talkt">
+            <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/workshop-applied-machine-learning/">
+                2019, Workshop: Applied Machine Learning
+            </a>
+        </div>
+        <div class="talkt">
+            <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2018/2018/08/04/getting-started-with-natural-language-processing/">
+                2019, Workshop: Getting Started With Natural Language Processing
             </a>
         </div>
     </div>
-</div> -->
+</div>
 <hr>
 
 <!-- <a name="/projects"></a>
