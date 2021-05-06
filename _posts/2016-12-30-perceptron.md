@@ -21,8 +21,6 @@ A Perceptron is a very simple yet elegant algorithm which is proven to work give
 This algorithm carries a sort of special meaning for me personally as well. Perceptron happens to be the very first learning algorithm we discussed and implemented as part of our course Machine Learning 101 at IIIT-Bangalore. The following is a snapshot of my class notes (you may overlook the handwriting please). #nostalgia
 ![alt text][perceptron_notebook_snapshot]
 
-
-
 ## The Classic Perceptron
 
 A Perceptron is a Supervised Classification Algorithm. In its most basic and classic sense, it is a binary classifier which is proven to converge and find a classifier for linearly separable dataset.
