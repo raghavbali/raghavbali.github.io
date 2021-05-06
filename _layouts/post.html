@@ -1,25 +1,26 @@
 ---
 layout: default
 ---
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-<div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-</div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<article class="post">
+    <div class="row">
+        <div class="col-xs-12">
+            <h1 class="content">{{page.title}}</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <h2 class="excerpt">{{ page.excerpt }}</h2>
+        </div>
+    </div>
+    <section class="post-content">
+        {{ content }}
+    </section>
+    <div class="when">{{ page.date | date: "%d %B %Y" }}</div>
+    <div class='share'>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{site.url}}{{page.url}}" data-text="{{page.title}}" data-via="abhshkdz"></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <iframe allowTransparency='true' frameborder='0' scrolling='no' src='https://www.facebook.com/plugins/like.php?href={{site.url}}{{page.url}}&layout=button_count&show_faces=false&width=77&action=like&colorscheme=light&height=20' style='margin-left: 30px; border:none; overflow:hidden; width:100px; height:20px;'></iframe>
+    </div>
+    <hr>
+</article>
