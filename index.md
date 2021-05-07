@@ -41,7 +41,7 @@ permalink:  /
 
 # Bio
 
-Raghav Bali is a Senior Data Scientist at one the world's largest health care organization. His work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for Healthcare & Insurance related use cases. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
+Raghav Bali is a Senior Data Scientist at Optum(United HealthGroup), one the world's largest health care organizations. With about a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
