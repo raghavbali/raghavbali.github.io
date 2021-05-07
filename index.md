@@ -232,9 +232,21 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 
 # Books Reviewed
 <div class="row">
-
-  - [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
-  - [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
+    <div class="talkt">
+            <a target="_blank" href="https://www.amazon.in/Python-Machine-Learning-Example-scikit-learn/dp/1800209711">
+                Python Machine Learning By Example By Yuxi (Hayden) Liu - Third Edition
+            </a>
+    </div>
+    <div class="talkt">
+            <a target="_blank" href="https://www.linkedin.com/posts/activity-6611163258529423360-qzDY">
+                Python Machine Learning By Sebastian Raschka - 3rd Edition
+            </a>
+    </div>
+    <div class="talkt">
+            <a target="_blank" href="https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5">
+                Machine Learning with R by Brett Lantz - 3rd Edition
+            </a>
+    </div>
 </div>
 <hr>
 <a name="/talks"></a>
