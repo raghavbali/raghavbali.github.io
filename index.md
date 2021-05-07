@@ -154,6 +154,25 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </p>
 <hr>
 
+<a name="/books"></a>
+
+# Books
+
+<div class="row">
+    <div class="col-sm-6">
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="ttps://www.amazon.in/Hands-Transfer-Learning-Python-TensorFlow/dp/1788831306/ref=sr_1_1?crid=2B3KOSW5ZHL2V&keywords=transfer+learning+python&qid=1560081081&s=gateway&sprefix=Transfer+Learnin%2Caps%2C275&sr=8-1">Hands-On Transfer Learning with Python</a></h2>
+        <p class="talkd">
+            <a target="_blank" href="ttps://www.amazon.in/Hands-Transfer-Learning-Python-TensorFlow/dp/1788831306/ref=sr_1_1?crid=2B3KOSW5ZHL2V&keywords=transfer+learning+python&qid=1560081081&s=gateway&sprefix=Transfer+Learnin%2Caps%2C275&sr=8-1"><img style="margin-top: 10px;" src="/img/books/packt_TL.jpg"></a>
+        </p>
+    </div>
+    <div class="col-sm-6">
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/Practical-Machine-Learning-Python-Problem-Solvers-ebook/dp/B077G9XF7B/ref=sr_1_3?dchild=1&keywords=Practical+Machine+Learning+with+Python&qid=1620371405&sr=8-3">Practical Machine Learning with Python</a></h2>
+        <p class="talkd">
+            <a target="_blank" href="https://www.amazon.in/Practical-Machine-Learning-Python-Problem-Solvers-ebook/dp/B077G9XF7B/ref=sr_1_3?dchild=1&keywords=Practical+Machine+Learning+with+Python&qid=1620371405&sr=8-3"><img style="margin-top: 10px;" src="/img/books/apress_pml.jpg"></a>
+        </p>
+    </div>
+</div>
+
 <a name="/talks"></a>
 
 # Talks
@@ -210,29 +229,6 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     </div>
 </div>
 <hr>
-
- <a name="/books"></a>
-
-# Books
-<!--
-<div class="row">
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="http://aipaygrad.es">aipaygrad.es</a></h2>
-        <p class="talkd">
-            aipaygrad.es provides statistics of industry job offers in Artificial Intelligence (AI).
-            All data is anonymous, cross-verified against offer letters and will
-            hopefully reduce information asymmetry.
-            <a target="_blank" href="http://aipaygrad.es"><img style="margin-top: 10px;" src="/img/projects/ai-paygrades.png"></a>
-        </p>
-    </div>
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="http://aideadlin.es">aideadlin.es</a></h2>
-        <p class="talkd">
-            aideadlin.es is a webpage to keep track of CV/NLP/ML/AI conference deadlines. It's hosted on GitHub, and countdowns are automatically updated via pull requests to the data file in the repo.
-            <a target="_blank" href="http://aideadlin.es"><img style="margin-top: 10px;" src="/img/projects/ai-deadlines-1547012831.png"></a>
-        </p>
-    </div>
-</div> -->
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
