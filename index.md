@@ -11,7 +11,9 @@ permalink:  /
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Senior Data Scientist<br>
         Optum (United HealthGroup)<br>
-        <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a>
+        <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
+        <a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
+        <a target="_blank" href="https://www.instagram.com/raghavbali/">Instgram</a><br>
     </div>
 </div>
 <hr>
@@ -86,7 +88,7 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
 
 During Masters, I've taken up exciting and challenging courses related to Machine Learning, Software Architecture, Advanced Algorithms and Operating systems. I also worked on a number of large scale projects such as <i>Language Recognizer for Indian Languages </i>, <i>Hierarchical Document Clustering System</i>, <i>Bitcoin Payments based Cloud Provisioning Platform</i> and so on.
 
-On the side, I am a technology enthusiast who loves reading and playing around with new gadgets and technologies. I am a shutterbug  capturing moments when he isn’t busy solving problems, checkout his [instagram](https://www.instagram.com/raghavbali/).
+On the side, I am a technology enthusiast who loves reading and playing around with new gadgets and technologies. I am a shutterbug who likes capturing moments, checkout my [instagram](https://www.instagram.com/raghavbali/) and [vsco](https://vsco.co/raghavbali/gallery).
 
 [Occassional Blog Posts](/blog)
 
@@ -228,7 +230,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     </div>
 </div>
 
-## Books Reviewed
+# Books Reviewed
   - [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
   - [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
 
