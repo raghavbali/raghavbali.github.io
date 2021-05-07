@@ -13,7 +13,7 @@ permalink:  /
         Optum (United HealthGroup)<br>
         <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
         <a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
-        <a target="_blank" href="https://www.instagram.com/raghavbali/">Instgram</a><br>
+        <a target="_blank" href="https://www.instagram.com/raghavbali/">Instagram</a><br>
     </div>
 </div>
 <hr>
@@ -231,9 +231,11 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </div>
 
 # Books Reviewed
+<div class="row">
+
   - [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
   - [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
-
+</div>
 <hr>
 <a name="/talks"></a>
 
