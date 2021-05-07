@@ -227,8 +227,8 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </div>
 
 ## Books Reviewed
-+ [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
-+ [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
+  + [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
+  + [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
 
 <a name="/talks"></a>
 
