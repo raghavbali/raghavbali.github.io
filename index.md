@@ -160,12 +160,14 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <div class="row">
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/gp/product/B0922PCNPS/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">Generative AI with Python and TensorFlow 2</a></h2>
+        <span class="conf"><a href="https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.amazon.in/gp/product/B0922PCNPS/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0"><img style="margin-top: 10px;" src="/img/books/packt_gai.jpg"></a>
         </p>
     </div>
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/Hands-Transfer-Learning-Python-TensorFlow/dp/1788831306/ref=sr_1_1?crid=2B3KOSW5ZHL2V&keywords=transfer+learning+python&qid=1560081081&s=gateway&sprefix=Transfer+Learnin%2Caps%2C275&sr=8-1">Hands-On Transfer Learning with Python</a></h2>
+        <span class="conf"><a href="https://github.com/raghavbali/hands-on-transfer-learning-with-python">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.amazon.in/Hands-Transfer-Learning-Python-TensorFlow/dp/1788831306/ref=sr_1_1?crid=2B3KOSW5ZHL2V&keywords=transfer+learning+python&qid=1560081081&s=gateway&sprefix=Transfer+Learnin%2Caps%2C275&sr=8-1"><img style="margin-top: 10px;" src="/img/books/packt_TL.jpg"></a>
         </p>
@@ -174,6 +176,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <div class="row">
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/Practical-Machine-Learning-Python-Problem-Solvers-ebook/dp/B077G9XF7B/ref=sr_1_3?dchild=1&keywords=Practical+Machine+Learning+with+Python&qid=1620371405&sr=8-3">Practical Machine Learning with Python</a></h2>
+        <span class="conf"><a href="https://github.com/raghavbali/practical-machine-learning-with-python">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.amazon.in/Practical-Machine-Learning-Python-Problem-Solvers-ebook/dp/B077G9XF7B/ref=sr_1_3?dchild=1&keywords=Practical+Machine+Learning+with+Python&qid=1620371405&sr=8-3"><img style="margin-top: 10px;" src="/img/books/apress_pml.jpg"></a>
         </p>
@@ -194,6 +197,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     </div>
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.com/Learning-Social-Media-Analytics-actionable/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1509264422&sr=8-1&keywords=learning+social+media+analytics+with+R">Learning Social Media Analytics with R</a></h2>
+        <span class="conf"><a href="https://github.com/raghavbali/learning-social-media-analytics-with-r">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.amazon.com/Learning-Social-Media-Analytics-actionable/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1509264422&sr=8-1&keywords=learning+social+media+analytics+with+R"><img style="margin-top: 10px;" src="/img/books/packt_sma_r.jpg"></a>
         </p>
@@ -202,6 +206,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <div class="row">
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/Machine-Learning-Example-Raghav-Bali-ebook/dp/B01A14X6KA">R Machine Learning by Example</a></h2>
+        <span class="conf"><a href="https://github.com/raghavbali/r_machine_learning_by_example">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.amazon.in/Machine-Learning-Example-Raghav-Bali-ebook/dp/B01A14X6KA"><img style="margin-top: 10px;" src="/img/books/packt_rml.jpg"></a>
         </p>
