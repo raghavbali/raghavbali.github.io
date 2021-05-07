@@ -11,6 +11,7 @@ permalink:  /
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Senior Data Scientist<br>
         Optum (United HealthGroup)<br>
+        <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a>
     </div>
 </div>
 <hr>
@@ -44,7 +45,7 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://www.optum.com/"><img src="/img/logos/optum_logo.png"></a>
+            <a target="_blank" href="https://www.optum.com/"><img src="/img/logos/optum_logo.png"></a>
         </div>
         <div class="logo-desc">
             Optum<br>
@@ -54,7 +55,7 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://intel.in"><img src="/img/logos/intel_logo.png"></a>
+            <a target="_blank" href="https://intel.in"><img src="/img/logos/intel_logo.png"></a>
         </div>
         <div class="logo-desc">
             Intel<br>
@@ -64,7 +65,7 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://www.americanexpress.com/en-in/"><img src="/img/logos/amex_logo.jpg"></a>
+            <a target="_blank" href="https://www.americanexpress.com/en-in/"><img src="/img/logos/amex_logo.jpg"></a>
         </div>
         <div class="logo-desc">
             American Express<br>
@@ -74,7 +75,7 @@ Raghav Bali is a Senior Data Scientist at one the world's largest health care or
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iiitb.ac.in"><img src="/img/logos/iiitb_logo.jpg"></a>
+            <a target="_blank" href="//iiitb.ac.in"><img src="/img/logos/iiitb_logo.jpg"></a>
         </div>
         <div class="logo-desc">
             IIIT Bangalore<br>
