@@ -154,13 +154,14 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </p>
 <hr>
 
-## Articles
-  + [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
-  + [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
-  + [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
-  + [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
-  + [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
+# Articles
+  - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
+  - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
+  - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
+  - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
+  - [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
 
+<hr>
 <a name="/books"></a>
 
 # Books
@@ -227,9 +228,10 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </div>
 
 ## Books Reviewed
-  + [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
-  + [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
+  - [Python Machine Learning By Sebastian Raschka - 3rd Edition](https://www.linkedin.com/posts/activity-6611163258529423360-qzDY)
+  - [Machine Learning with R by Brett Lantz - 3rd Edition](https://www.linkedin.com/posts/baliraghav_machinelearning-datascience-datamining-activity-6549159041422192640-8PH5)
 
+<hr>
 <a name="/talks"></a>
 
 # Talks
