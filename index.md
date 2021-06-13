@@ -21,6 +21,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [2021] Innovation Award H1, Optum
 - [2020] Runner's Up, Global Data Science Hackathon, Optum
 - [2020] Award for Exemplary Leadership, Optum
 - [2018] Runner's Up, Global Data Science Hackathon, Optum
