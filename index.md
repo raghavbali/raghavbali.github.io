@@ -105,7 +105,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     <span class="authors">Kartik Chaudhary and Raghav Bali</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2008.07839">Preprint Paper</a>
-        <a target="_blank" href="#">Peer Reviewed Version</a>
+        <a target="_blank" href="https://caiac.pubpub.org/pub/fm5sy88o">Peer Reviewed Version</a>
     </span>
 </p>
 <img src="/img/pubs/easter_arch.jpg">
@@ -118,7 +118,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     <span class="authors">Subhadip Maji, Raghav Bali, Sree Harsha Ankem and Kishore V Ayyadevara</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2007.13351">Preprint Paper</a>
-        <a target="_blank" href="#">Peer Reviewed Version</a>
+        <a target="_blank" href="https://caiac.pubpub.org/pub/od0e1bry">Peer Reviewed Version</a>
     </span>
 </p>
 <img src="/img/pubs/shap_all.jpg">
