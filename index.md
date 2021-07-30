@@ -160,6 +160,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <hr>
 
 # Articles
+  - [Towards DataScience: LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
   - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
   - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
   - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
@@ -319,7 +320,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
-    $('ul:gt(0) li:gt(12)').hide();
+    $('ul:gt(0) li:gt(24)').hide();
     $('#read-more-button > a').click(function() {
         $('ul:gt(0) li:gt(12)').show();
         $('#read-more-button').hide();
