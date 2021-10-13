@@ -21,6 +21,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [2021] Runner's Up, Global Data Science Hackathon, Optum
 - [2021] Awarded Honory title of __Senior Inventor__ for several contributions to patent program in 2020, Optum
 - [2021] Innovation Award Winner for Q1 2021, Optum
 - [2020] Runner's Up, Global Data Science Hackathon, Optum
@@ -160,7 +161,8 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <hr>
 
 # Articles
-  - [Towards DataScience: Supercharge your Image Search with Transfer Learning](hhttps://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb)
+  - [Towards DataScience: Supercharge Image Classification with Transfer Learning](https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c)
+  - [Towards DataScience: Supercharge your Image Search with Transfer Learning](https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb)
   - [Towards DataScience: LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
   - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
   - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
@@ -277,6 +279,30 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </div>
 <div class="row">
     <div class="col-xs-12">
+        <div class="talkt">
+            <a target="_blank" href="https://github.com/raghavbali/transfer-learning-in-action/tree/master/chapter_1">
+                2021, Image Classification with Transfer Learning, Manning Publications Twitch Live-Stream
+            </a>|
+            <a target="_blank" href="https://www.twitch.tv/videos/1170692362">
+            Video
+            </a>
+        </div>
+        <div class="talkt">
+            <a target="_blank" href="https://github.com/raghavbali/data_ketchup_gans">
+                2021, Image Generation with GANs, Kaggle Data Ketchup
+            </a>|
+            <a target="_blank" href="https://www.youtube.com/watch?v=J_33jSkFQis&ab_channel=KaggleDaysMeetupDelhiNCR">
+            Video
+            </a>
+        </div>
+        <div class="talkt">
+            <a target="_blank" href="https://github.com/raghavbali/deep_fakes_tutorial">
+                2021, The Secret Ingredients to Train DeepFakes, ODSC APAC
+            </a>|
+            <a target="_blank" href="https://register.gotowebinar.com/register/7432238325978557965">
+            Video
+            </a>
+        </div>
         <div class="talkt">
             <a target="_blank" href="https://github.com/raghavbali/nlp_starterpack_webinar">
                 2020, NLP Starter Pack, Analytics Vidhya Webinar
