@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "f3702125c622ac18",
+    "type": "split",
+    "children": [
+      {
+        "id": "26877664c444dc7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "prep/interviews/ms_round2_112420.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bebbd67457d6732f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b109cb3e06fb2399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bca65d794aeafb26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e61c04fe1acaebbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cloud",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "012b7789e4be6fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4731ecb27f334e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98f6807c92f6774",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prep/interviews/ms_round2_112420.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76c6047fca36ab05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f53615574d48be4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "26877664c444dc7f",
+  "lastOpenFiles": [
+    "prep/interviews/ms_round2_112420.md.md",
+    "notes/2021-12-07.md",
+    "learn_stuff/Stuff Learnt.md",
+    "notes/2021-12-04.md",
+    "prep/interviews/ms_round1_102021.md.md",
+    "notes/2021-11-25.md",
+    "prep/interviews/dh_08032021.md.md",
+    "notes/2021-11-24.md",
+    "index.md.md",
+    "prep/data_science/random forest.md"
+  ]
+}
