@@ -176,7 +176,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 # Books
 <div class="row">
     <div class="col-sm-6">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335">Transfer Learning in Action</a></h2>
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335">~~Transfer Learning in Action~~</a>(discontinued)</h2>
         <span class="conf"><a href="https://github.com/raghavbali/transfer-learning-in-action">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335"><img style="margin-top: 10px;" src="/img/books/manning_tla.jpg"></a>
