@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "26877664c444dc7f",
+        "id": "69b64eeb73b41594",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "prep/interviews/ms_round2_112420.md.md",
+            "file": "notes/2021-12-11.md",
             "mode": "source"
           }
         }
@@ -39,11 +39,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cloud",
+                "query": "tag:#recommendation",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
+                "collapseAll": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prep/interviews/ms_round2_112420.md.md",
+                "file": "notes/2021-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,23 +99,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "26877664c444dc7f",
+  "active": "69b64eeb73b41594",
   "lastOpenFiles": [
-    "prep/interviews/ms_round2_112420.md.md",
-    "notes/2021-12-07.md",
-    "learn_stuff/Stuff Learnt.md",
-    "notes/2021-12-04.md",
-    "prep/interviews/ms_round1_102021.md.md",
-    "notes/2021-11-25.md",
+    "notes/2021-12-11.md",
+    "prep/interviews/ms_round4_120821.md.md",
     "prep/interviews/dh_08032021.md.md",
-    "notes/2021-11-24.md",
-    "index.md.md",
-    "prep/data_science/random forest.md"
+    "notes/2021-12-08.md",
+    "notes/2021-12-07.md",
+    "notes/2021-12-04.md",
+    "prep/data_science/bias variance tradeoff.md",
+    "prep/interviews/ms_round2_112421.md.md",
+    "prep/interviews/ms_round3_120721.md.md",
+    "learn_stuff/Stuff Learnt.md"
   ]
 }
