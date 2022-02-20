@@ -9,8 +9,8 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Senior Manager Data Science<br>
-        Optum (United HealthGroup)<br>
+        Senior Data Scientist<br>
+        Delivery Hero SE<br>
         <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
         <a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
         <a target="_blank" href="https://www.instagram.com/raghavbali/">Instagram</a><br>
@@ -44,9 +44,19 @@ permalink:  /
 
 # Bio
 
-Raghav Bali is a Senior Manager Data Science at Optum(United HealthGroup), one the world's largest health care organizations. With about a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
+Raghav Bali is a Senior Data Scientist at Delivery Hero, one the world's leading food delivery servicebased out of Berlin, Germany. With about a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
 
 <div class="row" id="timeline-logos">
+    <div class="col-xs-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a target="_blank" href="https://www.deliveryhero.com/"><img src="/img/logos/dh_logo.png"></a>
+        </div>
+        <div class="logo-desc">
+            Optum<br>
+            2022 - Present
+        </div>
+    </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
@@ -54,7 +64,7 @@ Raghav Bali is a Senior Manager Data Science at Optum(United HealthGroup), one t
         </div>
         <div class="logo-desc">
             Optum<br>
-            2017 - Present
+            2017 - 2022
         </div>
     </div>
     <div class="col-xs-3">
