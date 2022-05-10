@@ -143,7 +143,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <span class="conf">IEEE SSCI 2021</span><br>
     <span class="authors">Subhadip Maji, Anudeeo S Appe, Raghav Bali, Veera R Chikka, Arijit G Chowdhury, Vamsi M Bhandaru</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/pdf/2008.02347">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2008.02347">Preprint Paper</a>
         <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9643310">Published Version</a>
     </span>
 </p>
