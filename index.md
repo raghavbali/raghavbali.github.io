@@ -87,7 +87,7 @@ Raghav Bali is a Senior Data Scientist at Delivery Hero, one the world's leading
             2014 - 2015
         </div>
     </div>
-    <div class="col-xs-3">
+    <!-- <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//iiitb.ac.in"><img src="/img/logos/iiitb_logo.jpg"></a>
@@ -96,7 +96,7 @@ Raghav Bali is a Senior Data Scientist at Delivery Hero, one the world's leading
             IIIT Bangalore<br>
             2012 - 2014
         </div>
-    </div>
+    </div> -->
 </div>
 
 During Masters, I've taken up exciting and challenging courses related to Machine Learning, Software Architecture, Advanced Algorithms and Operating systems. I also worked on a number of large scale projects such as <i>Language Recognizer for Indian Languages </i>, <i>Hierarchical Document Clustering System</i>, <i>Bitcoin Payments based Cloud Provisioning Platform</i> and so on.
@@ -185,13 +185,13 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 
 # Books
 <div class="row">
-    <div class="col-sm-6">
+    <!-- <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335"><del>Transfer Learning in Action</del></a>(discontinued)</h2>
         <span class="conf"><a href="https://github.com/raghavbali/transfer-learning-in-action">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335"><img style="margin-top: 10px;" src="/img/books/manning_tla.jpg"></a>
         </p>
-    </div>
+    </div> -->
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/gp/product/B0922PCNPS/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">Generative AI with Python and TensorFlow 2</a></h2>
         <span class="conf"><a href="https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2">Github</a></span>
