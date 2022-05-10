@@ -9,7 +9,7 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Senior Data Scientist<br>
+        Staff Data Scientist<br>
         Delivery Hero SE<br>
         <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
         <a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
@@ -118,7 +118,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     <span class="authors">Kartik Chaudhary and Raghav Bali</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2008.07839">Preprint Paper</a>
-        <a target="_blank" href="https://caiac.pubpub.org/pub/fm5sy88o">Peer Reviewed Version</a>
+        <a target="_blank" href="https://caiac.pubpub.org/pub/fm5sy88o">Published Version</a>
     </span>
 </p>
 <img src="/img/pubs/easter_arch.jpg">
@@ -131,7 +131,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     <span class="authors">Subhadip Maji, Raghav Bali, Sree Harsha Ankem and Kishore V Ayyadevara</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2007.13351">Preprint Paper</a>
-        <a target="_blank" href="https://caiac.pubpub.org/pub/od0e1bry">Peer Reviewed Version</a>
+        <a target="_blank" href="https://caiac.pubpub.org/pub/od0e1bry">Published Version</a>
     </span>
 </p>
 <img src="/img/pubs/shap_all.jpg">
@@ -140,9 +140,11 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <a name="/rfp1"></a>
 <h2 class="pubt">An Interpretable Deep Learning System for Automatically Scoring Request for Proposals</h2>
 <p class="pubd">
+<span class="conf">IEEE SSCI 2021</span><br>
     <span class="authors">Subhadip Maji, Anudeeo S Appe, Raghav Bali, Veera R Chikka, Arijit G Chowdhury, Vamsi M Bhandaru</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2008.02347">Paper</a>
+        <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9643310">Published Version</a>
     </span>
 </p>
 <img src="/img/pubs/rfp1.png">
@@ -151,9 +153,11 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <a name="/rfp2"></a>
 <h2 class="pubt">Exclusion and Inclusion--A model agnostic approach to feature importance in DNNs</h2>
 <p class="pubd">
+<span class="conf">IEEE ICTAI 2021</span><br>
     <span class="authors">Subhadip Maji, Arijit Ghosh Chowdhury, Raghav Bali, Vamsi M Bhandaru</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/pdf/2007.16010">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2007.16010">Preprint Paper</a>
+        <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9659843">Published Version</a>
     </span>
 </p>
 <img src="/img/pubs/rfp2.png">
@@ -165,7 +169,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     <span class="authors">Tamoghna Ghosh, Dipanjan Sarkar, Tushar Sharma, Ashok Desai, Raghav Bali</span><br>
     <span class="conf">IEEE Smart Data (SmartData) 2016</span><br>
     <span class="links">
-        <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/7917199">Paper</a>
+        <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/7917199">Published Version</a>
     </span>
 </p>
 <hr>
