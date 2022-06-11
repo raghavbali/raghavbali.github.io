@@ -21,6 +21,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
 - [2021] Runner's Up, Global Data Science Hackathon, Optum
 - [2021] Awarded Honory title of __Senior Inventor__ for several contributions to patent program in 2020, Optum
 - [2021] Innovation Award Winner for Q1 2021, Optum
@@ -187,6 +188,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <hr>
 
 # Articles
+  - [PyDev of the Week](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
   - [Towards DataScience: Supercharge Image Classification with Transfer Learning](https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c)
   - [Towards DataScience: Supercharge your Image Search with Transfer Learning](https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb)
   - [Towards DataScience: LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
