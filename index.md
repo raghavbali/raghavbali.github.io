@@ -44,7 +44,7 @@ permalink:  /
 
 # Bio
 
-Raghav Bali is a Data Scientist at Delivery Hero, one the world's leading food delivery servicebased out of Berlin, Germany. With about a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
+Raghav Bali is a Data Scientist at Delivery Hero, one the world's leading food delivery service based out of Berlin, Germany. With about a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
@@ -110,6 +110,18 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <a name="/publications"></a>
 
 # Publications
+<a name="/easter2"></a>
+<h2 class="pubt">Easter2.0: Improving Convolutional Models for Handwritten Text Recognition</h2>
+<p class="pubd">
+<!-- <span class="conf">CAIAC 2021</span><br> -->
+    <span class="authors">Kartik Chaudhary and Raghav Bali</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/pdf/2205.14879">Preprint Paper</a>
+        <!-- <a target="_blank" href="https://caiac.pubpub.org/pub/fm5sy88o">Published Version</a> -->
+    </span>
+</p>
+<img src="/img/pubs/easter2_arch.png">
+<hr>
 
 <a name="/easter"></a>
 <h2 class="pubt">EASTER: Simplifying Text Recognition using only 1D Convolutions</h2>
