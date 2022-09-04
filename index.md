@@ -308,6 +308,14 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
+            <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
+                2022, NLP Workshop on Text Classification, 1729 Conference with Analytics Vidhya
+            </a>|
+            <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
+            Github
+            </a>
+        </div>
+        <div class="talkt">
             <a target="_blank" href="https://github.com/raghavbali/transfer-learning-in-action/tree/master/chapter_1">
                 2021, Image Classification with Transfer Learning, Manning Publications Twitch Live-Stream
             </a>|
