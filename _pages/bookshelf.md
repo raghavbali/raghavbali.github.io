@@ -14,7 +14,8 @@ permalink:  /bookshelf/
     }
 </style>
 
-- __[Currently Reading: Shantaram](https://www.goodreads.com/book/show/33600.Shantaram)__
+- __&#128214; [The Power of Mathematical Thinking](https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong) &#128214;__
+- [Shantaram](https://www.goodreads.com/book/show/33600.Shantaram)
 - [Origin](https://www.goodreads.com/book/show/32315293-origin)
 - [Fountain Head](https://www.goodreads.com/book/show/2122.The_Fountainhead)
 - [A Thousand Splendid Suns](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
@@ -51,14 +52,17 @@ What are you reading currently? [Let me know!](https://twitter.com/rghv_bali)
     overflow: hidden;
 }
 </style>
-
- <div id="gr_grid_widget_1654948009">
-        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-    <div class="gr_grid_container">
-        <div class="gr_grid_book_container"><a title="Origin (Robert Langdon, #5)" rel="nofollow" href="https://www.goodreads.com/book/show/32315293-origin"><img alt="Origin" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498794232l/32315293._SX98_.jpg" /></a></div>
+<div id="gr_grid_widget_1678646552">
+<!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+<h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/87723774-raghav-bali?shelf=read&utm_medium=api&utm_source=grid_widget">Raghav's bookshelf: read</a>
+</h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="Shantaram" rel="nofollow" href="https://www.goodreads.com/book/show/33600.Shantaram"><img alt="Shantaram" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333482282l/33600._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Origin (Robert Langdon, #5)" rel="nofollow" href="https://www.goodreads.com/book/show/32315293-origin"><img alt="Origin" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498794232l/32315293._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Fountainhead" rel="nofollow" href="https://www.goodreads.com/book/show/2122.The_Fountainhead"><img alt="The Fountainhead" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491163636l/2122._SY160_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Sapiens: A Brief History of Humankind" rel="nofollow" href="https://www.goodreads.com/book/show/23692271-sapiens"><img alt="Sapiens: A Brief History of Humankind" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="A Thousand Splendid Suns" rel="nofollow" href="https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns"><img alt="A Thousand Splendid Suns" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345958969l/128029._SX98_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="A Thousand Splendid Suns" rel="nofollow" href="https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns"><img alt="A Thousand Splendid Suns" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655336738l/128029._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Time Keeper" rel="nofollow" href="https://www.goodreads.com/book/show/13624688-the-time-keeper"><img alt="The Time Keeper" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340478576l/13624688._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Last Lecture" rel="nofollow" href="https://www.goodreads.com/book/show/40611510-the-last-lecture"><img alt="The Last Lecture" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529682044l/40611510._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" rel="nofollow" href="https://www.goodreads.com/book/show/25541028-elon-musk"><img alt="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg" /></a></div>
@@ -74,8 +78,11 @@ What are you reading currently? [Let me know!](https://twitter.com/rghv_bali)
     <div class="gr_grid_book_container"><a title="Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series)" rel="nofollow" href="https://www.goodreads.com/book/show/19788662-design-patterns"><img alt="Design Patterns: Elements of Reusable Object-Oriented Software" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387710475l/19788662._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Rage of Angels" rel="nofollow" href="https://www.goodreads.com/book/show/43328.Rage_of_Angels"><img alt="Rage of Angels" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356445383l/43328._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Girl with the Dragon Tattoo (Millennium, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo"><img alt="The Girl with the Dragon Tattoo" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135._SX98_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="The Sky is Falling" rel="nofollow" href="https://www.goodreads.com/book/show/43327.The_Sky_is_Falling"><img alt="The Sky is Falling" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353302273l/43327._SX98_.jpg" /></a></div>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/87723774-raghav-bali">Raghav Bali's favorite books »</a>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Raghav, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
+
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/87723774.Raghav's%20bookshelf:%20read?cover_size=small&hide_link=&hide_title=&num_books=20&order=d&shelf=read&sort=date_read&widget_id=1654948009" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/87723774.Raghav's%20bookshelf:%20read?cover_size=medium&hide_link=&hide_title=&num_books=20&order=d&shelf=read&sort=date_read&widget_id=1678646552" type="text/javascript" charset="utf-8"></script>
+
 
