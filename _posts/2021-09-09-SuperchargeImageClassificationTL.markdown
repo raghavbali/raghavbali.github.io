@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Supercharge Image Classification with Transfer Learning"
-date:   2021-09-2709 13:00:34 +0530
+date:   2021-09-09 13:00:34 +0530
 categories: general
 excerpt:    "Image Classification using BiT Models"
 ---
