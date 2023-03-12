@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Perceptron"
+title:  "Classification using Percentron"
 date:   2016-12-30 10:22:34 +0530
-categories: ml
+categories: general
 excerpt:    "The meaning of the word perceptron as per the English dictionary is "a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate"
 ---
 
