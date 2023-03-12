@@ -277,6 +277,11 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
+                <a target="_blank" href="https://www.amazon.com/Deep-Learning-TensorFlow-Keras-reinforcement/dp/1803232919">
+                    Deep Learning with TensorFlow and Keras By Antonio Gulli et. al. - Third Edition
+                </a>
+        </div>
+        <div class="talkt">
                 <a target="_blank" href="https://www.amazon.in/Python-Machine-Learning-Example-scikit-learn/dp/1800209711">
                     Python Machine Learning By Example By Yuxi (Hayden) Liu - Third Edition
                 </a>
@@ -307,6 +312,14 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </div>
 <div class="row">
     <div class="col-xs-12">
+        <div class="talkt">
+                <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
+                    2022, Image Generation with GANs with ODSC India
+                </a>|
+                <a target="_blank" href="https://github.com/raghavbali/gan_tutorial">
+                Github
+                </a>
+        </div>
         <div class="talkt">
             <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
                 2022, NLP Workshop on Text Classification, 1729 Conference with Analytics Vidhya
