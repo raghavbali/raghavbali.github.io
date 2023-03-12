@@ -20,6 +20,6 @@ The following is an outline of our workflow for this walk-through:
 - Listen to the beat! Let’s hear out a few samples our model generates
 
 <!--more-->
-This article was featured on [Towards DataScience on medium](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35) platform. Read the full article on the [medium website](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
+This article was featured on [Towards DataScience on medium](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35). Read the full article on the [medium website](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
 
 ---
