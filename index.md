@@ -304,7 +304,12 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 # Talks
 
 <div class="row">
-    <div class="col-xs-12">
+    <div class="col-xs-6">
+        <p class="talkd">
+            <img src="/img/talks/talk_2023.jpg">
+        </p>
+    </div>
+    <div class="col-xs-6">
         <p class="talkd">
             <img src="/img/talks/talk_2019.jpeg">
         </p>
@@ -312,6 +317,30 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </div>
 <div class="row">
     <div class="col-xs-12">
+        <div class="talkt">
+                <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
+                    2023, ODSC APAC Session: Generative AI Landscape
+                </a>|
+                <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
+                Github
+                </a>
+        </div>
+        <div class="talkt">
+                <a target="_blank" href="https://github.com/raghavbali/llm_workshop_dhs23">
+                    2023, Analytics Vidhya DataHack Summit Workshop: Natural Language Processing using Generative Models
+                </a>|
+                <a target="_blank" href="https://github.com/raghavbali/llm_workshop_dhs23">
+                Github
+                </a>
+        </div>
+        <div class="talkt">
+                <a target="_blank" href="https://github.com/raghavbali/building_robust_recsys_dhs23">
+                    2023, Analytics Vidhya DataHack Summit Hack Session: Building Robust and Scalable Recommendation Systems for Online Food Delivery
+                </a>|
+                <a target="_blank" href="https://github.com/raghavbali/building_robust_recsys_dhs23">
+                Github
+                </a>
+        </div>
         <div class="talkt">
                 <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
                     2022, Image Generation with GANs with ODSC India
