@@ -21,6 +21,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)
 - [2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
 - [2021] Runner's Up, Global Data Science Hackathon, Optum
 - [2021] Awarded Honory title of __Senior Inventor__ for several contributions to patent program in 2020, Optum
@@ -323,6 +324,14 @@ On the side, I am a technology enthusiast who loves reading and playing around w
                 </a>|
                 <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
                 Github
+                </a>
+        </div>
+        <div class="talkt">
+                <a target="_blank" href="https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications">
+                    2023, ON-DEMAND WEBINAR: Lightning Interview "Hands-On Generative AI Applications"
+                </a>|
+                <a target="_blank" href="https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications">
+                ODSC On-Demand
                 </a>
         </div>
         <div class="talkt">
