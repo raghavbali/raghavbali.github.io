@@ -46,7 +46,7 @@ permalink:  /
 
 # Bio
 
-Raghav Bali is a Data Scientist at Delivery Hero, one the world's leading food delivery service based out of Berlin, Germany. With about a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
+Raghav Bali is a Data Scientist at Delivery Hero, one the world's leading food delivery service based out of Berlin, Germany. With over a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
@@ -112,6 +112,17 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <a name="/publications"></a>
 
 # Publications
+<a name="/dhrd"></a>
+<h2 class="pubt">Delivery Hero Recommendation Dataset: A Novel Dataset for Benchmarking Recommendation Algorithms</h2>
+<p class="pubd">
+<span class="conf">ACM Recsys 2023</span><br> 
+    <span class="authors">Yernat Assylbekov, Raghav Bali, Luke Bovard and Christian Klaue.</span><br>
+    <span class="links">
+        <a target="_blank" href="https://dl.acm.org/doi/10.1145/3604915.3610242">Published Version</a>
+    </span>
+</p>
+<img src="/img/pubs/easter2_arch.png">
+<hr>
 <a name="/easter2"></a>
 <h2 class="pubt">Easter2.0: Improving Convolutional Models for Handwritten Text Recognition</h2>
 <p class="pubd">
@@ -122,7 +133,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         <!-- <a target="_blank" href="https://caiac.pubpub.org/pub/fm5sy88o">Published Version</a> -->
     </span>
 </p>
-<img src="/img/pubs/easter2_arch.png">
+<img src="/img/pubs/DHRD.png">
 <hr>
 
 <a name="/easter"></a>
