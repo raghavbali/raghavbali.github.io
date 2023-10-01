@@ -121,7 +121,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         <a target="_blank" href="https://dl.acm.org/doi/10.1145/3604915.3610242">Published Version</a>
     </span>
 </p>
-<img src="/img/pubs/easter2_arch.png">
+<img src="/img/pubs/DHRD.png">
 <hr>
 <a name="/easter2"></a>
 <h2 class="pubt">Easter2.0: Improving Convolutional Models for Handwritten Text Recognition</h2>
@@ -133,7 +133,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         <!-- <a target="_blank" href="https://caiac.pubpub.org/pub/fm5sy88o">Published Version</a> -->
     </span>
 </p>
-<img src="/img/pubs/DHRD.png">
+<img src="/img/pubs/easter2_arch.png">
 <hr>
 
 <a name="/easter"></a>
