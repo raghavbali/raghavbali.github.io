@@ -11,9 +11,12 @@ permalink:  /
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Staff Data Scientist<br>
         Delivery Hero SE<br>
-        <a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
-        <a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
-        <a target="_blank" href="https://www.instagram.com/raghavbali/">Instagram</a><br>
+        <i class="bi bi-linkedin"></i>&nbsp;<a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
+        <i class="bi bi-github"></i>&nbsp;<a target="_blank" href="https://github.com/raghavbali">GitHub</a><br>
+        <i class="bi bi-google"></i>&nbsp;<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=3oLGqC0AAAAJ">Google Scholar</a><br>
+        <i class="bi bi-medium"></i>&nbsp;<a target="_blank" href="https://medium.com/@Rghv_Bali">Medium</a><br>
+        <i class="bi bi-twitter"></i>&nbsp;<a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
+        <i class="bi bi-instagram"></i>&nbsp;<a target="_blank" href="https://www.instagram.com/raghavbali/">Instagram</a><br>
     </div>
 </div>
 <hr>
@@ -110,9 +113,9 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 
 ---
 
-<a name="/publications"></a>
+<a name="/papers"></a>
 
-# Publications
+# Papers
 <a name="/dhrd"></a>
 <h2 class="pubt">Delivery Hero Recommendation Dataset: A Novel Dataset for Benchmarking Recommendation Algorithms</h2>
 <p class="pubd">
@@ -200,20 +203,8 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </p>
 <hr>
 
-# Articles
-  - [PyDev of the Week](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
-  - [Towards DataScience: Supercharge Image Classification with Transfer Learning](https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c)
-  - [Towards DataScience: Supercharge your Image Search with Transfer Learning](https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb)
-  - [Towards DataScience: LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
-  - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
-  - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
-  - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
-  - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
-  - [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
 
-<hr>
 <a name="/books"></a>
-
 # Books
 <div class="row">
     <!-- <div class="col-sm-6">
@@ -312,6 +303,71 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     </div>
 </div>
 <hr>
+
+<a name="/patents"></a>
+
+# Patents
+<a name="/patent1"></a>
+<h2 class="pubt">Cybersecurity for sensitive-information utterances in interactive voice sessions</h2>
+<p class="pubd">
+<span class="conf">US11854553B2</span><br> 
+    <span class="authors">Devikiran Ramadas;Gregory J Boss;Ninad Sathaye;<b>Raghav Bali</b>;Nitin Dwivedi</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US11854553B2/en?inventor=Raghav+Bali">Granted</a>
+    </span>
+</p>
+<hr>
+<a name="/patent2"></a>
+<h2 class="pubt">Machine learning techniques for natural language processing using predictive entity scoring</h2>
+<p class="pubd">
+<span class="conf">US11853700B1</span><br> 
+    <span class="authors">Nathan H. Funk;Eric D. Tryon;Amy L. Jensen;Sudheer Ponnala;M. P. S. Jagannadha Rao;<b>Raghav Bali</b>;Veera Raghavendra Chikka;Subhadip Maji;Anudeep Srivatsav Appe</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US11853700B1/en?inventor=Raghav+Bali">Granted</a>
+    </span>
+</p>
+<hr>
+<a name="/patent3"></a>
+<h2 class="pubt">Dynamic triggering of augmented reality assistance mode functionalities</h2>
+<p class="pubd">
+<span class="conf">US11663790B2</span><br> 
+    <span class="authors">Kartik Chaudhary;Sudeep Choudhary;<b>Raghav Bali</b>;Anurag Das;Subhadip Maji</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US11663790B2/en?inventor=Raghav+Bali">Granted</a>
+    </span>
+</p>
+<hr>
+<a name="/patent4"></a>
+<h2 class="pubt">Weighted adaptive filtering based loss function to predict the first occurrence of multiple events in a single shot</h2>
+<p class="pubd">
+<span class="conf">US11741381B2</span><br> 
+    <span class="authors">V Kishore Ayyadevara;Sree Harsha Ankem;<b>Raghav Bali</b>;Rohan Khilnani;Vineet Shukla;Saikumar Chintareddy;Ranraj Rana Singh</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US11741381B2/en?inventor=Raghav+Bali">Granted</a>
+    </span>
+</p>
+<hr>
+<a name="/patent5"></a>
+<h2 class="pubt">Sentiment progression analysis</h2>
+<p class="pubd">
+<span class="conf">US11256874B2</span><br> 
+    <span class="authors">Ninad D. Sathaye;<b>Raghav Bali</b>;Piyush Gupta;Krishnamohan Nandiraju</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US11256874B2/en?inventor=Raghav+Bali">Granted</a>
+    </span>
+</p>
+<hr>
+<a name="/patent6"></a>
+<h2 class="pubt">Sentiment progression analysis</h2>
+<p class="pubd">
+<span class="conf">US11256874B2</span><br> 
+    <span class="authors">Ninad D. Sathaye;<b>Raghav Bali</b>;Piyush Gupta;Krishnamohan Nandiraju</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US11256874B2/en?inventor=Raghav+Bali">Granted</a>
+    </span>
+</p>
+<hr>
+
 <a name="/talks"></a>
 
 # Talks
@@ -444,6 +500,21 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         </div>
     </div>
 </div>
+<hr>
+
+# Articles
+  - [Towards DataScience: Object Detection Basics — A Comprehensive Beginner’s Guide (Part 1)](https://medium.com/towards-data-science/object-detection-basics-a-comprehensive-beginners-guide-part-1-f57380c89b78)
+  - [Towards DataScience: Supercharge Training of your Deep Learning Models](https://medium.com/towards-data-science/supercharge-training-of-your-deep-learning-models-7168ff81a042)
+  - [PyDev of the Week](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
+  - [Towards DataScience: Supercharge Image Classification with Transfer Learning](https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c)
+  - [Towards DataScience: Supercharge your Image Search with Transfer Learning](https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb)
+  - [Towards DataScience: LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
+  - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
+  - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
+  - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
+  - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
+  - [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
+
 <hr>
 
 <script src="/js/jquery.min.js"></script>
