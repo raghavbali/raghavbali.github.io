@@ -9,14 +9,11 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Staff Data Scientist<br>
-        Delivery Hero SE<br>
-        <i class="bi bi-linkedin"></i>&nbsp;<a target="_blank" href="https://www.linkedin.com/in/baliraghav/">LinkedIn</a><br>
-        <i class="bi bi-github"></i>&nbsp;<a target="_blank" href="https://github.com/raghavbali">GitHub</a><br>
+        <span class="conf">Staff Data Scientist,&nbsp;Delivery Hero SE</span><br>
         <i class="bi bi-google"></i>&nbsp;<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=3oLGqC0AAAAJ">Google Scholar</a><br>
+        <i class="bi bi-github"></i>&nbsp;<a target="_blank" href="https://github.com/raghavbali">GitHub</a><br>
         <i class="bi bi-medium"></i>&nbsp;<a target="_blank" href="https://medium.com/@Rghv_Bali">Medium</a><br>
-        <i class="bi bi-twitter"></i>&nbsp;<a target="_blank" href="https://twitter.com/rghv_bali">Twitter</a><br>
-        <i class="bi bi-instagram"></i>&nbsp;<a target="_blank" href="https://www.instagram.com/raghavbali/">Instagram</a><br>
+        <a target="_blank" href="https://www.linkedin.com/in/baliraghav/"><i class="bi bi-linkedin"></i></a>&nbsp;&nbsp;<a target="_blank" href="https://twitter.com/rghv_bali"><i class="bi bi-twitter"></i></a>&nbsp;&nbsp;<a target="_blank" href="https://www.instagram.com/raghavbali/"><i class="bi bi-instagram"></i></a><br>
     </div>
 </div>
 <hr>
@@ -358,12 +355,62 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 </p>
 <hr>
 <a name="/patent6"></a>
-<h2 class="pubt">Sentiment progression analysis</h2>
+<h2 class="pubt">Cybersecurity for sensitive-information utterances in interactive voice sessions using risk profiles</h2>
 <p class="pubd">
-<span class="conf">US11256874B2</span><br> 
-    <span class="authors">Ninad D. Sathaye;<b>Raghav Bali</b>;Piyush Gupta;Krishnamohan Nandiraju</span><br>
+<span class="conf">US20220199073A1</span><br> 
+    <span class="authors">Devikiran Ramadas;Gregory J Boss;Ninad Sathaye;<b>Raghav Bali</b>;Nitin Dwivedi</span><br>
     <span class="links">
-        <a target="_blank" href="https://patents.google.com/patent/US11256874B2/en?inventor=Raghav+Bali">Granted</a>
+        <a target="_blank" href="https://patents.google.com/patent/US20220199073A1/en?inventor=Raghav+Bali">Pending</a>
+    </span>
+</p>
+<hr>
+<a name="/patent7"></a>
+<h2 class="pubt">Routing of sensitive-information utterances through secure channels in interactive voice sessions</h2>
+<p class="pubd">
+<span class="conf">US20230269291A1</span><br> 
+    <span class="authors">Devikiran Ramadas;Ninad D. Sathaye;Gregory J. Boss;<b>Raghav Bali</b></span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US20230269291A1/en?inventor=Raghav+Bali">Pending</a>
+    </span>
+</p>
+<hr>
+<a name="/patent8"></a>
+<h2 class="pubt">Systems and methods for awakening a user based on sleep cycle</h2>
+<p class="pubd">
+<span class="conf">US20230059947A1</span><br> 
+    <span class="authors"><b>Raghav Bali</b>;Ninad D. Sathaye;Swapna Sourav Rout</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US20230059947A1/en?inventor=Raghav+Bali">Pending</a>
+    </span>
+</p>
+<hr>
+<a name="/patent9"></a>
+<h2 class="pubt">Reinforcement learning machine learning models for intervention recommendation</h2>
+<p class="pubd">
+<span class="conf">US20230252338A1</span><br> 
+    <span class="authors">V. Kishore Ayyadevara;Rohan Khilnani;Swaroop S. Shekar;<b>Raghav Bali</b>;Joseph C. Cremaldi;Fritz T. Wilhelm;Vinod Burugupalli</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US20230252338A1/en?inventor=Raghav+Bali">Pending</a>
+    </span>
+</p>
+<hr>
+<a name="/patent10"></a>
+<h2 class="pubt">Predictive document conversion</h2>
+<p class="pubd">
+<span class="conf">US20210326631A1</span><br> 
+    <span class="authors">Kartik Chaudhary;<b>Raghav Bali</b>;V Kishore Ayyadevara;Yerraguntla Yeshwanth Reddy</span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US20210326631A1/en?inventor=Raghav+Bali">Pending</a>
+    </span>
+</p>
+<hr>
+<a name="/patent11"></a>
+<h2 class="pubt">Predictive data analysis operations using a hierarchical intervention recommendation machine learning framework</h2>
+<p class="pubd">
+<span class="conf">US20230325690A1</span><br> 
+    <span class="authors">Ninad D. Sathaye;Manoj Kapoor;Gregory J. Boss;<b>Raghav Bali</b></span><br>
+    <span class="links">
+        <a target="_blank" href="https://patents.google.com/patent/US20230325690A1/en?inventor=Raghav+Bali">Pending</a>
     </span>
 </p>
 <hr>
