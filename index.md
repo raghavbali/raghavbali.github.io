@@ -66,9 +66,7 @@ permalink:  /
 - [2013] Dean's Merit List, 3rd Semester, IIIT-B
 - [2013] Dean's Merit List, 2nd Semester, IIIT-B
 - [2012] Dean's Merit List, 1st Semester, IIIT-B
-<!-- <div id="read-more-button">
-    <a nohref>Read more</a>
-</div> -->
+<!-- <div id="read-more-button"> <a nohref>Read more</a> </div> -->
 
 <!-- Back to Top Button -->
 <a href="#" class="back-to-top">↑ Back to Top</a>
@@ -461,8 +459,6 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         </p>
     </div>
 </div>
-<br> 
-<br> 
 <div class="row">
     <div class="col-xs-12">
         <span class="conf">2024</span><br> 
