@@ -4,18 +4,19 @@ title:
 permalink:  /
 ---
 
+
 <style>
-        /* Add your custom CSS for the Back to Top button */
+        /* custom CSS for the Back to Top button */
         .back-to-top {
             position: fixed;
             bottom: 20px;
             right: 20px;
             display: none; /* Hidden by default */
-            background-color: #007bff; /* Blue background */
-            color: white; /* White text */
+            background-color: #c07c75;
+            color: black; 
             padding: 10px 15px;
             font-size: 16px;
-            border-radius: 5px;
+            border-radius: 10px;
             text-align: center;
             text-decoration: none;
             transition: opacity 0.3s;
@@ -23,7 +24,7 @@ permalink:  /
         }
 
         .back-to-top:hover {
-            background-color: #0056b3; /* Darker blue on hover */
+            background-color: #c07c76; /* Darker blue on hover */
         }
 
         .back-to-top.show {
@@ -65,9 +66,9 @@ permalink:  /
 - [2013] Dean's Merit List, 3rd Semester, IIIT-B
 - [2013] Dean's Merit List, 2nd Semester, IIIT-B
 - [2012] Dean's Merit List, 1st Semester, IIIT-B
-<div id="read-more-button">
+<!-- <div id="read-more-button">
     <a nohref>Read more</a>
-</div>
+</div> -->
 
 <!-- Back to Top Button -->
 <a href="#" class="back-to-top">↑ Back to Top</a>
@@ -460,6 +461,8 @@ On the side, I am a technology enthusiast who loves reading and playing around w
         </p>
     </div>
 </div>
+<br> 
+<br> 
 <div class="row">
     <div class="col-xs-12">
         <span class="conf">2024</span><br> 
@@ -644,9 +647,9 @@ On the side, I am a technology enthusiast who loves reading and playing around w
             </li>
         </ul>
     </div>
-<div id="read-more-button">
+<!-- <div id="read-more-button">
     <a nohref>Read more</a>
-</div>
+</div> -->
 </div>
 
 <hr>
@@ -666,19 +669,19 @@ On the side, I am a technology enthusiast who loves reading and playing around w
   - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
   - [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
 
-<div id="read-more-button">
+<!-- <div id="read-more-button">
     <a nohref>Read more</a>
-</div>
+</div> -->
 <hr>
 
 <script src="/js/jquery.min.js"></script>
-<script type="text/javascript">
-    $('ul:gt(0) li:gt(6)').hide();
+<!-- <script type="text/javascript">
+    $('ul:gt(0) li:gt(50)').hide();
     $('#read-more-button > a').click(function() {
         $('ul:gt(0) li:gt(6)').show();
         $('#read-more-button').hide();
     });
-</script>
+</script> -->
 
 <script>
         // Show the "Back to Top" button when the user scrolls down 100px
