@@ -20,7 +20,7 @@ permalink:  /
 
 <div class="news-div">
 <a name="/news"></a>
-
+{% raw %}
 # News
 - [2023] [Generative AI with Python & Tensorflow2 listed as a Must Read book by AIM](https://analyticsindiamag.com/7-must-read-generative-ai-books-for-unleashing-your-technology-prowess/)
 - [2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)
@@ -37,7 +37,7 @@ permalink:  /
 - [2013] Dean's Merit List, 3rd Semester, IIIT-B
 - [2013] Dean's Merit List, 2nd Semester, IIIT-B
 - [2012] Dean's Merit List, 1st Semester, IIIT-B
-
+{% endraw %}
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
