@@ -4,6 +4,35 @@ title:
 permalink:  /
 ---
 
+<style>
+        /* Add your custom CSS for the Back to Top button */
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: none; /* Hidden by default */
+            background-color: #007bff; /* Blue background */
+            color: white; /* White text */
+            padding: 10px 15px;
+            font-size: 16px;
+            border-radius: 5px;
+            text-align: center;
+            text-decoration: none;
+            transition: opacity 0.3s;
+            z-index: 1000; /* Make sure it stays on top */
+        }
+
+        .back-to-top:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+        }
+
+        .back-to-top.show {
+            display: block;
+            opacity: 1;
+        }
+</style>
+
+
 <div class="row">
     <div class="col-sm-6 col-xs-12">
         <img src="/img/cover2.jpg">
@@ -18,10 +47,9 @@ permalink:  /
 </div>
 <hr>
 
-<div class="news-div">
 <a name="/news"></a>
- <pre>
 # News
+
 - [2023] [Generative AI with Python & Tensorflow2 listed as a Must Read book by AIM](https://analyticsindiamag.com/7-must-read-generative-ai-books-for-unleashing-your-technology-prowess/)
 - [2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)
 - [2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
@@ -37,11 +65,12 @@ permalink:  /
 - [2013] Dean's Merit List, 3rd Semester, IIIT-B
 - [2013] Dean's Merit List, 2nd Semester, IIIT-B
 - [2012] Dean's Merit List, 1st Semester, IIIT-B
- </pre>
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
-</div>
+
+<!-- Back to Top Button -->
+<a href="#" class="back-to-top">↑ Back to Top</a>
 
 <hr>
 
@@ -615,6 +644,9 @@ On the side, I am a technology enthusiast who loves reading and playing around w
             </li>
         </ul>
     </div>
+<div id="read-more-button">
+    <a nohref>Read more</a>
+</div>
 </div>
 
 <hr>
@@ -634,13 +666,39 @@ On the side, I am a technology enthusiast who loves reading and playing around w
   - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
   - [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
 
+<div id="read-more-button">
+    <a nohref>Read more</a>
+</div>
 <hr>
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
-    $('#news-div ul:gt(0) li:gt(6)').hide();
+    $('ul:gt(0) li:gt(6)').hide();
     $('#read-more-button > a').click(function() {
-        $('#news-div ul:gt(0) li:gt(6)').show();
+        $('ul:gt(0) li:gt(6)').show();
         $('#read-more-button').hide();
     });
 </script>
+
+<script>
+        // Show the "Back to Top" button when the user scrolls down 100px
+        window.onscroll = function() {scrollFunction()};
+
+        function scrollFunction() {
+            const backToTopButton = document.querySelector(".back-to-top");
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                backToTopButton.classList.add("show");
+            } else {
+                backToTopButton.classList.remove("show");
+            }
+        }
+
+        // Smooth scroll back to top when the button is clicked
+        document.querySelector(".back-to-top").addEventListener("click", function(event) {
+            event.preventDefault();
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
+        });
+    </script>
