@@ -430,180 +430,191 @@ On the side, I am a technology enthusiast who loves reading and playing around w
     </div>
 </div>
 <div class="row">
-    <span class="conf">2024</span><br> 
     <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-                <a target="_blank" href="https://www.analyticsvidhya.com/datahacksummit/workshops/unleashing-llms-training-finetuning-and-evaluating">
-                    Unleashing LLMs: Training, Fine-Tuning and Evaluating
-                </a>|
-                <a target="_blank" href="https://github.com/raghavbali/llm_workshop">
-                Github
-                </a>
-        </div></li>
-        <li>
-         <div class="talkt">
-                <a target="_blank" href="https://odsc.com/speakers/leveraging-llms-for-internal-knowledge-discovery/">
-                    Leveraging LLLMs for Internal Knowledge Discovery
-                </a>|
-                <a target="_blank" href="#">
-                Github
-                </a>
-        </div>
-        </li>
-    </ul>
+        <span class="conf">2024</span><br> 
+        <ul>
+            <li>
+                <div class="talkt">
+                        <a target="_blank" href="https://www.analyticsvidhya.com/datahacksummit/workshops/unleashing-llms-training-finetuning-and-evaluating">
+                            Unleashing LLMs: Training, Fine-Tuning and Evaluating
+                        </a>|
+                        <a target="_blank" href="https://github.com/raghavbali/llm_workshop">
+                        Github
+                        </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://odsc.com/speakers/leveraging-llms-for-internal-knowledge-discovery/">
+                        Leveraging LLLMs for Internal Knowledge Discovery
+                    </a>|
+                    <a target="_blank" href="#">
+                    Github
+                    </a>
+                </div>
+            </li>
+        </ul>
     <span class="conf">2023</span><br> 
-    <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-                <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
-                    ODSC APAC Session: Generative AI Landscape
-                </a>|
-                <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
-                Github
-                </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-                <a target="_blank" href="https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications">
+        <ul>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
+                        ODSC APAC Session: Generative AI Landscape
+                    </a>|
+                    <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
+                    Github
+                    </a>
+                 </div>
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications">
                     ON-DEMAND WEBINAR: Lightning Interview "Hands-On Generative AI Applications"
-                </a>|
-                <a target="_blank" href="https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications">
-                ODSC On-Demand
-                </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-                <a target="_blank" href="https://github.com/raghavbali/llm_workshop_dhs23">
-                    Analytics Vidhya DataHack Summit Workshop: Natural Language Processing using Generative Models
-                </a>|
-                <a target="_blank" href="https://github.com/raghavbali/llm_workshop_dhs23">
-                Github
-                </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-                <a target="_blank" href="https://github.com/raghavbali/building_robust_recsys_dhs23">
-                    Analytics Vidhya DataHack Summit Hack Session: Building Robust and Scalable Recommendation Systems for Online Food Delivery
-                </a>|
-                <a target="_blank" href="https://github.com/raghavbali/building_robust_recsys_dhs23">
-                Github
-                </a>
-        </div></li>
-    </ul>
+                    </a>|
+                    <a target="_blank" href="https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications">
+                    ODSC On-Demand
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                        <a target="_blank" href="https://github.com/raghavbali/llm_workshop_dhs23">
+                            Analytics Vidhya DataHack Summit Workshop: Natural Language Processing using Generative Models
+                        </a>|
+                        <a target="_blank" href="https://github.com/raghavbali/llm_workshop_dhs23">
+                        Github
+                        </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                        <a target="_blank" href="https://github.com/raghavbali/building_robust_recsys_dhs23">
+                            Analytics Vidhya DataHack Summit Hack Session: Building Robust and Scalable Recommendation Systems for Online Food Delivery
+                        </a>|
+                        <a target="_blank" href="https://github.com/raghavbali/building_robust_recsys_dhs23">
+                        Github
+                        </a>
+                </div>
+            </li>
+        </ul>
     <span class="conf">2022</span><br> 
-    <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-                <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
-                    Image Generation with GANs with ODSC India
-                </a>|
-                <a target="_blank" href="https://github.com/raghavbali/gan_tutorial">
-                Github
-                </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-            <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
-                NLP Workshop on Text Classification, 1729 Conference with Analytics Vidhya
-            </a>|
-            <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
-            Github
-            </a>
-        </div></li>
-    </ul>
+        <ul>
+            <li>
+                <div class="talkt">
+                        <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
+                            Image Generation with GANs with ODSC India
+                        </a>|
+                        <a target="_blank" href="https://github.com/raghavbali/gan_tutorial">
+                        Github
+                        </a>
+                </div> 
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
+                        NLP Workshop on Text Classification, 1729 Conference with Analytics Vidhya
+                    </a>|
+                    <a target="_blank" href="https://github.com/raghavbali/workshop_text_classification">
+                    Github
+                    </a>
+                </div>
+            </li>
+        </ul>
     <span class="conf">2021</span><br> 
-    <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-            <a target="_blank" href="https://github.com/raghavbali/transfer-learning-in-action/tree/master/chapter_1">
-                Image Classification with Transfer Learning, Manning Publications Twitch Live-Stream
-            </a>|
-            <a target="_blank" href="https://www.twitch.tv/videos/1170692362">
-            Video
-            </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-            <a target="_blank" href="https://github.com/raghavbali/data_ketchup_gans">
-                Image Generation with GANs, Kaggle Data Ketchup
-            </a>|
-            <a target="_blank" href="https://www.youtube.com/watch?v=J_33jSkFQis&ab_channel=KaggleDaysMeetupDelhiNCR">
-            Video
-            </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-            <a target="_blank" href="https://github.com/raghavbali/deep_fakes_tutorial">
-                The Secret Ingredients to Train DeepFakes, ODSC APAC
-            </a>|
-            <a target="_blank" href="https://register.gotowebinar.com/register/7432238325978557965">
-            Video
-            </a>
-        </div></li>
-    </ul>
+        <ul>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/transfer-learning-in-action/tree/master/chapter_1">
+                        Image Classification with Transfer Learning, Manning Publications Twitch Live-Stream
+                    </a>|
+                    <a target="_blank" href="https://www.twitch.tv/videos/1170692362">
+                    Video
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/data_ketchup_gans">
+                        Image Generation with GANs, Kaggle Data Ketchup
+                    </a>|
+                    <a target="_blank" href="https://www.youtube.com/watch?v=J_33jSkFQis&ab_channel=KaggleDaysMeetupDelhiNCR">
+                    Video
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/deep_fakes_tutorial">
+                        The Secret Ingredients to Train DeepFakes, ODSC APAC
+                    </a>|
+                    <a target="_blank" href="https://register.gotowebinar.com/register/7432238325978557965">
+                    Video
+                    </a>
+                </div>
+            </li>
+        </ul>
     <span class="conf">2020</span><br> 
-    <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-            <a target="_blank" href="https://github.com/raghavbali/nlp_starterpack_webinar">
-                NLP Starter Pack, Analytics Vidhya Webinar
-            </a>|
-            <a target="_blank" href="https://www.facebook.com/watch/live/?v=337463904223866&ref=watch_permalink">
-            Video
-            </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-            <a target="_blank" href="https://github.com/raghavbali/text_generation">
-                Text Generation using Deep Learning, Springboard Webinar
-            </a>|
-            <a target="_blank" href="https://www.youtube.com/watch?v=vSN5Tn38ZIc&ab_channel=SpringboardIndia">
-            Video
-            </a>
-        </div></li>
-    </ul>
+        <ul>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/nlp_starterpack_webinar">
+                        NLP Starter Pack, Analytics Vidhya Webinar
+                    </a>|
+                    <a target="_blank" href="https://www.facebook.com/watch/live/?v=337463904223866&ref=watch_permalink">
+                    Video
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://github.com/raghavbali/text_generation">
+                        Text Generation using Deep Learning, Springboard Webinar
+                    </a>|
+                    <a target="_blank" href="https://www.youtube.com/watch?v=vSN5Tn38ZIc&ab_channel=SpringboardIndia">
+                    Video
+                    </a>
+                </div>
+            </li>
+        </ul>
     <span class="conf">2019</span><br> 
-    <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-            <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-synthetic-text-data-generation-using-rnn-based-deep-learning-models/">
-                Hack Session: Synthetic Text Data Generation using Recurrent Neural Networks (RNN)
-            </a>|
-            <a target="_blank" href="https://github.com/raghavbali/handwritten_text_dhs_av_2019">
-                GitHub
-            </a>
-        </div></li>
-        <li>
-        <div class="talkt">
-            <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/workshop-applied-machine-learning/">
-                Workshop: Applied Machine Learning
-            </a>|
-            <a target="_blank" href="https://github.com/raghavbali/appliedml_workshop_dhs_av_2019">
-                GitHub
-            </a>
-        </div></li>
-    </ul>
+        <ul>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-synthetic-text-data-generation-using-rnn-based-deep-learning-models/">
+                        Hack Session: Synthetic Text Data Generation using Recurrent Neural Networks (RNN)
+                    </a>|
+                    <a target="_blank" href="https://github.com/raghavbali/handwritten_text_dhs_av_2019">
+                        GitHub
+                    </a>
+                </div>
+            </li>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2019/schedule/workshop-applied-machine-learning/">
+                        Workshop: Applied Machine Learning
+                    </a>|
+                    <a target="_blank" href="https://github.com/raghavbali/appliedml_workshop_dhs_av_2019">
+                        GitHub
+                    </a>
+                </div>
+            </li>
+        </ul>
     <span class="conf">2018</span><br> 
-    <div class="col-xs-12">
-    <ul>
-    <li>
-        <div class="talkt">
-            <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2018/2018/08/04/getting-started-with-natural-language-processing/">
-                Workshop: Getting Started With Natural Language Processing
-            </a>|
-            <a target="_blank" href="https://github.com/raghavbali/nlp_workshop_dhs18">
-                GitHub
-            </a>
-        </div></li>
+        <ul>
+            <li>
+                <div class="talkt">
+                    <a target="_blank" href="https://www.analyticsvidhya.com/datahack-summit-2018/2018/08/04/getting-started-with-natural-language-processing/">
+                        Workshop: Getting Started With Natural Language Processing
+                    </a>|
+                    <a target="_blank" href="https://github.com/raghavbali/nlp_workshop_dhs18">
+                        GitHub
+                    </a>
+                </div>
+            </li>
+        </ul>
     </div>
 </div>
+
 <hr>
 
 # Articles
@@ -625,7 +636,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <script type="text/javascript">
     $('ul:gt(0) li:gt(24)').hide();
     $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(12)').show();
+        $('ul:gt(0) li:gt(6)').show();
         $('#read-more-button').hide();
     });
 </script>
