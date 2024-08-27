@@ -18,32 +18,31 @@ permalink:  /
 </div>
 <hr>
 
+<div class="news-div">
 <a name="/news"></a>
 
 # News
-<div class="news-div">
-<ul>
-    <li>[2023] [Generative AI with Python & Tensorflow2 listed as a Must Read book by AIM](https://analyticsindiamag.com/7-must-read-generative-ai-books-for-unleashing-your-technology-prowess/)</li>
-    <li>[2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)</li>
-    <li>[2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)</li>
-    <li>[2021] Runner's Up, Global Data Science Hackathon, Optum</li>
-    <li>[2021] Awarded Honory title of __Senior Inventor__ for several contributions to patent program in 2020, Optum</li>
-    <li>[2021] Innovation Award Winner for Q1 2021, Optum</li>
-    <li>[2020] Runner's Up, Global Data Science Hackathon, Optum</li>
-    <li>[2020] Award for Exemplary Leadership, Optum</li>
-    <li>[2018] Runner's Up, Global Data Science Hackathon, Optum</li>
-    <li>[2017] Best Paper Presentation Award at ITTLC, Intel</li>
-    <li>[2014] Awarded Gold Medal (Late Sri N Rama Rao Medal</li>
-    <li>Student of the Year), IIIT-B</li>
-    <li>[2013-14] Google Student Ambassador</li>
-    <li>[2013] Dean's Merit List, 3rd Semester, IIIT-B</li>
-    <li>[2013] Dean's Merit List, 2nd Semester, IIIT-B</li>
-    <li>[2012] Dean's Merit List, 1st Semester, IIIT-B </li>
-</ul>
+- [2023] [Generative AI with Python & Tensorflow2 listed as a Must Read book by AIM](https://analyticsindiamag.com/7-must-read-generative-ai-books-for-unleashing-your-technology-prowess/)
+- [2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)
+- [2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
+- [2021] Runner's Up, Global Data Science Hackathon, Optum
+- [2021] Awarded Honory title of __Senior Inventor__ for several contributions to patent program in 2020, Optum
+- [2021] Innovation Award Winner for Q1 2021, Optum
+- [2020] Runner's Up, Global Data Science Hackathon, Optum
+- [2020] Award for Exemplary Leadership, Optum
+- [2018] Runner's Up, Global Data Science Hackathon, Optum
+- [2017] Best Paper Presentation Award at ITTLC, Intel
+- [2014] Awarded Gold Medal (Late Sri N Rama Rao Medal- Student of the Year), IIIT-B
+- [2013-14] Google Student Ambassador
+- [2013] Dean's Merit List, 3rd Semester, IIIT-B
+- [2013] Dean's Merit List, 2nd Semester, IIIT-B
+- [2012] Dean's Merit List, 1st Semester, IIIT-B
+
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
 </div>
+
 <hr>
 
 <a name="/bio"></a>
@@ -621,6 +620,8 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <hr>
 
 # Articles
+  - [Efficient Object Detection with SSD and YoLO Models — A Comprehensive Beginner’s Guide (Part 3)](https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2)
+  - [Towards DataScience: Exploring Object Detection with R-CNN Models — A Comprehensive Beginner’s Guide (Part 2)](https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2)
   - [Towards DataScience: Object Detection Basics — A Comprehensive Beginner’s Guide (Part 1)](https://medium.com/towards-data-science/object-detection-basics-a-comprehensive-beginners-guide-part-1-f57380c89b78)
   - [Towards DataScience: Supercharge Training of your Deep Learning Models](https://medium.com/towards-data-science/supercharge-training-of-your-deep-learning-models-7168ff81a042)
   - [PyDev of the Week](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
@@ -639,7 +640,7 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <script type="text/javascript">
     $('#news-div ul:gt(0) li:gt(6)').hide();
     $('#read-more-button > a').click(function() {
-        $('#news-div ul::gt(0) li:gt(6)').show();
+        $('#news-div ul:gt(0) li:gt(6)').show();
         $('#read-more-button').hide();
     });
 </script>
