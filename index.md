@@ -434,6 +434,22 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <div class="row">
     <div class="col-xs-12">
         <div class="talkt">
+                <a target="_blank" href="https://www.analyticsvidhya.com/datahacksummit/workshops/unleashing-llms-training-finetuning-and-evaluating">
+                    2024, Unleashing LLMs: Training, Fine-Tuning and Evaluating
+                </a>|
+                <a target="_blank" href="https://github.com/raghavbali/llm_workshop">
+                Github
+                </a>
+        </div>
+         <div class="talkt">
+                <a target="_blank" href="https://odsc.com/speakers/leveraging-llms-for-internal-knowledge-discovery/">
+                    2024, Leveraging LLLMs for Internal Knowledge Discovery
+                </a>|
+                <a target="_blank" href="#">
+                Github
+                </a>
+        </div>
+        <div class="talkt">
                 <a target="_blank" href="https://github.com/raghavbali/genai_landscape_odsc2023">
                     2023, ODSC APAC Session: Generative AI Landscape
                 </a>|
