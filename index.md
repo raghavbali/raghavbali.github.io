@@ -21,6 +21,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+<div class="news-div">
 - [2023] [Generative AI with Python & Tensorflow2 listed as a Must Read book by AIM](https://analyticsindiamag.com/7-must-read-generative-ai-books-for-unleashing-your-technology-prowess/)
 - [2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)
 - [2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
@@ -40,7 +41,7 @@ permalink:  /
 <div id="read-more-button">
     <a nohref>Read more</a>
 </div>
-
+</div>
 <hr>
 
 <a name="/bio"></a>
@@ -634,9 +635,9 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
-    $('ul:gt(0) li:gt(24)').hide();
+    $('#news-div ul:gt(0) li:gt(6)').hide();
     $('#read-more-button > a').click(function() {
-        $('ul:gt(0) li:gt(6)').show();
+        $('#news-div ul::gt(0) li:gt(6)').show();
         $('#read-more-button').hide();
     });
 </script>
