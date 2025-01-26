@@ -1,8 +1,0 @@
-encoding: utf-8
-name: Raghav Bali
-url: http://raghavbali.github.io/
-author:
-  name: Raghav Bali
-description: Staff Data Scientist at Delivery Hero. Author. Shutterbug
-permalink: /posts/:title/
-include: ['_pages']
