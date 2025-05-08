@@ -237,7 +237,7 @@ Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and i
 # Books
 <div class="row">
     <div class="col-sm-6">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge-ebook/dp/B0D9M8N5R3?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.lV51H7SsqpmNzyMDBg58LORh1cYJqv4cxnkrwLc-m-L8ZCeP4Z5tV-eAUmV4XtoTT0fccUgSgu8YEYkRjp-TLESxd2Ug5dtvzodc-MRASesr6gdFKkb0TD05vndRk37t.187qf5Y45cMx7rx9z9dGpzQCMn6cn6x5FADvSZ0FoE8&dib_tag=AUTHOR">Generative AI with Python and PyTorch Second Edition</a></h2>
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge-ebook/dp/B0D9M8N5R3?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.lV51H7SsqpmNzyMDBg58LORh1cYJqv4cxnkrwLc-m-L8ZCeP4Z5tV-eAUmV4XtoTT0fccUgSgu8YEYkRjp-TLESxd2Ug5dtvzodc-MRASesr6gdFKkb0TD05vndRk37t.187qf5Y45cMx7rx9z9dGpzQCMn6cn6x5FADvSZ0FoE8&dib_tag=AUTHOR">Generative AI with Python and PyTorch</a></h2>
         <span class="conf"><a href="https://github.com/PacktPublishing/Generative-AI-with-Python-and-PyTorch-Second-Edition">Github</a></span>
         <p class="talkd">
             <a target="_blank" href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge-ebook/dp/B0D9M8N5R3?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.lV51H7SsqpmNzyMDBg58LORh1cYJqv4cxnkrwLc-m-L8ZCeP4Z5tV-eAUmV4XtoTT0fccUgSgu8YEYkRjp-TLESxd2Ug5dtvzodc-MRASesr6gdFKkb0TD05vndRk37t.187qf5Y45cMx7rx9z9dGpzQCMn6cn6x5FADvSZ0FoE8&dib_tag=AUTHOR"><img style="margin-top: 10px;" src="/img/books/packt_gai_2.png"></a>
@@ -654,6 +654,7 @@ Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and i
 <hr>
 
 # Articles
+  - [Supercharge Your LLM Apps Using DSPy and Langfuse](https://medium.com/data-science/supercharge-your-llm-apps-using-dspy-and-langfuse-f83c02ba96a1)
   - [Efficient Object Detection with SSD and YoLO Models — A Comprehensive Beginner’s Guide (Part 3)](https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2)
   - [Towards DataScience: Exploring Object Detection with R-CNN Models — A Comprehensive Beginner’s Guide (Part 2)](https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2)
   - [Towards DataScience: Object Detection Basics — A Comprehensive Beginner’s Guide (Part 1)](https://medium.com/towards-data-science/object-detection-basics-a-comprehensive-beginners-guide-part-1-f57380c89b78)
