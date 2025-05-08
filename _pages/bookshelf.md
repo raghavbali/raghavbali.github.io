@@ -20,9 +20,9 @@ permalink:  /bookshelf/
 > - 🔖 : My Take/Reviewed
 
 - __[Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) &#128214;__
-- __[The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
-- __[Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments)
-- __[Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/book/show/53138083-working-backwards)
+- [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
+- [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.goodreads.com/book/show/51635906-trustworthy-online-controlled-experiments)
+- [Working Backwards: Insights, Stories, and Secrets from Inside Amazon](https://www.goodreads.com/book/show/53138083-working-backwards)
 - __[Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave) &#128214;__
 - [Four Thousand Weeks](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 - [The Earned Life: Lose Regret, Choose Fulfillment](https://www.goodreads.com/book/show/58735020-the-earned-life)
