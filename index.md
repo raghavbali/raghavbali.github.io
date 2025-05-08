@@ -39,7 +39,7 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        <span class="conf">Staff Data Scientist,&nbsp;Delivery Hero SE</span><br>
+        <span class="conf">Principal Data Scientist,&nbsp;Delivery Hero SE</span><br>
         <i class="bi bi-google"></i>&nbsp;<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=3oLGqC0AAAAJ">Google Scholar</a><br>
         <i class="bi bi-github"></i>&nbsp;<a target="_blank" href="https://github.com/raghavbali">GitHub</a><br>
         <i class="bi bi-medium"></i>&nbsp;<a target="_blank" href="https://medium.com/@Rghv_Bali">Medium</a><br>
@@ -51,6 +51,7 @@ permalink:  /
 <a name="/news"></a>
 # News
 
+- [2025] [Generative AI with Python & Pytorch Second Edition Published](https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge/dp/B0D9QBYYBQ/?_encoding=UTF8&pd_rd_w=BdKvt&content-id=amzn1.sym.0fb2cce1-1ca4-439a-844b-8ad0b1fb77f7&pf_rd_p=0fb2cce1-1ca4-439a-844b-8ad0b1fb77f7&pf_rd_r=142-1639174-8459023&pd_rd_wg=mtZj1&pd_rd_r=28d75a7b-4588-4838-b7eb-433b3f187551&ref_=aufs_ap_sc_dsk)
 - [2023] [Generative AI with Python & Tensorflow2 listed as a Must Read book by AIM](https://analyticsindiamag.com/7-must-read-generative-ai-books-for-unleashing-your-technology-prowess/)
 - [2023] [Lightening Interview with Sheamus McGovern](https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications)
 - [2021] [Interviewed/Featured on Mike Dris Collis' Blog Mouse Vs Python](https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/)
@@ -77,7 +78,9 @@ permalink:  /
 
 # Bio
 
-Raghav Bali is a Data Scientist at Delivery Hero, one the world's leading food delivery service based out of Berlin, Germany. With over a decade's experience, his work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for real world use-cases. Raghav has published multiple peer-reviewed papers, has authored over 7 books and is a co-inventor of multiple patents in the areas of machine learning, deep learning and natural language processing. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases.
+Raghav Bali is a Data Scientist at Delivery Hero, one of the world’s leading food delivery platforms, based in Berlin, Germany. With over a decade of experience, he focuses on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges. Raghav has published several peer-reviewed papers, authored more than seven books, and co-invented multiple patents in the fields of machine learning, deep learning, and NLP.
+
+Before joining Delivery Hero, he worked at United Health Group (Optum) where he researched and developed a number of cutting edge solutions for the US healthcare sector. At Intel, he helped drive data-first IT initiatives using NLP, deep learning, and traditional statistical techniques. Earlier, at American Express, he tackled customer retention and digital engagement problems in the finance domain.
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
@@ -132,9 +135,9 @@ Raghav Bali is a Data Scientist at Delivery Hero, one the world's leading food d
     </div> -->
 </div>
 
-During Masters, I've taken up exciting and challenging courses related to Machine Learning, Software Architecture, Advanced Algorithms and Operating systems. I also worked on a number of large scale projects such as <i>Language Recognizer for Indian Languages </i>, <i>Hierarchical Document Clustering System</i>, <i>Bitcoin Payments based Cloud Provisioning Platform</i> and so on.
+During his Master’s, Raghav took on exciting courses like Machine Learning, Software Architecture, Advanced Algorithms, and Operating Systems. He also worked on large-scale projects such as a <i>Language Recognizer for Indian Languages</i>, <i> Hierarchical Document Clustering System</i>, <i>Bitcoin-based Cloud Provisioning Platform</i> and more.
 
-On the side, I am a technology enthusiast who loves reading and playing around with new gadgets and technologies. I am a shutterbug who likes capturing moments, checkout my [instagram](https://www.instagram.com/raghavbali/) and [vsco](https://vsco.co/raghavbali/gallery).
+Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and ideas. He’s also a passionate photographer—check out his work on [Instagram](https://www.instagram.com/raghavbali/) and [VSCO](https://vsco.co/raghavbali/gallery).
 
 [Occassional Blog Posts](/blog)
 
@@ -233,13 +236,13 @@ On the side, I am a technology enthusiast who loves reading and playing around w
 <a name="/books"></a>
 # Books
 <div class="row">
-    <!-- <div class="col-sm-6">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335"><del>Transfer Learning in Action</del></a>(discontinued)</h2>
-        <span class="conf"><a href="https://github.com/raghavbali/transfer-learning-in-action">Github</a></span>
+    <div class="col-sm-6">
+        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge-ebook/dp/B0D9M8N5R3?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.lV51H7SsqpmNzyMDBg58LORh1cYJqv4cxnkrwLc-m-L8ZCeP4Z5tV-eAUmV4XtoTT0fccUgSgu8YEYkRjp-TLESxd2Ug5dtvzodc-MRASesr6gdFKkb0TD05vndRk37t.187qf5Y45cMx7rx9z9dGpzQCMn6cn6x5FADvSZ0FoE8&dib_tag=AUTHOR">Generative AI with Python and PyTorch Second Edition</a></h2>
+        <span class="conf"><a href="https://github.com/PacktPublishing/Generative-AI-with-Python-and-PyTorch-Second-Edition">Github</a></span>
         <p class="talkd">
-            <a target="_blank" href="https://www.manning.com/books/transfer-learning-in-action?utm_source=bali&utm_medium=affiliate&utm_campaign=book_sarkar_transfer_6_18_21&a_aid=bali&a_bid=0ea74335"><img style="margin-top: 10px;" src="/img/books/manning_tla.jpg"></a>
+            <a target="_blank" href="https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge-ebook/dp/B0D9M8N5R3?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.lV51H7SsqpmNzyMDBg58LORh1cYJqv4cxnkrwLc-m-L8ZCeP4Z5tV-eAUmV4XtoTT0fccUgSgu8YEYkRjp-TLESxd2Ug5dtvzodc-MRASesr6gdFKkb0TD05vndRk37t.187qf5Y45cMx7rx9z9dGpzQCMn6cn6x5FADvSZ0FoE8&dib_tag=AUTHOR"><img style="margin-top: 10px;" src="/img/books/packt_gai_2.png"></a>
         </p>
-    </div> -->
+    </div>
     <div class="col-sm-6">
         <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="https://www.amazon.in/gp/product/B0922PCNPS/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0">Generative AI with Python and TensorFlow 2</a></h2>
         <span class="conf"><a href="https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2">Github</a></span>
