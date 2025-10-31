@@ -12,7 +12,7 @@ permalink:  /
             bottom: 20px;
             right: 20px;
             display: none; /* Hidden by default */
-            background-color: #c07c75;
+            background-color: #333;
             color: black; 
             padding: 10px 15px;
             font-size: 16px;
@@ -36,7 +36,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/cover2.jpg">
+        <img src="/img/cover2.jpg" class="img-full circle mb-4 imgstyle-1">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         <span class="conf">Principal Data Scientist,&nbsp;Delivery Hero SE</span><br>
@@ -78,7 +78,7 @@ permalink:  /
 
 # Bio
 
-Raghav Bali is a Data Scientist at Delivery Hero, one of the world’s leading food delivery platforms, based in Berlin, Germany. With over a decade of experience, he focuses on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges. Raghav has published several peer-reviewed papers, authored more than seven books, and co-invented multiple patents in the fields of machine learning, deep learning, and NLP.
+Raghav Bali is a Principal Data Scientist at Delivery Hero, one of the world’s leading food delivery platforms, based in Berlin, Germany. With over 15 years of experience, he focuses on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges. Raghav has published several peer-reviewed papers, authored more than seven books, and co-invented multiple patents in the fields of machine learning, deep learning, and NLP.
 
 Before joining Delivery Hero, he worked at United Health Group (Optum) where he researched and developed a number of cutting edge solutions for the US healthcare sector. At Intel, he helped drive data-first IT initiatives using NLP, deep learning, and traditional statistical techniques. Earlier, at American Express, he tackled customer retention and digital engagement problems in the finance domain.
 
@@ -464,6 +464,21 @@ Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and i
 </div>
 <div class="row">
     <div class="col-xs-12">
+        <span class="conf">2025</span><br> 
+        <ul>
+            <li>
+                <div class="talkt">
+                        <a target="_blank" href="https://www.analyticsvidhya.com/datahacksummit-2025/workshops/mastering-llms-training-fine-tuning-and-best-practices-2">
+                            Mastering LLMs: Training, Fine-Tuning, and Best Practices
+                        </a>|
+                        <a target="_blank" href="https://github.com/raghavbali/mastering_llms_workshop">
+                        Github
+                        </a> |
+                        <a target="_blank" href="https://raghavbali.github.io/mastering_llms_workshop/">
+                        Workshop Website
+                </div>
+            </li>
+        </ul>
         <span class="conf">2024</span><br> 
         <ul>
             <li>
@@ -663,11 +678,13 @@ Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and i
   - [Towards DataScience: Supercharge Image Classification with Transfer Learning](https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c)
   - [Towards DataScience: Supercharge your Image Search with Transfer Learning](https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb)
   - [Towards DataScience: LSTMs for Music Generation](https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35)
-  - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/)
-  - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
-  - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
-  - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
   - [Perceptron : Where It All Started](https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af)
+  - [Interview with Raghav Bali, Senior Data Scientist, United Health Group](https://www.digitalvidya.com/blog/interview-with-raghav-bali/)
+  <!-- Dead Links -->
+  <!-- - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/) -->
+  <!-- - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
+  - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist) -->
+  
 
 <!-- <div id="read-more-button">
     <a nohref>Read more</a>

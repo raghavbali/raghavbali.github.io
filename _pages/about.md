@@ -5,13 +5,14 @@ permalink:  /about/
 ---
 
 ### About Me
-Raghav Bali is a Senior Data Scientist at one the world's largest health care organization. His work involves research & development of enterprise level solutions based on Machine Learning, Deep Learning and Natural Language Processing for Healthcare & Insurance related use cases. In his previous role at Intel, he was involved in enabling proactive data driven IT initiatives using Natural Language Processing, Deep Learning and traditional statistical methods. He has also worked in finance domain with American Express, solving digital engagement and customer retention use cases. Raghav has a master's degree (*gold medalist*) in Information Technology from [International Institute of Information Technology, Bangalore](http://www.iiitb.ac.in/).
+Raghav Bali is a Data Scientist at Delivery Hero, one of the world’s leading food delivery platforms, based in Berlin, Germany. With over a decade of experience, he focuses on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges. Raghav has published several peer-reviewed papers, authored more than seven books, and co-invented multiple patents in the fields of machine learning, deep learning, and NLP.
 
-Raghav has also authored [multiple books](/publications/) with leading publishers, the recent one on latest in advancements in [Transfer Learning research](https://www.amazon.in/Hands-Transfer-Learning-Python-TensorFlow/dp/1788831306/ref=sr_1_1?crid=2B3KOSW5ZHL2V&keywords=transfer+learning+python&qid=1560081081&s=gateway&sprefix=Transfer+Learnin%2Caps%2C275&sr=8-1).
+Before joining Delivery Hero, he worked at United Health Group (Optum) where he researched and developed a number of cutting edge solutions for the US healthcare sector. At Intel, he helped drive data-first IT initiatives using NLP, deep learning, and traditional statistical techniques. Earlier, at American Express, he tackled customer retention and digital engagement problems in the finance domain.
 
+During his Master’s, Raghav took on exciting courses like Machine Learning, Software Architecture, Advanced Algorithms, and Operating Systems. He also worked on large-scale projects such as a <i>Language Recognizer for Indian Languages</i>, <i> Hierarchical Document Clustering System</i>, <i>Bitcoin-based Cloud Provisioning Platform</i> and more.
 
-### Other Interests
-Raghav is a technology enthusiast who loves reading and playing around with new gadgets and technologies. He is a shutterbug  capturing moments when he isn’t busy solving problems, checkout his [instagram](https://www.instagram.com/raghavbali/).
+Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and ideas. He’s also a passionate photographer—check out his work on [Instagram](https://www.instagram.com/raghavbali/) and [VSCO](https://vsco.co/raghavbali/gallery).
+
 
 ---
 
