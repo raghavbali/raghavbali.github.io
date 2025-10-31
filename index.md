@@ -12,7 +12,7 @@ permalink:  /
             bottom: 20px;
             right: 20px;
             display: none; /* Hidden by default */
-            background-color: #333;
+            background-color: #a9a9a9;
             color: black; 
             padding: 10px 15px;
             font-size: 16px;
@@ -475,7 +475,7 @@ Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and i
                         Github
                         </a> |
                         <a target="_blank" href="https://raghavbali.github.io/mastering_llms_workshop/">
-                        Workshop Website
+                        Workshop Website</a>
                 </div>
             </li>
         </ul>
