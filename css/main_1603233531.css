@@ -8,7 +8,7 @@ body {
 
 body *::selection {
   background: #1abc9c;
-  color: #fff;
+  color: #fafafa;
 }
 
 .container {
@@ -124,7 +124,7 @@ ul.nav-bar li {
 }
 
 .page-content .entries .title {
-  font-family: 'Roboto', sans-serif;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   line-height: 1.4em;
   font-weight: 300;
@@ -164,7 +164,7 @@ ul.nav-bar li {
 }
 
 .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
-  font-family: 'Roboto', Helvetica, sans-serif;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 400;
 }
 
@@ -521,3 +521,13 @@ pre code {
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+.imgstyle-1 {
+    .post section img& {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        object-fit: cover;
+        overflow: hidden;
+    }
+}
