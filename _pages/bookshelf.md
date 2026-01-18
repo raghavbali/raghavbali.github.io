@@ -14,13 +14,13 @@ permalink:  /bookshelf/
                     {{ book.title }}
                 </a>
                 {% if book.status == 'reading' %}
-                <span class="book-status-reading">Currently Reading</span>
+                <span class="book-status-reading" title="Currently Reading"><i class="bi bi-book-half"></i></span>
                 {% endif %}
             </div>
             {% if book.review_url %}
             <div class="book-actions">
                 <a href="{{ book.review_url }}" target="_blank" class="book-review-link" title="My Take/Review">
-                    <i class="bi bi-bookmark-star-fill"></i> Read Review
+                    <i class="bi bi-bookmark-star-fill"></i>
                 </a>
             </div>
             {% endif %}
