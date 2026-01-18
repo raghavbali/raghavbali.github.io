@@ -675,3 +675,29 @@ pre code {
         gap: 10px;
     }
 }
+
+/* Enhanced Goodreads Widget Items */
+.gr_grid_book_container {
+    position: relative; /* Ensure we can position the bookmark absolutely within this */
+}
+
+.gr_grid_book_container.has-review img {
+    border: 3px solid #f0ad4e; /* Subtle gold/orange border */
+    box-sizing: border-box; /* Ensure border includes within width/height */
+}
+
+.review-bookmark {
+    position: absolute;
+    top: -5px; /* Aesthetic placement */
+    right: 2px;
+    z-index: 10;
+    font-size: 1.5em; /* Visible size */
+    color: #f0ad4e; /* Match border */
+    text-shadow: 0 1px 2px rgba(0,0,0,0.3); /* Ensure visibility on light covers */
+    transition: transform 0.2s, color 0.2s;
+}
+
+.review-bookmark:hover {
+    color: #d35400;
+    transform: scale(1.1);
+}
