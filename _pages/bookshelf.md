@@ -7,15 +7,14 @@ permalink:  /bookshelf/
 <div class="bookshelf-container">
 
     <div class="book-list">
+        <h3>Currently Reading</h3>
         {% for book in site.data.books %}
+        {% if book.status == 'reading' %}
         <div class="book-item">
             <div class="book-info">
                 <a href="{{ book.url }}" target="_blank" class="book-title">
                     {{ book.title }}
                 </a>
-                {% if book.status == 'reading' %}
-                <span class="book-status-reading" title="Currently Reading"><i class="bi bi-book-half"></i></span>
-                {% endif %}
             </div>
             {% if book.review_url %}
             <div class="book-actions">
@@ -25,6 +24,7 @@ permalink:  /bookshelf/
             </div>
             {% endif %}
         </div>
+        {% endif %}
         {% endfor %}
     </div>
 
@@ -75,5 +75,66 @@ permalink:  /bookshelf/
             </div>
         </div>
         <script src="https://www.goodreads.com/review/grid_widget/87723774.Raghav's%20bookshelf:%20read?cover_size=medium&hide_link=&hide_title=true&num_books=100&order=d&shelf=read&sort=date_added&widget_id=1746707715" type="text/javascript" charset="utf-8"></script>
+
+        <script>
+            const booksWithReviews = [
+                {% for book in site.data.books %}
+                {% if book.review_url %}
+                {
+                    "url": "{{ book.url }}",
+                    "review": "{{ book.review_url }}"
+                },
+                {% endif %}
+                {% endfor %}
+            ];
+
+            document.addEventListener("DOMContentLoaded", function() {
+                const observer = new MutationObserver(function(mutations) {
+                    const bookContainers = document.querySelectorAll('.gr_grid_book_container');
+                    if (bookContainers.length > 0) {
+                        enhanceWidget(bookContainers);
+                        observer.disconnect();
+                    }
+                });
+
+                const widget = document.getElementById('gr_grid_widget_1746707715');
+                if (widget) {
+                    observer.observe(widget, {
+                        childList: true,
+                        subtree: true
+                    });
+                }
+
+                function enhanceWidget(containers) {
+                    containers.forEach(container => {
+                        const link = container.querySelector('a');
+                        if (!link) return;
+
+                        const href = link.href;
+
+                        const match = booksWithReviews.find(book => {
+                           const bookIdMatch = book.url.match(/show\/(\d+)/);
+                           const widgetIdMatch = href.match(/show\/(\d+)/);
+
+                           if (bookIdMatch && widgetIdMatch) {
+                               return bookIdMatch[1] === widgetIdMatch[1];
+                           }
+                           return book.url === href;
+                        });
+
+                        if (match) {
+                            container.classList.add('has-review');
+                            const bookmarkInfo = document.createElement('a');
+                            bookmarkInfo.href = match.review;
+                            bookmarkInfo.className = 'review-bookmark';
+                            bookmarkInfo.target = '_blank';
+                            bookmarkInfo.title = 'Read Review';
+                            bookmarkInfo.innerHTML = '<i class="bi bi-bookmark-star-fill"></i>';
+                            container.appendChild(bookmarkInfo);
+                        }
+                    });
+                }
+            });
+        </script>
     </div>
 </div>
