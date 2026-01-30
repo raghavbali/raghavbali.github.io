@@ -127,7 +127,7 @@ During his Master’s, Raghav took on exciting courses like Machine Learning, So
 
 Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and ideas. He’s also a passionate photographer—check out his work on [Instagram](https://www.instagram.com/raghavbali/) and [VSCO](https://vsco.co/raghavbali/gallery).
 
-[Occassional Blog Posts](/blog)
+[Occassional Blog Posts](#/articles)
 
 ---
 
@@ -258,14 +258,55 @@ Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and i
 
 <hr>
 
+<a name="/articles"></a>
 # Articles
-{% for article in site.data.articles %}
-  - [{{ article.title }}]({{ article.url }})
-{% endfor %}
-  <!-- Dead Links -->
-  <!-- - [CourseBricks: Introduction to Natural Language Processing](https://coursebricks.com/blog-introduction-to-natural-language-processing/) -->
-  <!-- - [Top 25 Python Libraries for Machine Learning](https://www.zeolearn.com/magazine/python-libraries-for-machine-learning)
-  - [How to Become a Data Scientist](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist) -->
+
+<div class="row">
+    <div class="col-xs-12">
+        <ul class="entries">
+            {% assign undated_articles = "" | split: "" %}
+            {% assign dated_articles = "" | split: "" %}
+
+            {% for article in site.data.articles %}
+                {% if article.active != false %}
+                    {% if article.date %}
+                        {% assign dated_articles = dated_articles | push: article %}
+                    {% else %}
+                        {% assign undated_articles = undated_articles | push: article %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+
+            {% assign all_dated = site.posts | concat: dated_articles | sort: "date" | reverse %}
+            {% assign all_items = undated_articles | concat: all_dated %}
+
+            {% for item in all_items %}
+                <li>
+                    <span class="title">
+                        {% if item.layout == 'post' %}
+                            <i class="bi bi-github"></i>
+                            {% assign item_url = item.url %}
+                            {% assign link_target = "" %}
+                        {% else %}
+                            {% if item.url contains "medium.com" or item.url contains "towardsdatascience.com" %}
+                                <i class="bi bi-medium"></i>
+                            {% else %}
+                                🔗
+                            {% endif %}
+                            {% assign item_url = item.url %}
+                            {% assign link_target = 'target="_blank"' %}
+                        {% endif %}
+                        &nbsp;
+                        <a {{ link_target }} href="{{ item_url }}">{{ item.title }}</a>
+                    </span>
+                    {% if item.date %}
+                    <span class="date">{{ item.date | date: "%d %B %Y" }}</span>
+                    {% endif %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
   
 
 <!-- <div id="read-more-button">
