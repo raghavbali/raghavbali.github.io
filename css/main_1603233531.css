@@ -107,7 +107,8 @@ ul.nav-bar li {
 
 .page-content .entries li {
   margin-bottom: 1.4em;
-  display: block;
+  display: flex;
+  flex-direction: column;
   padding-right: 0;
 }
 
@@ -116,11 +117,11 @@ ul.nav-bar li {
 }
 
 .page-content .entries span.date {
-  float: right;
   color: #91a3b0;
   font-size: 0.8em;
-  line-height: 2em;
+  line-height: 1.4em;
   text-transform: uppercase;
+  margin-top: 3px;
 }
 
 .page-content .entries .title {
@@ -131,9 +132,6 @@ ul.nav-bar li {
 }
 
 @media (max-width: 640px) {
-  .entries span.date {
-    display: none;
-  }
   .page-content .entries .title {
     font-size: 1.1em;
   }
