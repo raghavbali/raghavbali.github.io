@@ -3,7 +3,7 @@ layout: post
 title:  "Classification using Percentron"
 date:   2016-12-30 10:22:34 +0530
 categories: general
-excerpt:    "The meaning of the word perceptron as per the English dictionary is "a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate"
+excerpt:    'The meaning of the word perceptron as per the English dictionary is "a computer model or computerized machine devised to represent or simulate the ability of the brain to recognize and discriminate"'
 ---
 
 This definition holds pretty true even when we talk in the context of Machine Learning. A Perceptron is a _Supervised Classification_ algorithm.
