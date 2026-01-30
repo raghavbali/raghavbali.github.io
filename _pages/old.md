@@ -6,6 +6,7 @@ permalink:  /blog/
 
 <div class="row">
     <div class="col-xs-12">
+        <p>This page is not rendered anymore, all article links are rendered on index.md</p>
         <ul class="entries">
             {% for post in site.posts %}
                 <li>
