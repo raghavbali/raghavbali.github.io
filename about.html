@@ -1,0 +1,62 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Bio</h2>
+        <p>Raghav Bali is a Principal Data Scientist at Delivery Hero, one of the world’s leading food delivery platforms, based in Berlin, Germany. With over 15 years of experience, he focuses on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges. Raghav has published several peer-reviewed papers, authored more than seven books, and co-invented multiple patents in the fields of machine learning, deep learning, and NLP.</p>
+
+        <p>Before joining Delivery Hero, he worked at United Health Group (Optum) where he researched and developed a number of cutting edge solutions for the US healthcare sector. At Intel, he helped drive data-first IT initiatives using NLP, deep learning, and traditional statistical techniques. Earlier, at American Express, he tackled customer retention and digital engagement problems in the finance domain.</p>
+
+        <p>During his Master’s, Raghav took on exciting courses like Machine Learning, Software Architecture, Advanced Algorithms, and Operating Systems. He also worked on large-scale projects such as a <i>Language Recognizer for Indian Languages</i>, <i> Hierarchical Document Clustering System</i>, <i>Bitcoin-based Cloud Provisioning Platform</i> and more.</p>
+
+        <p>Outside of work, he’s a tech enthusiast who enjoys exploring new gadgets and ideas. He’s also a passionate photographer—check out his work on <a href="https://www.instagram.com/raghavbali/" target="_blank">Instagram</a> and <a href="https://vsco.co/raghavbali/gallery" target="_blank">VSCO</a>.</p>
+
+        <div class="my-5">
+            <h3>Experience</h3>
+            <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 2rem; align-items: end;">
+                <div style="text-align: center;">
+                    <a href="https://www.deliveryhero.com/" target="_blank">
+                        <img src="{{ '/img/logos/dh_logo.png' | relative_url }}" alt="Delivery Hero" style="height: 40px; width: auto; object-fit: contain;">
+                    </a>
+                    <small style="display: block; margin-top: 0.5rem; color: var(--text-muted);">2022 - Present</small>
+                </div>
+                <div style="text-align: center;">
+                    <a href="https://www.optum.com/" target="_blank">
+                        <img src="{{ '/img/logos/optum_logo.png' | relative_url }}" alt="Optum" style="height: 40px; width: auto; object-fit: contain;">
+                    </a>
+                    <small style="display: block; margin-top: 0.5rem; color: var(--text-muted);">2017 - 2022</small>
+                </div>
+                <div style="text-align: center;">
+                    <a href="https://intel.in" target="_blank">
+                        <img src="{{ '/img/logos/intel_logo.png' | relative_url }}" alt="Intel" style="height: 40px; width: auto; object-fit: contain;">
+                    </a>
+                    <small style="display: block; margin-top: 0.5rem; color: var(--text-muted);">2015 - 2017</small>
+                </div>
+                <div style="text-align: center;">
+                    <a href="https://www.americanexpress.com/en-in/" target="_blank">
+                        <img src="{{ '/img/logos/amex_logo.jpg' | relative_url }}" alt="Amex" style="height: 40px; width: auto; object-fit: contain;">
+                    </a>
+                    <small style="display: block; margin-top: 0.5rem; color: var(--text-muted);">2014 - 2015</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div>
+    <h2>News</h2>
+    <ul class="list-unstyled">
+        {% for item in site.data.news %}
+        <li class="list-item">
+            <span style="font-family: monospace; background: var(--border-color); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin-right: 0.5rem; color: var(--text-color);">{{ item.year }}</span>
+            {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+        </li>
+        {% endfor %}
+    </ul>
+</div>

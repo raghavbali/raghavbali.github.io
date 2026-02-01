@@ -1,0 +1,33 @@
+- url: https://www.amazon.com/Generative-Python-PyTorch-Hands-cutting-edge-ebook/dp/B0D9M8N5R3?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.lV51H7SsqpmNzyMDBg58LORh1cYJqv4cxnkrwLc-m-L8ZCeP4Z5tV-eAUmV4XtoTT0fccUgSgu8YEYkRjp-TLESxd2Ug5dtvzodc-MRASesr6gdFKkb0TD05vndRk37t.187qf5Y45cMx7rx9z9dGpzQCMn6cn6x5FADvSZ0FoE8&dib_tag=AUTHOR
+  title: Generative AI with Python and PyTorch
+  github: https://github.com/PacktPublishing/Generative-AI-with-Python-and-PyTorch-Second-Edition
+  image: /img/books/packt_gai_2.png
+- url: https://www.amazon.in/gp/product/B0922PCNPS/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0
+  title: Generative AI with Python and TensorFlow 2
+  github: https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2
+  image: /img/books/packt_gai.jpg
+- url: https://www.amazon.in/Hands-Transfer-Learning-Python-TensorFlow/dp/1788831306/ref=sr_1_1?crid=2B3KOSW5ZHL2V&keywords=transfer+learning+python&qid=1560081081&s=gateway&sprefix=Transfer+Learnin%2Caps%2C275&sr=8-1
+  title: Hands-On Transfer Learning with Python
+  github: https://github.com/raghavbali/hands-on-transfer-learning-with-python
+  image: /img/books/packt_TL.jpg
+- url: https://www.amazon.in/Practical-Machine-Learning-Python-Problem-Solvers-ebook/dp/B077G9XF7B/ref=sr_1_3?dchild=1&keywords=Practical+Machine+Learning+with+Python&qid=1620371405&sr=8-3
+  title: Practical Machine Learning with Python
+  github: https://github.com/raghavbali/practical-machine-learning-with-python
+  image: /img/books/apress_pml.jpg
+- url: https://www.amazon.in/gp/product/B01MQ4M4VO/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i5
+  title: 'R: Unleash Machine Learning Techniques'
+  image: /img/books/r_umlt.jpg
+- url: https://www.amazon.in/gp/product/B06XX4G463/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i6
+  title: 'R: Complete Machine Learning Solutions'
+  image: /img/books/r_cmls.jpg
+- url: https://www.amazon.com/Learning-Social-Media-Analytics-actionable/dp/1787127524/ref=sr_1_1?ie=UTF8&qid=1509264422&sr=8-1&keywords=learning+social+media+analytics+with+R
+  title: Learning Social Media Analytics with R
+  github: https://github.com/raghavbali/learning-social-media-analytics-with-r
+  image: /img/books/packt_sma_r.jpg
+- url: https://www.amazon.in/Machine-Learning-Example-Raghav-Bali-ebook/dp/B01A14X6KA
+  title: R Machine Learning by Example
+  github: https://github.com/raghavbali/r_machine_learning_by_example
+  image: /img/books/packt_rml.jpg
+- url: https://github.com/raghavbali/raghavbali.github.io/raw/master/_backup_site/public/What%20you%20need%20to%20know%20about%20R%20%5BeBook%5D.pdf
+  title: 'Free eBook: What You Need To Know About R'
+  image: /img/books/packt_wyntar.png

@@ -1,0 +1,62 @@
+- id: /dhrd
+  title: 'Delivery Hero Recommendation Dataset: A Novel Dataset for Benchmarking Recommendation Algorithms'
+  conference: ACM Recsys 2023
+  authors: Yernat Assylbekov, Raghav Bali, Luke Bovard and Christian Klaue.
+  links:
+  - text: Published Version
+    url: https://dl.acm.org/doi/10.1145/3604915.3610242
+  image: /img/pubs/DHRD.png
+- id: /easter2
+  title: 'Easter2.0: Improving Convolutional Models for Handwritten Text Recognition'
+  authors: Kartik Chaudhary and Raghav Bali
+  links:
+  - text: Preprint Paper
+    url: https://arxiv.org/pdf/2205.14879
+  image: /img/pubs/easter2_arch.png
+- id: /easter
+  title: 'EASTER: Simplifying Text Recognition using only 1D Convolutions'
+  conference: CAIAC 2021
+  authors: Kartik Chaudhary and Raghav Bali
+  links:
+  - text: Preprint Paper
+    url: https://arxiv.org/pdf/2008.07839
+  - text: Published Version
+    url: https://caiac.pubpub.org/pub/fm5sy88o
+  image: /img/pubs/easter_arch.jpg
+- id: /patient1
+  title: A Simple and Interpretable Predictive Model for Healthcare
+  conference: CAIAC 2021
+  authors: Subhadip Maji, Raghav Bali, Sree Harsha Ankem and Kishore V Ayyadevara
+  links:
+  - text: Preprint Paper
+    url: https://arxiv.org/pdf/2007.13351
+  - text: Published Version
+    url: https://caiac.pubpub.org/pub/od0e1bry
+  image: /img/pubs/shap_all.jpg
+- id: /rfp1
+  title: An Interpretable Deep Learning System for Automatically Scoring Request for Proposals
+  conference: IEEE SSCI 2021
+  authors: Subhadip Maji, Anudeeo S Appe, Raghav Bali, Veera R Chikka, Arijit G Chowdhury, Vamsi M Bhandaru
+  links:
+  - text: Preprint Paper
+    url: https://arxiv.org/pdf/2008.02347
+  - text: Published Version
+    url: https://ieeexplore.ieee.org/abstract/document/9643310
+  image: /img/pubs/rfp1.png
+- id: /rfp2
+  title: Exclusion and Inclusion--A model agnostic approach to feature importance in DNNs
+  conference: IEEE ICTAI 2021
+  authors: Subhadip Maji, Arijit Ghosh Chowdhury, Raghav Bali, Vamsi M Bhandaru
+  links:
+  - text: Preprint Paper
+    url: https://arxiv.org/pdf/2007.16010
+  - text: Published Version
+    url: https://ieeexplore.ieee.org/abstract/document/9659843
+  image: /img/pubs/rfp2.png
+- id: /firewall
+  title: Real Time Failure Prediction of Load Balancers and Firewalls
+  conference: IEEE Smart Data (SmartData) 2016
+  authors: Tamoghna Ghosh, Dipanjan Sarkar, Tushar Sharma, Ashok Desai, Raghav Bali
+  links:
+  - text: Published Version
+    url: https://ieeexplore.ieee.org/abstract/document/7917199

@@ -1,0 +1,47 @@
+- title: Supercharge Your LLM Apps Using DSPy and Langfuse
+  url: https://medium.com/data-science/supercharge-your-llm-apps-using-dspy-and-langfuse-f83c02ba96a1
+  active: true
+- title: Efficient Object Detection with SSD and YoLO Models — A Comprehensive Beginner’s
+    Guide (Part 3)
+  url: https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2
+  active: true
+- title: 'Towards DataScience: Exploring Object Detection with R-CNN Models — A Comprehensive
+    Beginner’s Guide (Part 2)'
+  url: https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2
+  active: true
+- title: 'Towards DataScience: Object Detection Basics — A Comprehensive Beginner’s
+    Guide (Part 1)'
+  url: https://medium.com/towards-data-science/object-detection-basics-a-comprehensive-beginners-guide-part-1-f57380c89b78
+  active: true
+- title: 'Towards DataScience: Supercharge Training of your Deep Learning Models'
+  url: https://medium.com/towards-data-science/supercharge-training-of-your-deep-learning-models-7168ff81a042
+  active: true
+- title: 'Towards DataScience: Supercharge Image Classification with Transfer Learning'
+  url: https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c
+  active: true
+- title: 'Towards DataScience: Supercharge your Image Search with Transfer Learning'
+  url: https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb
+  active: true
+- title: 'Towards DataScience: LSTMs for Music Generation'
+  url: https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35
+  active: true
+- title: 'Perceptron : Where It All Started'
+  url: https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af
+  active: true
+- title: 'CourseBricks: Introduction to Natural Language Processing'
+  url: https://coursebricks.com/blog-introduction-to-natural-language-processing/
+  active: false
+- title: Top 25 Python Libraries for Machine Learning
+  url: https://www.zeolearn.com/magazine/python-libraries-for-machine-learning
+  active: false
+- title: How to Become a Data Scientist
+  url: https://www.zeolearn.com/magazine/how-to-become-a-data-scientist
+  active: false
+- title: PyDev of the Week
+  url: https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/
+  active: true
+  date: 2021-06-14 00:00:00 +0000
+- title: Interview with Raghav Bali, Senior Data Scientist, United Health Group
+  url: https://www.digitalvidya.com/blog/interview-with-raghav-bali/
+  active: true
+  date: 2019-11-20 00:00:00 +0000

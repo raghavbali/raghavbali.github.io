@@ -1,0 +1,104 @@
+- year: '2025'
+  title: 'Mastering LLMs: Training, Fine-Tuning, and Best Practices'
+  url: https://www.analyticsvidhya.com/datahacksummit-2025/workshops/mastering-llms-training-fine-tuning-and-best-practices-2
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/mastering_llms_workshop
+  - text: Workshop Website
+    url: https://raghavbali.github.io/mastering_llms_workshop/
+- year: '2024'
+  title: 'Unleashing LLMs: Training, Fine-Tuning and Evaluating'
+  url: https://www.analyticsvidhya.com/datahacksummit/workshops/unleashing-llms-training-finetuning-and-evaluating
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/llm_workshop
+- year: '2024'
+  title: Leveraging LLLMs for Internal Knowledge Discovery
+  url: https://odsc.com/speakers/leveraging-llms-for-internal-knowledge-discovery/
+  links:
+  - text: Github
+    url: '#'
+- year: '2023'
+  title: 'ODSC APAC Session: Generative AI Landscape'
+  url: https://github.com/raghavbali/genai_landscape_odsc2023
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/genai_landscape_odsc2023
+- year: '2023'
+  title: 'ON-DEMAND WEBINAR: Lightning Interview "Hands-On Generative AI Applications"'
+  url: https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications
+  links:
+  - text: ODSC On-Demand
+    url: https://app.aiplus.training/courses/Hands-On-Generative-AI-Applications
+- year: '2023'
+  title: 'Analytics Vidhya DataHack Summit Workshop: Natural Language Processing using Generative Models'
+  url: https://github.com/raghavbali/llm_workshop_dhs23
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/llm_workshop_dhs23
+- year: '2023'
+  title: 'Analytics Vidhya DataHack Summit Hack Session: Building Robust and Scalable Recommendation Systems for Online Food Delivery'
+  url: https://github.com/raghavbali/building_robust_recsys_dhs23
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/building_robust_recsys_dhs23
+- year: '2022'
+  title: Image Generation with GANs with ODSC India
+  url: https://github.com/raghavbali/workshop_text_classification
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/gan_tutorial
+- year: '2022'
+  title: NLP Workshop on Text Classification, 1729 Conference with Analytics Vidhya
+  url: https://github.com/raghavbali/workshop_text_classification
+  links:
+  - text: Github
+    url: https://github.com/raghavbali/workshop_text_classification
+- year: '2021'
+  title: Image Classification with Transfer Learning, Manning Publications Twitch Live-Stream
+  url: https://github.com/raghavbali/transfer-learning-in-action/tree/master/chapter_1
+  links:
+  - text: Video
+    url: https://www.twitch.tv/videos/1170692362
+- year: '2021'
+  title: Image Generation with GANs, Kaggle Data Ketchup
+  url: https://github.com/raghavbali/data_ketchup_gans
+  links:
+  - text: Video
+    url: https://www.youtube.com/watch?v=J_33jSkFQis&ab_channel=KaggleDaysMeetupDelhiNCR
+- year: '2021'
+  title: The Secret Ingredients to Train DeepFakes, ODSC APAC
+  url: https://github.com/raghavbali/deep_fakes_tutorial
+  links:
+  - text: Video
+    url: https://register.gotowebinar.com/register/7432238325978557965
+- year: '2020'
+  title: NLP Starter Pack, Analytics Vidhya Webinar
+  url: https://github.com/raghavbali/nlp_starterpack_webinar
+  links:
+  - text: Video
+    url: https://www.facebook.com/watch/live/?v=337463904223866&ref=watch_permalink
+- year: '2020'
+  title: Text Generation using Deep Learning, Springboard Webinar
+  url: https://github.com/raghavbali/text_generation
+  links:
+  - text: Video
+    url: https://www.youtube.com/watch?v=vSN5Tn38ZIc&ab_channel=SpringboardIndia
+- year: '2019'
+  title: 'Hack Session: Synthetic Text Data Generation using Recurrent Neural Networks (RNN)'
+  url: https://www.analyticsvidhya.com/datahack-summit-2019/schedule/hack-session-synthetic-text-data-generation-using-rnn-based-deep-learning-models/
+  links:
+  - text: GitHub
+    url: https://github.com/raghavbali/handwritten_text_dhs_av_2019
+- year: '2019'
+  title: 'Workshop: Applied Machine Learning'
+  url: https://www.analyticsvidhya.com/datahack-summit-2019/schedule/workshop-applied-machine-learning/
+  links:
+  - text: GitHub
+    url: https://github.com/raghavbali/appliedml_workshop_dhs_av_2019
+- year: '2018'
+  title: 'Workshop: Getting Started With Natural Language Processing'
+  url: https://www.analyticsvidhya.com/datahack-summit-2018/2018/08/04/getting-started-with-natural-language-processing/
+  links:
+  - text: GitHub
+    url: https://github.com/raghavbali/nlp_workshop_dhs18
