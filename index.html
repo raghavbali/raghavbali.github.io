@@ -1,0 +1,69 @@
+---
+layout: default
+title: Home
+---
+
+<div class="hero">
+    <div class="hero-avatar">
+        <img src="{{ '/img/cover2.jpg' | relative_url }}" alt="{{ site.author.name }}" class="img-fluid circle">
+    </div>
+    <div class="hero-content">
+        <h1>{{ site.author.name }}</h1>
+        <p class="lead" style="font-size: 1.2rem; color: var(--text-muted);">Principal Data Scientist at Delivery Hero. Author. Shutterbug.</p>
+        <p>
+            I focus on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges.
+        </p>
+        <div class="social-links">
+            <a href="https://github.com/raghavbali" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
+            <a href="https://twitter.com/rghv_bali" target="_blank" title="Twitter"><i class="bi bi-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/baliraghav/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+            <a href="https://scholar.google.com/citations?hl=en&user=3oLGqC0AAAAJ" target="_blank" title="Google Scholar"><i class="bi bi-google"></i></a>
+            <a href="https://medium.com/@Rghv_Bali" target="_blank" title="Medium"><i class="bi bi-medium"></i></a>
+            <a href="https://www.instagram.com/raghavbali/" target="_blank" title="Instagram"><i class="bi bi-instagram"></i></a>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div class="home-sections">
+    <div class="mb-5">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
+            <h3>Latest Books</h3>
+            <a href="{{ '/work' | relative_url }}">View all</a>
+        </div>
+        <div class="grid">
+            {% for book in site.data.authored_books limit:2 %}
+            <div class="grid-item">
+                <a href="{{ book.url }}" target="_blank" style="text-decoration: none; color: inherit;">
+                    <img src="{{ book.image | relative_url }}" alt="{{ book.title }}" class="img-fluid mb-2" style="max-height: 200px;">
+                    <h4 class="h5 mt-2">{{ book.title }}</h4>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="mb-5">
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
+            <h3>Recent Articles</h3>
+            <a href="{{ '/blog' | relative_url }}">View all</a>
+        </div>
+        <ul class="list-unstyled">
+            {% assign count = 0 %}
+            {% for article in site.data.articles %}
+                {% if article.active != false %}
+                    {% if count < 3 %}
+                    <li class="list-item">
+                        <a href="{{ article.url }}" target="_blank" class="list-item-title">{{ article.title }}</a>
+                        {% if article.date %}
+                        <span class="list-item-meta">{{ article.date | date: "%B %d, %Y" }}</span>
+                        {% endif %}
+                    </li>
+                    {% assign count = count | plus: 1 %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
