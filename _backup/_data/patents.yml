@@ -1,0 +1,66 @@
+- id: /patent1
+  title: Cybersecurity for sensitive-information utterances in interactive voice sessions
+  patent_id: US11854553B2
+  authors: Devikiran Ramadas;Gregory J Boss;Ninad Sathaye;<b>Raghav Bali</b>;Nitin Dwivedi
+  url: https://patents.google.com/patent/US11854553B2/en?inventor=Raghav+Bali
+  status: Granted
+- id: /patent2
+  title: Machine learning techniques for natural language processing using predictive entity scoring
+  patent_id: US11853700B1
+  authors: Nathan H. Funk;Eric D. Tryon;Amy L. Jensen;Sudheer Ponnala;M. P. S. Jagannadha Rao;<b>Raghav Bali</b>;Veera Raghavendra Chikka;Subhadip Maji;Anudeep Srivatsav Appe
+  url: https://patents.google.com/patent/US11853700B1/en?inventor=Raghav+Bali
+  status: Granted
+- id: /patent3
+  title: Dynamic triggering of augmented reality assistance mode functionalities
+  patent_id: US11663790B2
+  authors: Kartik Chaudhary;Sudeep Choudhary;<b>Raghav Bali</b>;Anurag Das;Subhadip Maji
+  url: https://patents.google.com/patent/US11663790B2/en?inventor=Raghav+Bali
+  status: Granted
+- id: /patent4
+  title: Weighted adaptive filtering based loss function to predict the first occurrence of multiple events in a single shot
+  patent_id: US11741381B2
+  authors: V Kishore Ayyadevara;Sree Harsha Ankem;<b>Raghav Bali</b>;Rohan Khilnani;Vineet Shukla;Saikumar Chintareddy;Ranraj Rana Singh
+  url: https://patents.google.com/patent/US11741381B2/en?inventor=Raghav+Bali
+  status: Granted
+- id: /patent5
+  title: Sentiment progression analysis
+  patent_id: US11256874B2
+  authors: Ninad D. Sathaye;<b>Raghav Bali</b>;Piyush Gupta;Krishnamohan Nandiraju
+  url: https://patents.google.com/patent/US11256874B2/en?inventor=Raghav+Bali
+  status: Granted
+- id: /patent6
+  title: Cybersecurity for sensitive-information utterances in interactive voice sessions using risk profiles
+  patent_id: US20220199073A1
+  authors: Devikiran Ramadas;Gregory J Boss;Ninad Sathaye;<b>Raghav Bali</b>;Nitin Dwivedi
+  url: https://patents.google.com/patent/US20220199073A1/en?inventor=Raghav+Bali
+  status: Pending
+- id: /patent7
+  title: Routing of sensitive-information utterances through secure channels in interactive voice sessions
+  patent_id: US20230269291A1
+  authors: Devikiran Ramadas;Ninad D. Sathaye;Gregory J. Boss;<b>Raghav Bali</b>
+  url: https://patents.google.com/patent/US20230269291A1/en?inventor=Raghav+Bali
+  status: Pending
+- id: /patent8
+  title: Systems and methods for awakening a user based on sleep cycle
+  patent_id: US20230059947A1
+  authors: <b>Raghav Bali</b>;Ninad D. Sathaye;Swapna Sourav Rout
+  url: https://patents.google.com/patent/US20230059947A1/en?inventor=Raghav+Bali
+  status: Pending
+- id: /patent9
+  title: Reinforcement learning machine learning models for intervention recommendation
+  patent_id: US20230252338A1
+  authors: V. Kishore Ayyadevara;Rohan Khilnani;Swaroop S. Shekar;<b>Raghav Bali</b>;Joseph C. Cremaldi;Fritz T. Wilhelm;Vinod Burugupalli
+  url: https://patents.google.com/patent/US20230252338A1/en?inventor=Raghav+Bali
+  status: Pending
+- id: /patent10
+  title: Predictive document conversion
+  patent_id: US20210326631A1
+  authors: Kartik Chaudhary;<b>Raghav Bali</b>;V Kishore Ayyadevara;Yerraguntla Yeshwanth Reddy
+  url: https://patents.google.com/patent/US20210326631A1/en?inventor=Raghav+Bali
+  status: Pending
+- id: /patent11
+  title: Predictive data analysis operations using a hierarchical intervention recommendation machine learning framework
+  patent_id: US20230325690A1
+  authors: Ninad D. Sathaye;Manoj Kapoor;Gregory J. Boss;<b>Raghav Bali</b>
+  url: https://patents.google.com/patent/US20230325690A1/en?inventor=Raghav+Bali
+  status: Pending

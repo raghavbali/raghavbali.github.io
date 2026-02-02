@@ -1,0 +1,90 @@
+---
+layout: default
+title: Work
+permalink: /work/
+---
+
+<div class="mb-5">
+    <h2>Books</h2>
+    <div class="grid">
+        {% for book in site.data.authored_books %}
+        <div class="grid-item">
+            <a href="{{ book.url }}" target="_blank" style="display: block; color: inherit; text-decoration: none;">
+                <div style="background: var(--code-bg); padding: 1.5rem; border-radius: 8px; height: 100%; text-align: center;">
+                    <img src="{{ book.image | relative_url }}" alt="{{ book.title }}" class="img-fluid mb-3" style="max-height: 250px; display: inline-block;">
+                    <h3 class="h5 mb-2">{{ book.title }}</h3>
+                    {% if book.github %}
+                    <div class="mt-2"><object><a href="{{ book.github }}" target="_blank" class="small"><i class="bi bi-github"></i> GitHub</a></object></div>
+                    {% endif %}
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="mb-5">
+    <h2>Books Reviewed</h2>
+    <ul class="list-unstyled">
+        {% for book in site.data.reviewed_books %}
+        <li class="list-item">
+             <a href="{{ book.url }}" target="_blank" class="list-item-title">{{ book.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<hr>
+
+<div class="row" style="display: flex; flex-wrap: wrap; margin-left: -15px; margin-right: -15px;">
+    <div class="col-md-6 mb-5" style="flex: 0 0 100%; max-width: 100%; padding-left: 15px; padding-right: 15px;">
+        <h2>Papers</h2>
+        {% for paper in site.data.papers %}
+        <div class="mb-4">
+            <h4 class="h5 pub-title">{{ paper.title }}</h4>
+            <div class="pub-meta">
+                {% if paper.conference %}
+                <strong>{{ paper.conference }}</strong><br>
+                {% endif %}
+                {{ paper.authors }}
+            </div>
+            {% if paper.links %}
+            <div class="mt-2" style="font-size: 0.9em;">
+                {% for link in paper.links %}
+                <a href="{{ link.url }}" target="_blank" class="mr-3">{{ link.text }}</a>
+                {% unless forloop.last %} &middot; {% endunless %}
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="col-md-6 mb-5" style="flex: 0 0 100%; max-width: 100%; padding-left: 15px; padding-right: 15px;">
+        <h2>Patents</h2>
+        {% for patent in site.data.patents %}
+        <div class="mb-4">
+            <h4 class="h5 pub-title">{{ patent.title }}</h4>
+            <div class="pub-meta">
+                {% if patent.patent_id %}
+                <strong>{{ patent.patent_id }}</strong> -
+                {% endif %}
+                {{ patent.status }}<br>
+                <small>{{ patent.authors }}</small>
+            </div>
+            <div class="mt-1" style="font-size: 0.9em;">
+                <a href="{{ patent.url }}" target="_blank">View Patent</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+@media (min-width: 768px) {
+    .col-md-6 {
+        flex: 0 0 50% !important;
+        max-width: 50% !important;
+    }
+}
+</style>
