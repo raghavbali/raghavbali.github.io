@@ -4,8 +4,17 @@ title: Work
 permalink: /work/
 ---
 
+<nav class="sub-nav">
+    <ul>
+        <li><a href="#books">Books</a></li>
+        <li><a href="#reviewed">Reviewed</a></li>
+        <li><a href="#papers">Papers</a></li>
+        <li><a href="#patents">Patents</a></li>
+    </ul>
+</nav>
+
 <div class="mb-5">
-    <h2>Books</h2>
+    <h2 id="books">Books</h2>
     <div class="grid">
         {% for book in site.data.authored_books %}
         <div class="grid-item">
@@ -24,7 +33,7 @@ permalink: /work/
 </div>
 
 <div class="mb-5">
-    <h2>Books Reviewed</h2>
+    <h2 id="reviewed">Books Reviewed</h2>
     <ul class="list-unstyled">
         {% for book in site.data.reviewed_books %}
         <li class="list-item">
@@ -38,7 +47,7 @@ permalink: /work/
 
 <div class="row" style="display: flex; flex-wrap: wrap; margin-left: -15px; margin-right: -15px;">
     <div class="col-md-6 mb-5" style="flex: 0 0 100%; max-width: 100%; padding-left: 15px; padding-right: 15px;">
-        <h2>Papers</h2>
+        <h2 id="papers">Papers</h2>
         {% for paper in site.data.papers %}
         <div class="mb-4">
             <h4 class="h5 pub-title">{{ paper.title }}</h4>
@@ -61,7 +70,7 @@ permalink: /work/
     </div>
 
     <div class="col-md-6 mb-5" style="flex: 0 0 100%; max-width: 100%; padding-left: 15px; padding-right: 15px;">
-        <h2>Patents</h2>
+        <h2 id="patents">Patents</h2>
         {% for patent in site.data.patents %}
         <div class="mb-4">
             <h4 class="h5 pub-title">{{ patent.title }}</h4>
