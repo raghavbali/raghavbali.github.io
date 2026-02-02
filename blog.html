@@ -4,8 +4,15 @@ title: Blog
 permalink: /blog/
 ---
 
+<nav class="sub-nav">
+    <ul>
+        <li><a href="#articles">Articles</a></li>
+        <li><a href="#talks">Talks</a></li>
+    </ul>
+</nav>
+
 <div class="mb-5">
-    <h2>Articles</h2>
+    <h2 id="articles">Articles</h2>
     <ul class="list-unstyled">
         {% assign undated_articles = "" | split: "" %}
         {% assign dated_articles = "" | split: "" %}
@@ -48,7 +55,11 @@ permalink: /blog/
 <hr>
 
 <div class="mb-5">
-    <h2>Talks</h2>
+    <h2 id="talks">Talks</h2>
+    <div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
+         <div style="flex: 1;"><img src="{{ '/img/talks/talk_2023.jpg' | relative_url }}" class="img-fluid" alt="Talk 2023"></div>
+         <div style="flex: 1;"><img src="{{ '/img/talks/talk_2019.jpeg' | relative_url }}" class="img-fluid" alt="Talk 2019"></div>
+    </div>
     {% assign talks_by_year = site.data.talks | group_by: "year" | sort: "name" | reverse %}
     {% for year_group in talks_by_year %}
     <h3 class="h5 mt-4">{{ year_group.name }}</h3>
