@@ -44,26 +44,47 @@ title: Home
         </div>
     </div>
 
-    <div class="mb-5">
-        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
-            <h3>Recent Articles</h3>
-            <a href="{{ '/blog' | relative_url }}">View all</a>
-        </div>
-        <ul class="list-unstyled">
-            {% assign count = 0 %}
-            {% for article in site.data.articles %}
-                {% if article.active != false %}
-                    {% if count < 3 %}
-                    <li class="list-item">
-                        <a href="{{ article.url }}" target="_blank" class="list-item-title">{{ article.title }}</a>
-                        {% if article.date %}
-                        <span class="list-item-meta">{{ article.date | date: "%B %d, %Y" }}</span>
+    <div class="grid-2" style="gap: 4rem;">
+        <div class="mb-5">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
+                <h3>Recent Articles</h3>
+                <a href="{{ '/blog' | relative_url }}">View all</a>
+            </div>
+            <ul class="list-unstyled">
+                {% assign count = 0 %}
+                {% for article in site.data.articles %}
+                    {% if article.active != false %}
+                        {% if count < 3 %}
+                        <li class="list-item">
+                            <a href="{{ article.url }}" target="_blank" class="list-item-title">{{ article.title }}</a>
+                            {% if article.date %}
+                            <span class="list-item-meta">{{ article.date | date: "%B %d, %Y" }}</span>
+                            {% endif %}
+                        </li>
+                        {% assign count = count | plus: 1 %}
                         {% endif %}
-                    </li>
-                    {% assign count = count | plus: 1 %}
                     {% endif %}
-                {% endif %}
-            {% endfor %}
-        </ul>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="mb-5">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
+                <h3>Recent News</h3>
+                <a href="{{ '/about' | relative_url }}">View all</a>
+            </div>
+            <ul class="list-unstyled">
+                {% assign news_count = 0 %}
+                {% for item in site.data.news %}
+                    {% if news_count < 5 %}
+                    <li class="list-item">
+                        <span style="font-family: monospace; background: var(--border-color); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin-right: 0.5rem; color: var(--text-color);">{{ item.year }}</span>
+                        {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+                    </li>
+                    {% assign news_count = news_count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
     </div>
 </div>
