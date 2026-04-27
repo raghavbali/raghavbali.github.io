@@ -7,9 +7,10 @@ permalink: /bookshelf/
 <div class="bookshelf-container">
 
     <div class="book-list">
-        <h3>Currently Reading</h3>
-        {% for book in site.data.books %}
-        {% if book.status == 'reading' %}
+        <div class="mb-5">
+            <h3>Currently Reading</h3>
+            {% for book in site.data.books %}
+            {% if book.status == 'reading' %}
         <div class="book-item">
             <div class="book-info">
                 <a href="{{ book.url }}" target="_blank" class="book-title">
@@ -23,13 +24,15 @@ permalink: /bookshelf/
                 </a>
             </div>
             {% endif %}
+            </div>
+            {% endif %}
+            {% endfor %}
         </div>
-        {% endif %}
-        {% endfor %}
 
-        <h3>Books with Reviews</h3>
-        {% for book in site.data.books %}
-        {% if book.review_url %}
+        <div class="mb-5">
+            <h3>Books with Reviews</h3>
+            {% for book in site.data.books %}
+            {% if book.review_url %}
         <div class="book-item">
             <div class="book-info">
                 <a href="{{ book.url }}" target="_blank" class="book-title">
@@ -41,9 +44,10 @@ permalink: /bookshelf/
                     <i class="bi bi-bookmark-star-fill"></i>
                 </a>
             </div>
+            </div>
+            {% endif %}
+            {% endfor %}
         </div>
-        {% endif %}
-        {% endfor %}
     </div>
 
     <div class="goodreads-widget-container">
