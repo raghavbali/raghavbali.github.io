@@ -246,9 +246,9 @@ permalink:  /breadcrumbs/
                         <span>&bull;</span>
                         <span>Shared:</span>
                         {% if entry.bluesky_url %}
-                            <a href="{{ entry.bluesky_url }}" target="_blank" class="social-link-icon active" title="View on BlueSky"><i class="bi bi-cloud-fill"></i></a>
+                            <a href="{{ entry.bluesky_url }}" target="_blank" class="social-link-icon active" title="View on BlueSky"><i class="bi bi-bluesky"></i></a>
                         {% else %}
-                            <span class="social-link-icon" title="Published to BlueSky (No link)"><i class="bi bi-cloud"></i></span>
+                            <span class="social-link-icon" title="Published to BlueSky (No link)"><i class="bi bi-bluesky"></i></span>
                         {% endif %}
                         
                         {% if entry.mastodon_url %}
