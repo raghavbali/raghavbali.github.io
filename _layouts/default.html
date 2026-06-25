@@ -7,6 +7,18 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+    <style>
+        .nav-breadcrumbs-symbol {
+            color: var(--accent-red) !important;
+            font-weight: 700 !important;
+            font-size: 1.1rem;
+            transition: opacity 0.2s;
+        }
+        .nav-breadcrumbs-symbol:hover {
+            opacity: 0.8;
+            text-decoration: none !important;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -21,6 +33,7 @@
                 <a href="{{ '/blog' | relative_url }}" class="nav-link {% if page.url contains '/blog' %}active{% endif %}">Blog</a>
                 <a href="{{ '/bookshelf' | relative_url }}" class="nav-link {% if page.url contains '/bookshelf' %}active{% endif %}">BookShelf</a>
                 <a href="{{ '/about' | relative_url }}" class="nav-link {% if page.url contains '/about' %}active{% endif %}">About</a>
+                <a href="{{ '/breadcrumbs' | relative_url }}" class="nav-breadcrumbs-symbol {% if page.url contains '/breadcrumbs' %}active{% endif %}" title="Breadcrumbs">/</a>
             </nav>
         </header>
 

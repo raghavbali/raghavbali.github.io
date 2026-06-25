@@ -7,6 +7,7 @@
     --border-color: #eee;
     --code-bg: #f8f9fa;
     --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --accent-red: #a00000;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,6 +19,7 @@
         --link-hover-color: #99ccff;
         --border-color: #333;
         --code-bg: #222;
+        --accent-red: #ff6b6b;
     }
 }
 
@@ -29,6 +31,7 @@ body.dark-theme {
     --link-hover-color: #99ccff;
     --border-color: #333;
     --code-bg: #222;
+    --accent-red: #ff6b6b;
 }
 
 body {
