@@ -1,5 +1,13 @@
+- date: '2026-06-25'
+  time: '13:07:30'
+  category: Log
+  is_post: true
+  content: linked my journal to my personal website hosted on github
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp4iqe646x2a
+  mastodon_url: https://mastodon.social/@raghavbali/116810897809993183
 - date: '2026-06-24'
-  time: 08:26:26
+  time: '08:26:26'
   category: Log
   is_post: true
   content: 'for some reason tasks are getting terminated in between, no reasons provided
@@ -8,7 +16,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-24'
-  time: 06:07:41
+  time: '06:07:41'
   category: Log
   is_post: false
   content: 'Session reset: all active JSONL conversation logs purged for a completely
@@ -17,7 +25,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-24'
-  time: 01:42:57
+  time: '01:42:57'
   category: Log
   is_post: true
   content: I should explore creating a package to enable scheduled tasks in pi-dev
@@ -25,7 +33,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-24'
-  time: 01:11:20
+  time: '01:11:20'
   category: Log
   is_post: true
   content: testing if new session creation succeeds and still allows for scheduled
@@ -281,7 +289,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 05:14
+  time: '05:14'
   category: Log
   is_post: false
   content: pi dev gemma4 work pretty nicely with things like skill creation and file
@@ -291,7 +299,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 04:30
+  time: '04:30'
   category: Log
   is_post: false
   content: listening to Kevin Murphy's lecture on Agents while keeping an eye on Aviraj
@@ -302,7 +310,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 03:13
+  time: '03:13'
   category: Reflection
   is_post: false
   content: Was able to work with bluesky seamlessly. Maston turns out to be messy
@@ -314,7 +322,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 00:24
+  time: '00:24'
   category: Reflection
   is_post: false
   content: queueing of tasks also works nicely when context utilisation is under 50%.
@@ -322,7 +330,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 00:21
+  time: '00:21'
   category: Reflection
   is_post: false
   content: context utilisation directly impacts agent adherence and quality.
@@ -330,7 +338,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 00:19
+  time: '00:19'
   category: Reflection
   is_post: false
   content: spost is a composite skill that uses mpost and bpost for cross platform
@@ -339,7 +347,7 @@
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
-  time: 00:10
+  time: '00:10'
   category: Reflection
   is_post: false
   content: lfm2.5 is hallucinating a lot and making mistakes on simple tasks as well.

@@ -76,21 +76,15 @@ permalink:  /breadcrumbs/
         color: var(--text-muted);
         letter-spacing: 0.08em;
         margin-bottom: 12px;
-        border-bottom: 1px solid var(--border-color);
-        padding-bottom: 3px;
         font-weight: 600; /* Bold/medium weight matching site headers */
     }
     
     .crumb-row {
-        margin-bottom: 20px;
-        padding-bottom: 15px;
-        border-bottom: 1px dashed var(--border-color);
+        margin-bottom: 18px;
     }
     
     .crumb-row:last-child {
-        border-bottom: none;
         margin-bottom: 0;
-        padding-bottom: 0;
     }
     
     .crumb-main-text {
@@ -148,14 +142,16 @@ permalink:  /breadcrumbs/
     }
     
     .social-link-icon {
-        color: var(--border-color);
+        color: var(--text-muted);
+        opacity: 0.35;
         text-decoration: none !important;
         font-size: 1.05em;
-        transition: color 0.15s ease;
+        transition: color 0.15s ease, opacity 0.15s ease;
     }
     
     .social-link-icon.active {
         color: var(--text-muted);
+        opacity: 1;
     }
     
     .social-link-icon.active:hover {
