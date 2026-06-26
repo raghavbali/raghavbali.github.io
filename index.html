@@ -32,7 +32,7 @@ title: Home
     <div class="mb-5">
         <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
             <h3>Latest Books</h3>
-            <a href="{{ '/work' | relative_url }}">View all</a>
+            <a href="{{ '/published-works/#books' | relative_url }}">View all</a>
         </div>
         <div class="grid grid-3">
             {% for book in site.data.authored_books limit:3 %}
@@ -73,7 +73,7 @@ title: Home
         <div class="mb-5">
             <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
                 <h3>Recent News</h3>
-                <a href="{{ '/about' | relative_url }}">View all</a>
+                <a href="{{ '/about/#news' | relative_url }}">View all</a>
             </div>
             <ul class="list-unstyled">
                 {% assign news_count = 0 %}
