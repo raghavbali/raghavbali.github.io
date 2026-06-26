@@ -19,6 +19,24 @@
             text-decoration: none !important;
         }
     </style>
+    <meta name="color-scheme" content="light dark">
+    <script>
+        (function() {
+            var savedTheme = localStorage.getItem('theme');
+            if (savedTheme === 'dark') {
+                document.documentElement.classList.add('dark-theme');
+            } else if (savedTheme === 'light') {
+                document.documentElement.classList.remove('dark-theme');
+            } else {
+                var hour = new Date().getHours();
+                var isNight = hour >= 19 || hour < 7;
+                var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+                if (isNight || systemDark) {
+                    document.documentElement.classList.add('dark-theme');
+                }
+            }
+        })();
+    </script>
 </head>
 <body>
     <div class="container">
@@ -26,15 +44,20 @@
             <h3 class="masthead-title">
                 <a href="{{ '/' | relative_url }}" title="Home">{{ site.name }}</a>
             </h3>
-            <nav class="nav">
-                <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
-                <a href="{{ '/published-works' | relative_url }}" class="nav-link {% if page.url contains '/published-works' %}active{% endif %}">Published Works</a>
-                <a href="{{ '/talks' | relative_url }}" class="nav-link {% if page.url contains '/talks' %}active{% endif %}">Talks</a>
-                <a href="{{ '/blog' | relative_url }}" class="nav-link {% if page.url contains '/blog' %}active{% endif %}">Blog</a>
-                <a href="{{ '/bookshelf' | relative_url }}" class="nav-link {% if page.url contains '/bookshelf' %}active{% endif %}">BookShelf</a>
-                <a href="{{ '/about' | relative_url }}" class="nav-link {% if page.url contains '/about' %}active{% endif %}">About</a>
-                <a href="{{ '/breadcrumbs' | relative_url }}" class="nav-breadcrumbs-symbol {% if page.url contains '/breadcrumbs' %}active{% endif %}" title="Breadcrumbs">/</a>
-            </nav>
+            <div class="masthead-right">
+                <nav class="nav">
+                    <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">Home</a>
+                    <a href="{{ '/published-works' | relative_url }}" class="nav-link {% if page.url contains '/published-works' %}active{% endif %}">Published Works</a>
+                    <a href="{{ '/talks' | relative_url }}" class="nav-link {% if page.url contains '/talks' %}active{% endif %}">Talks</a>
+                    <a href="{{ '/blog' | relative_url }}" class="nav-link {% if page.url contains '/blog' %}active{% endif %}">Blog</a>
+                    <a href="{{ '/bookshelf' | relative_url }}" class="nav-link {% if page.url contains '/bookshelf' %}active{% endif %}">BookShelf</a>
+                    <a href="{{ '/about' | relative_url }}" class="nav-link {% if page.url contains '/about' %}active{% endif %}">About</a>
+                    <a href="{{ '/breadcrumbs' | relative_url }}" class="nav-breadcrumbs-symbol {% if page.url contains '/breadcrumbs' %}active{% endif %}" title="Breadcrumbs">/</a>
+                </nav>
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle Theme" title="Toggle Theme">
+                    <i class="bi bi-moon-stars"></i>
+                </button>
+            </div>
         </header>
 
         <main class="page-content">

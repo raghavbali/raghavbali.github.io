@@ -1,3 +1,66 @@
+- date: '2026-06-26'
+  time: '11:13:53'
+  category: Log
+  is_post: true
+  content: '[Antigravity2]
+
+
+    today exploring antigravity2 for personal website improvements as well as something
+    new... i am calling it gnocchi. The constant approval for tool use is annoying
+    but important guardrail nonetheless. Gemini 3.5 Flash High'
+  tags:
+  - antigravity2
+  - gnocchi
+  - Gemini 3.5 Flash
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp6su4shte2s
+  mastodon_url: https://mastodon.social/@raghavbali/116816113384060062
+- date: '2026-06-25'
+  time: '18:44:45'
+  category: Log
+  is_post: false
+  content: '[AI Stack] [Brain Dump]
+
+
+    AI psychosis! 🤯 Setup: Qwen3.6 + pi-dev as my personal assistant & local LLM playground;
+    Antigravity 2 enabled new website breadcrumbs tooling Website-Breadcrumbs. Work
+    AI is a separate beast. Work AI is a separate beast. Missing link? OpenAI''s Codex
+    & Whisper flow—need to explore these soon.'
+  tags:
+  - Qwen3.6
+  - Website-Breadcrumbs
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp53lgnfc42d
+  mastodon_url: https://mastodon.social/@raghavbali/116812223981102951
+- date: '2026-06-25'
+  time: '17:58:17'
+  category: Log
+  is_post: true
+  content: ai psychosis kicking in. Pi-dev with qwen3.6 handling todos and journaling,
+    NotebookLM keeping me up to date with latest papers (Qwen world podcast up for
+    tonight), Gemini 3.5 flash taking care of app development, Jules for website ux
+    updates and antigravity 2 for exploring autonomous agents (breadcrumbs and pi-bot
+    sync). Work related AI is another ball game. All through missing is openai's codex
+    and whisper flow (or similar). Should explore these soon as well
+  tags: []
+  bluesky_url: null
+  mastodon_url: https://mastodon.social/@raghavbali/116812041257080825
+- date: '2026-06-25'
+  time: '13:28:52'
+  category: Log
+  is_post: true
+  content: the constant termination and dropped tasks has left the control-centre
+    / dashboard app for my pi-bot
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp4jwl3tmy2c
+  mastodon_url: https://mastodon.social/@raghavbali/116810981850428931
+- date: '2026-06-25'
+  time: '13:24:13'
+  category: Log
+  is_post: true
+  content: the constant termination and dropped tasks has left the control-centre
+    / dashboard app for my pi-bot
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp4job4ltf2n
+  mastodon_url: https://mastodon.social/@raghavbali/116810963575317627
 - date: '2026-06-25'
   time: '13:07:30'
   category: Log
