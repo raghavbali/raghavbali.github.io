@@ -1,3 +1,67 @@
+- date: '2026-07-11'
+  time: '18:57:06'
+  category: Log
+  is_post: true
+  content: 'pitgram is directly available here: https://pi.dev/packages/pitgram?name=pitgram&sort=name'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfdqa6aj32c
+  mastodon_url: https://mastodon.social/@raghavbali/116902869495045247
+- date: '2026-07-11'
+  time: '18:56:53'
+  category: Log
+  is_post: true
+  content: pitgram is a pi-dev extension plugin that extends existing packages by
+    adding new session creation (a specific requirement I had for myself. _Local Agents
+    enabling bespoke apps_ is finally coming true. -pi-dev|gemma4|qwen3.6|glm5.2
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfdptfzxd2r
+  mastodon_url: https://mastodon.social/@raghavbali/116902868600630675
+- date: '2026-07-11'
+  time: '07:24:38'
+  category: Log
+  is_post: true
+  content: exploring nvidia nim based access to glm5.2. the response time is pretty
+    amazing yet comparable to local models. exciting times
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqe4zyx5ry2d
+  mastodon_url: https://mastodon.social/@raghavbali/116900146586720562
+- date: '2026-07-11'
+  time: '06:32:01'
+  category: Log
+  is_post: true
+  content: gemma4 mtp on ollama responded to a simple _Hi_ with a response stating
+    available skills is pretty delightful
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqe23vxjrf2z
+  mastodon_url: https://mastodon.social/@raghavbali/116899939707575659
+- date: '2026-07-06'
+  time: '21:52:28'
+  category: Log
+  is_post: true
+  content: pitgram now supports creation of new sessions from telegram
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mpz37a2wuy2r
+  mastodon_url: https://mastodon.social/@raghavbali/116875247541828939
+- date: '2026-06-26'
+  time: '17:37:58'
+  category: Log
+  is_post: true
+  content: gnocchi is complete and turned out far better than I expected. on some
+    final polish and proper announcements soon. Have to get it done before I am back
+    to work on Monday. Google Gemini 3.5 Flash works like a charm with minimal handholding
+    (I know 0 swift 🙊)
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp7icvx4ja2y
+  mastodon_url: https://mastodon.social/@raghavbali/116817623649532812
+- date: '2026-06-26'
+  time: '14:38:23'
+  category: Log
+  is_post: true
+  content: antigravity 2 seems to hit daily quota pretty fast. still impressed by
+    the progress on gnocchi and a pi-dev extension I am working on in parallel
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp76bs7pqf2m
+  mastodon_url: https://mastodon.social/@raghavbali/116816917500977639
 - date: '2026-06-26'
   time: '11:13:53'
   category: Log
