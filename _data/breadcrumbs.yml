@@ -1,4 +1,31 @@
 - date: '2026-08-14'
+  time: '23:50:00'
+  category: Log
+  is_post: true
+  content: somehow all LLMS know that they can use curl with wttr.in to get weather
+    info without any steering. wow
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3dxc6j5z2h
+  mastodon_url: https://mastodon.social/@raghavbali/117096539785531054
+- date: '2026-08-14'
+  time: '23:49:12'
+  category: Log
+  is_post: true
+  content: 'gemma4: when it works, it works like a charm and boy that tps. qwen is
+    amazing but needs to be reminded about AGENTS.md and a bit of steering'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3dvue3k72r
+  mastodon_url: https://mastodon.social/@raghavbali/117096536636677478
+- date: '2026-08-14'
+  time: '23:47:50'
+  category: Log
+  is_post: true
+  content: Wow, gemma just streamed the exact required output message without actually
+    executing the commands. Not a failure, just plain lying
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3dtg7wnn2h
+  mastodon_url: https://mastodon.social/@raghavbali/117096531265332026
+- date: '2026-08-14'
   time: '23:15:13'
   category: Log
   is_post: true
