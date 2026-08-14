@@ -1,3 +1,85 @@
+- date: '2026-08-14'
+  time: '23:15:13'
+  category: Log
+  is_post: true
+  content: trying out meta's muse-glimmer. works good so far, thinking vibes are a
+    bit weird but maybe I am being critical. Tool usage seems pretty decent so far.
+    TPS seems a bit on the lower side as compared to qwen3.6 and gemma4
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3bz3pyj72e
+  mastodon_url: https://mastodon.social/@raghavbali/117096403011438568
+- date: '2026-07-28'
+  time: '19:40:33'
+  category: Log
+  is_post: true
+  content: Tried image generation without explicit tooling information provided to
+    pi. simply asked it to use ollama with a specific model along with the prompt
+    and voila, it just did it
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrq63lpq7x2j
+  mastodon_url: https://mastodon.social/@raghavbali/116999299637990282
+- date: '2026-07-27'
+  time: '22:38:46'
+  category: Log
+  is_post: true
+  content: "gemma4:26b thinking is absolute nuts... just look at this\n\n \"Wait,\
+    \ looking at AGENTS.md:\n \"ABSOLUTE OUTPUT PRIMACY: If a task maps to a script-backed\
+    \ command, your VERY FIRST output token must be the forward slash (/) character.\
+    \ Never include conversational preambles.\" \""
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrnxlcgffb24
+  mastodon_url: https://mastodon.social/@raghavbali/116994338103577298
+- date: '2026-07-27'
+  time: '22:35:49'
+  category: Learning
+  is_post: true
+  content: 'tool calling and contextual understanding is orders of magnitudes better
+    between 12b and 26b without any impact on tps.
+
+
+    well there is but the tradeoff is more than worth it'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrnxfz7fce23
+  mastodon_url: https://mastodon.social/@raghavbali/116994326465145446
+- date: '2026-07-27'
+  time: '22:20:51'
+  category: Log
+  is_post: true
+  content: gemma4-26b-mlx using ollama with pi is as blazing fast as the 12b variant.
+    This is beyond fantastic. Amazing work by ollama and google teams
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrnwlcbcpw2j
+  mastodon_url: https://mastodon.social/@raghavbali/116994267640234844
+- date: '2026-07-12'
+  time: '16:19:39'
+  category: Log
+  is_post: true
+  content: 'nvidia NIM works most of the time but isnt suitable for long running tasks.
+    the API tends to timeout pretty often, still a good way to explore latest open
+    weights models like glm5.2
+
+
+    however I would be keeping to local models for better control and reliability'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqhlfiyo4q2l
+  mastodon_url: https://mastodon.social/@raghavbali/116907912643515178
+- date: '2026-07-11'
+  time: '19:18:47'
+  category: Log
+  is_post: true
+  content: 'antigravity with Gemini 3.5 Flash: single post capability check'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfewyzggl2x
+  mastodon_url: https://mastodon.social/@raghavbali/116902954737902942
+- date: '2026-07-11'
+  time: '19:18:25'
+  category: Log
+  is_post: true
+  content: This is antigravity with Gemini 3.5 Flash trying to add threading capabilities
+    to existing skills.\n\nStay tuned!
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfewbnro32d
+  mastodon_url: https://mastodon.social/@raghavbali/116902953253036389
 - date: '2026-07-11'
   time: '18:57:06'
   category: Log
@@ -80,7 +162,7 @@
   mastodon_url: https://mastodon.social/@raghavbali/116816113384060062
 - date: '2026-06-25'
   time: '18:44:45'
-  category: Log
+  category: AI-Stack
   is_post: false
   content: '[AI Stack] [Brain Dump]
 
