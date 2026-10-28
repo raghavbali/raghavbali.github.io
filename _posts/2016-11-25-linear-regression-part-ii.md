@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Linear Regression Part II"
-date:   2016-11-25 17:49:34 +0530
+summary: Building and evaluating a regression model in Python, including sample estimates, assumptions, and statistical
+  interpretation.
+title: Linear Regression Part II
+date: 2016-11-25 17:49:34 +0530
 categories: statistics
-excerpt:    "OLS Part 2"
-logo:       "/img/posts/ols/ols_final_plot.PNG"
+excerpt: OLS Part 2
+logo: /img/posts/ols/ols_final_plot.PNG
 ---
 ## Regression Analysis
 In the previous post we had a quick sneak peak into Regression and Ordinary Least Squares Regression in particular. In this post we will build onto those concepts and understand how a linear regression model is built and evaluated. We will use some ```python``` to get the job done!

@@ -7,9 +7,13 @@
 - id: /patent2
   title: Machine learning techniques for natural language processing using predictive entity scoring
   patent_id: US11853700B1
-  authors: Nathan H. Funk;Eric D. Tryon;Amy L. Jensen;Sudheer Ponnala;M. P. S. Jagannadha Rao;<b>Raghav Bali</b>;Veera Raghavendra Chikka;Subhadip Maji;Anudeep Srivatsav Appe
-  url: https://patents.google.com/patent/US11853700B1/en?inventor=Raghav+Bali
+  authors: Nathan H. Funk;Eric D. Tryon;Amy L. Jensen;Sudheer Ponnala;M. P. S. Jagannadha Rao;<b>Raghav
+    Bali</b>;Veera Raghavendra Chikka;Subhadip Maji;Anudeep Srivatsav Appe
+  url: https://patents.google.com/patent/US11853700B1/en
   status: Granted
+  featured: true
+  grant_date: '2023-12-26'
+  attribution: Co-inventor
 - id: /patent3
   title: Dynamic triggering of augmented reality assistance mode functionalities
   patent_id: US11663790B2
@@ -17,9 +21,11 @@
   url: https://patents.google.com/patent/US11663790B2/en?inventor=Raghav+Bali
   status: Granted
 - id: /patent4
-  title: Weighted adaptive filtering based loss function to predict the first occurrence of multiple events in a single shot
+  title: Weighted adaptive filtering based loss function to predict the first occurrence of multiple events
+    in a single shot
   patent_id: US11741381B2
-  authors: V Kishore Ayyadevara;Sree Harsha Ankem;<b>Raghav Bali</b>;Rohan Khilnani;Vineet Shukla;Saikumar Chintareddy;Ranraj Rana Singh
+  authors: V Kishore Ayyadevara;Sree Harsha Ankem;<b>Raghav Bali</b>;Rohan Khilnani;Vineet Shukla;Saikumar
+    Chintareddy;Ranraj Rana Singh
   url: https://patents.google.com/patent/US11741381B2/en?inventor=Raghav+Bali
   status: Granted
 - id: /patent5
@@ -49,7 +55,8 @@
 - id: /patent9
   title: Reinforcement learning machine learning models for intervention recommendation
   patent_id: US20230252338A1
-  authors: V. Kishore Ayyadevara;Rohan Khilnani;Swaroop S. Shekar;<b>Raghav Bali</b>;Joseph C. Cremaldi;Fritz T. Wilhelm;Vinod Burugupalli
+  authors: V. Kishore Ayyadevara;Rohan Khilnani;Swaroop S. Shekar;<b>Raghav Bali</b>;Joseph C. Cremaldi;Fritz
+    T. Wilhelm;Vinod Burugupalli
   url: https://patents.google.com/patent/US20230252338A1/en?inventor=Raghav+Bali
   status: Pending
 - id: /patent10
@@ -59,7 +66,8 @@
   url: https://patents.google.com/patent/US20210326631A1/en?inventor=Raghav+Bali
   status: Pending
 - id: /patent11
-  title: Predictive data analysis operations using a hierarchical intervention recommendation machine learning framework
+  title: Predictive data analysis operations using a hierarchical intervention recommendation machine
+    learning framework
   patent_id: US20230325690A1
   authors: Ninad D. Sathaye;Manoj Kapoor;Gregory J. Boss;<b>Raghav Bali</b>
   url: https://patents.google.com/patent/US20230325690A1/en?inventor=Raghav+Bali

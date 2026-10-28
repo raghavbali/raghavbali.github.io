@@ -1,0 +1,7 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
+<div class="page-head">{% include page-head.html key='projects-introduction' %}</div><section class="site-section"><div class="project-grid">{% for item in site.data.projects %}{% if item.active != false %}<article class="project-card"><div class="project-art"><span class="project-wordmark">{{ item.wordmark | default: item.name }}</span><small>{{ item.category }}</small></div><div class="project-copy"><h3>{{ item.title }}</h3><p>{{ item.summary }}</p><a class="text-link" href="{{ '/projects/' | append: item.id | append: '/' | relative_url }}">Project overview →</a>{% if item.github_url != '' %}<div class="source-links">{% include link.html url=item.github_url text='View on GitHub' %}</div>{% endif %}</div></article>{% endif %}{% endfor %}</div></section>

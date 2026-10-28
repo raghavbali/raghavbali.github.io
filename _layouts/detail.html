@@ -1,0 +1,5 @@
+---
+layout: default
+---
+{% assign item = site.data[page.catalog] | where: 'id', page.item_id | first %}<div class="page-head"><a class="back-link" href="{{ page.parent | relative_url }}">← {{ page.parent_label }}</a><p class="eyebrow">{{ item.detail_category | default: item.category | escape }}</p><h1>{{ item.detail_title | default: item.name | default: item.title | escape }}</h1><p class="intro">{{ item.detail_intro | default: item.intro | default: item.summary | escape }}</p></div>
+<div class="readable">{% for section in item.sections %}<section class="site-section"><h2>{{ section.title | escape }}</h2>{{ section.content | markdownify }}{% for note in section.notes %}<div class="note-row">{{ note.title | escape }}<small>{{ note.summary | escape }}</small></div>{% endfor %}<div class="source-links">{% for source in section.links %}{% include link.html url=source.url text=source.text %}{% endfor %}</div></section>{% endfor %}{% if item.github_url and item.github_url != '' %}<section class="site-section source-links">{% include link.html url=item.github_url text='View on GitHub' %}</section>{% endif %}</div>

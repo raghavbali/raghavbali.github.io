@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Supercharge your Image Search with Transfer Learning"
-date:   2021-07-27 13:00:34 +0530
+summary: Building reverse image search with pretrained image representations and approximate nearest-neighbor retrieval
+  using ANNOY.
+title: Supercharge your Image Search with Transfer Learning
+date: 2021-07-27 13:00:34 +0530
 categories: general
-excerpt:    "Reverse Image Search using Transfer Learning and Approximate Nearest Neighbors (ANNOY)"
+excerpt: Reverse Image Search using Transfer Learning and Approximate Nearest Neighbors (ANNOY)
 ---
 
 As you might be aware, the problem of reverse image search is about finding similar images. But how does one define image similarity? Given two sample images, visually we can easily determine if they are similar or not. How do we do so programmatically?

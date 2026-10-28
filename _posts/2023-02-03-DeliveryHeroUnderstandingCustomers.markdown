@@ -1,5 +1,7 @@
 ---
 layout: post
+hide_from_writing: true
+external_url: https://deliveryhero.jobs/blog/personalisation-at-delivery-hero-understanding-customers/
 title:  "Personalisation at Delivery Hero: Understanding Customers"
 date:   2023-02-03 13:00:34 +0530
 categories: general

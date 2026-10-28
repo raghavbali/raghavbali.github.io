@@ -1,0 +1,116 @@
+home-introduction:
+  eyebrow: Principal Data Scientist · Delivery Hero · Berlin
+  headline: I build and improve production ML systems.
+  intro: My work spans machine learning and AI, with a current focus on recommendation, personalization, and LLMs.
+    I help turn model ideas into systems teams can ship and improve.
+  links:
+  - Explore my work →
+  - About & experience →
+  - LinkedIn ↗
+  - Twitter ↗
+about-introduction:
+- tag: p
+  text: About & experience
+- tag: h1
+  text: Curious about the model. Attentive to the whole system.
+- tag: p
+  text: I'm Raghav, a Principal Data Scientist at Delivery Hero, based in Berlin. I build production ML and AI systems,
+    with a current focus on recommendation, personalization, and LLMs.
+- tag: p
+  text: Before Delivery Hero, I worked on ML and AI for the US healthcare sector at Optum. At Intel, I applied NLP,
+    deep learning, and statistical methods to IT initiatives; at American Express, I worked on customer retention
+    and digital engagement.
+- tag: p
+  text: I’m the author of seven well-received books, a co-inventor on 10+ US patents, and a co-author of several
+    papers published at leading peer-reviewed conferences.
+about-approach:
+- tag: h2
+  text: How I approach ML systems
+- tag: p
+  text: 'I approach ML systems from first principles: questioning assumptions about the data, features, and how
+    the system is built and operated. Looking across the pipeline often reveals overlooked opportunities to simplify
+    the work, reduce unnecessary computation, and make collaboration easier.'
+- tag: p
+  text: These improvements can seem obvious in retrospect, but finding them starts with examining what has become
+    routine.
+- tag: h3
+  text: What I own
+- tag: li
+  text: Technical direction and architecture decisions.
+- tag: li
+  text: End-to-end model development and production delivery.
+- tag: li
+  text: Mentoring and guiding work across teams.
+about-personal:
+- tag: h2
+  text: Beyond work
+- tag: p
+  text: I write books, share what I learn through talks and workshops, and build things for everyday life. I also
+    enjoy photography and reading.
+work-introduction:
+- tag: p
+  text: Production ML & AI
+- tag: h1
+  text: Work.
+- tag: p
+  text: 'Project overviews with published technical writing: the problem, the system, and the decisions around it.'
+projects-introduction:
+- tag: p
+  text: Personal projects
+- tag: h1
+  text: Things I'm building.
+- tag: p
+  text: Small tools, practical experiments, and projects that start with a problem in everyday life.
+publications-introduction:
+- tag: p
+  text: Publications
+- tag: h1
+  text: Books, patents, and conference papers.
+- tag: p
+  text: Contributions across recommendation, NLP, and generative AI.
+talks-introduction:
+- tag: p
+  text: Talks & workshops
+- tag: h1
+  text: Learning by building.
+- tag: p
+  text: Practical workshops and technical talks, with materials to keep exploring afterwards.
+writing-introduction:
+- tag: p
+  text: Technical writing
+- tag: h1
+  text: Notes from building and improving systems.
+- tag: p
+  text: Published accounts of recommendation systems, production LLM applications, and the data science lifecycle.
+archive-introduction:
+- tag: p
+  text: News & milestones
+- tag: h1
+  text: Along the way.
+- tag: p
+  text: A dated record of recognition and earlier milestones.
+bookshelf-introduction:
+- tag: p
+  text: Beyond work · Reading
+- tag: h1
+  text: Bookshelf.
+- tag: p
+  text: Books I'm reading, books I've read, and a few notes along the way.
+- tag: p
+  text: More reading on Goodreads ↗ . Have a recommendation? Find me on Twitter ↗
+breadcrumbs-introduction:
+- tag: p
+  text: Beyond work · Notes & observations
+- tag: h1
+  text: Breadcrumbs.
+- tag: p
+  text: Small notes from what I'm learning, trying, and thinking about.
+- tag: p
+  text: Inspired by Björn Andersson's Breadcrumbs .
+not-found-introduction:
+- tag: p
+  text: '404'
+- tag: h1
+  text: Page not found.
+- tag: p
+  text: This page may have moved. You can head home or browse the writing archive.

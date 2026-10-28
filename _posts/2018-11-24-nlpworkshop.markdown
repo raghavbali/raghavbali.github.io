@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "NLP Workshop"
-date:   2018-11-24 08:00:34 +0530
-excerpt:    "Getting an opportunity to share knowledge is a great blessing."
+summary: A workshop overview spanning text preparation, representations, classification, sentiment analysis, topic
+  modeling, and other NLP tasks.
+title: NLP Workshop
+date: 2018-11-24 08:00:34 +0530
+excerpt: Getting an opportunity to share knowledge is a great blessing.
 categories: general
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: post
+hide_from_writing: true
+external_url: https://deliveryhero.jobs/blog/personalisation-journey-delivery-hero/
 title:  "Personalization Journey @ Delivery Hero"
 date:   2023-01-03 13:00:34 +0530
 categories: general

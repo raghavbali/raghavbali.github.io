@@ -1,0 +1,1 @@
+{% assign blocks = site.data.copy[include.key] %}{% for block in blocks %}{% case block.tag %}{% when 'h1' %}<h1>{{ block.text | escape }}</h1>{% when 'p' %}<p class="{% if forloop.first %}eyebrow{% else %}intro{% endif %}">{{ block.text | escape }}</p>{% endcase %}{% endfor %}
