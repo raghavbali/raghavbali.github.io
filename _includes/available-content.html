@@ -1,0 +1,7 @@
+{%- assign available_content = include.content -%}
+{%- for unavailable in site.data.unavailable_links -%}
+{%- capture original_href -%}href="{{ unavailable.url | escape }}"{%- endcapture -%}
+{%- capture disabled_attributes -%}role="link" aria-disabled="true" data-original-url="{{ unavailable.url | escape }}" title="Link unavailable: {{ unavailable.reason | escape }}"{%- endcapture -%}
+{%- assign available_content = available_content | replace: original_href, disabled_attributes -%}
+{%- endfor -%}
+{{- available_content -}}

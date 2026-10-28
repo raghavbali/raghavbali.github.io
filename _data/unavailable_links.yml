@@ -1,0 +1,53 @@
+# Confirmed unavailable original URLs. Keep catalog entries and URLs intact.
+# Remove a record when its original works again, or after publishing a replacement.
+# Bot challenges, rate limits, and unconfirmed server errors do not belong here.
+- url: https://odsc.com/speakers/leveraging-llms-for-internal-knowledge-discovery/
+  reason: The session URL now redirects to a generic speakers directory.
+  archive_url: https://web.archive.org/web/20240714131615/https://odsc.com/speakers/leveraging-llms-for-internal-knowledge-discovery/
+  archive_content: Session page; recording not recovered.
+  checked_on: '2026-10-29'
+- url: https://www.twitch.tv/videos/1170692362
+  reason: Twitch no longer has this recording (video lookup returns null).
+  archive_url: https://web.archive.org/web/20211111093732/https://www.twitch.tv/videos/1170692362
+  archive_content: Player page only; recording not recovered.
+  checked_on: '2026-10-29'
+- url: https://register.gotowebinar.com/register/7432238325978557965
+  reason: GoToWebinar reports that this webinar no longer exists.
+  archive_url: https://web.archive.org/web/20250817081903/https://register.gotowebinar.com/register/7432238325978557965
+  archive_content: Registration shell only; recording not recovered.
+  checked_on: '2026-10-29'
+- url: https://www.youtube.com/watch?v=vSN5Tn38ZIc&ab_channel=SpringboardIndia
+  reason: YouTube reports that this video is unavailable.
+  archive_url: https://web.archive.org/web/20200812034425/https://www.youtube.com/watch?v=vSN5Tn38ZIc
+  archive_content: Video page and metadata; recording not recovered.
+  checked_on: '2026-10-29'
+- url: https://www.zeolearn.com/magazine/python-libraries-for-machine-learning
+  reason: The article URL redirects to the homepage instead of the article.
+  archive_url: https://web.archive.org/web/20230131032250/https://www.zeolearn.com/magazine/python-libraries-for-machine-learning
+  archive_content: Full article page.
+  checked_on: '2026-10-29'
+- url: https://www.zeolearn.com/magazine/how-to-become-a-data-scientist
+  reason: The publisher returns a page-not-found response.
+  archive_url: https://web.archive.org/web/20230129083540/https://www.zeolearn.com/magazine/how-to-become-a-data-scientist
+  archive_content: Full article page.
+  checked_on: '2026-10-29'
+- url: https://github.com/raghavbali/raghavbali.github.io/raw/master/_backup_site/public/What%20you%20need%20to%20know%20about%20R%20%5BeBook%5D.pdf
+  reason: The original PDF path no longer exists in the repository.
+  archive_url: https://web.archive.org/web/20210801081224/https://raw.githubusercontent.com/raghavbali/raghavbali.github.io/master/_backup_site/public/What%20you%20need%20to%20know%20about%20R%20%5BeBook%5D.pdf
+  archive_content: Actual PDF recovered and verified by its PDF header.
+  checked_on: '2026-10-29'
+- url: https://gist.github.com/luislavena/f064211759ee0f806c88
+  reason: GitHub returns a not-found response for this gist.
+  archive_url: https://web.archive.org/web/20201027103616/https://gist.github.com/luislavena/f064211759ee0f806c88
+  archive_content: Archived gist page.
+  checked_on: '2026-10-29'
+- url: https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf
+  reason: The PDF URL redirects to a no-such-user page.
+  archive_url: https://web.archive.org/web/20230414231413/http://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf
+  archive_content: Actual PDF available.
+  checked_on: '2026-10-29'
+- url: https //mit.zoom.us/rec/play/LWVyn4NbU tth7SNUCi2yhe4DPP6fuL32gEP9dmGGOQJ4dPipTje8cf93RugMK8Dy0_eo
+  reason: The saved Zoom address is malformed and resolves to a nonexistent local page.
+  archive_url: ''
+  archive_content: No valid original URL; no matching recording recovered.
+  checked_on: '2026-10-29'

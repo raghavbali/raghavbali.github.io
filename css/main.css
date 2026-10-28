@@ -268,3 +268,7 @@ body{margin:0;background:light-dark(#fff,#15181c)}
 #personal-site .speaking-photo img{display:block;width:100%;height:auto;border-radius:3px}
 #personal-site .speaking-photo figcaption{font-size:12px;line-height:1.6;color:var(--site-sub);margin-top:9px}
 @container raghav-page (max-width:620px){#personal-site .speaking-head{grid-template-columns:1fr;gap:24px}}
+
+/* Keep unavailable resources readable while removing their hyperlink behavior. */
+#personal-site .site a[aria-disabled="true"]{color:var(--site-sub)!important;cursor:default;text-decoration:none}
+#personal-site a[aria-disabled="true"] .book-cover{filter:grayscale(1);opacity:.65}
