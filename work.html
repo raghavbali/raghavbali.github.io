@@ -1,0 +1,7 @@
+---
+layout: default
+title: Work
+permalink: /work/
+---
+
+<div class="page-head">{% include page-head.html key='work-introduction' %}</div><section class="site-section">{% for item in site.data.work %}{% if item.active != false %}<article class="work-entry"><p class="work-category">{{ item.category }}</p><h2>{{ item.title }}</h2><p class="work-summary">{{ item.summary }}</p><a class="text-link" href="{{ '/work/' | append: item.id | append: '/' | relative_url }}">Project overview →</a></article>{% endif %}{% endfor %}</section>

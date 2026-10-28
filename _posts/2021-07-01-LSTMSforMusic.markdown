@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "LSTMs for Music Generation"
-date:   2021-07-01 13:00:34 +0530
+summary: A walkthrough of generating single-instrument music with a stacked LSTM model, from data preparation to
+  listening to samples.
+title: LSTMs for Music Generation
+date: 2021-07-01 13:00:34 +0530
 categories: general
-excerpt:    "Let’s Dance to Some AI Generated Tunes"
+excerpt: Let’s Dance to Some AI Generated Tunes
 ---
 
 Audio is a domain where the cross-pollination of ideas from computer vision and NLP domains has broadened the perspective. Audio generation is not a new field, but thanks to research in the deep learning space, this domain has seen some tremendous improvements in recent years as well. Audio generation has several applications. The most prominent and popular ones nowadays are a series of smart assistants (Google Assistant, Apple Siri, Amazon Alexa, and so on). These virtual assistants not only try to understand natural language queries but also respond in a very human-like voice.

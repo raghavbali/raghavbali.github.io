@@ -1,33 +1,134 @@
+- title: 'From Feature Discovery to Production: A Complete AI Toolkit for the Data Science Lifecycle'
+  url: https://deliveryhero.jobs/blog/from-feature-discovery-to-production-a-complete-ai-toolkit-for-the-data-science-lifecycle/
+  date: 2026-06-30 00:00:00+00:00
+  authors:
+  - Manchit Madan
+  - Raghav Bali
+  - Nafi Ahmet Turgut
+  byline: Co-authored with Manchit Madan and Nafi Ahmet Turgut
+  authored: true
+  active: true
+  publisher: Delivery Hero Tech
+  id: ai-toolkit-2026
+  summary: An integrated toolkit for feature discovery, documentation, review, and production-readiness checks across
+    the data science lifecycle.
+- title: 'From Manual Coding to AI Orchestration: Transforming the Data Science Lifecycle'
+  url: https://deliveryhero.jobs/blog/from-manual-coding-to-ai-orchestration-transforming-the-data-science-lifecycle/
+  date: 2026-04-14 00:00:00+00:00
+  authors:
+  - Raghav Bali
+  - Manchit Madan
+  - Nafi Ahmet Turgut
+  byline: Co-authored with Manchit Madan and Nafi Ahmet Turgut
+  authored: true
+  active: true
+  publisher: Delivery Hero Tech
+  id: ai-orchestration-2026
+  summary: How repository-aware AI tools support recurring data science work while people retain responsibility
+    for architecture and validation.
+- title: 'EmployeeGPT: Leveraging AI for Internal Knowledge Discovery'
+  url: https://deliveryhero.jobs/blog/employeegpt-leveraging-ai-for-internal-knowledge-discovery/
+  date: 2024-07-22 00:00:00+00:00
+  authors:
+  - Raghav Bali
+  - Timothy Low
+  - Sai Bharath Gottam
+  byline: Co-authored with Timothy Low and Sai Bharath Gottam
+  authored: true
+  active: true
+  publisher: Delivery Hero Tech
+  id: employeegpt-2024
+  summary: A Slack-based retrieval-augmented assistant that helps employees find internal knowledge and follow references
+    to the original sources.
+- title: Delivery Hero’s Double Feature at ACM RecSys 2023
+  url: https://deliveryhero.jobs/blog/delivery-heros-double-feature-at-acm-recsys-2023/
+  date: 2023-10-09 00:00:00+00:00
+  authors:
+  - Raghav Bali
+  byline: Raghav Bali
+  authored: true
+  active: true
+  publisher: Delivery Hero Tech
+  id: recsys-2023
+  summary: A look at Delivery Hero’s RecSys 2023 contributions to recommendation datasets and offline evaluation.
+- title: 'Don’t Worry, We Got You: Personalised Model'
+  url: https://deliveryhero.jobs/blog/dont-worry-we-got-you-personalised-model-2/
+  date: 2023-08-15 00:00:00+00:00
+  authors:
+  - Luke Bovard
+  byline: Luke Bovard · Related team writing
+  authored: false
+  active: false
+  publisher: Delivery Hero Tech
+  id: personalised-model-background
+  note: Background source only; excluded from site listings at owner request.
+- title: 'Personalisation @ Delivery Hero: Understanding Customers'
+  url: https://deliveryhero.jobs/blog/personalisation-at-delivery-hero-understanding-customers/
+  date: 2023-03-02 00:00:00+00:00
+  authors:
+  - Raghav Bali
+  byline: Raghav Bali
+  authored: true
+  active: true
+  publisher: Delivery Hero Tech
+  id: understanding-customers-2023
+  summary: How behavioral signals and customer research inform personalization, user understanding, and recommendation
+    system development.
+- title: Personalisation Journey @ Delivery Hero
+  url: https://deliveryhero.jobs/blog/personalisation-journey-delivery-hero/
+  date: 2023-01-03 00:00:00+00:00
+  authors:
+  - Raghav Bali
+  - Ankur Kaul
+  byline: Co-authored with Ankur Kaul
+  authored: true
+  active: true
+  publisher: Delivery Hero Tech
+  id: personalisation-journey-2023
+  summary: The teams, data, models, and engineering infrastructure behind personalization for online food delivery.
 - title: Supercharge Your LLM Apps Using DSPy and Langfuse
   url: https://medium.com/data-science/supercharge-your-llm-apps-using-dspy-and-langfuse-f83c02ba96a1
   active: true
-- title: Efficient Object Detection with SSD and YoLO Models — A Comprehensive Beginner’s
-    Guide (Part 3)
+  summary: Building and evaluating LLM applications with DSPy, alongside tracing and observability through Langfuse.
+  date: 2019-11-20 00:00:00+00:00
+- title: Efficient Object Detection with SSD and YoLO Models — A Comprehensive Beginner’s Guide (Part 3)
+  url: https://medium.com/data-science/efficient-object-detection-with-ssd-and-yolo-models-a-comprehensive-beginners-guide-part-3-2b0c720175d5
+  active: true
+  summary: An introduction to SSD and YOLO, examining how single-stage detectors balance inference speed and detection
+    quality.
+- title: 'Towards DataScience: Exploring Object Detection with R-CNN Models — A Comprehensive Beginner’s Guide (Part
+    2)'
   url: https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2
   active: true
-- title: 'Towards DataScience: Exploring Object Detection with R-CNN Models — A Comprehensive
-    Beginner’s Guide (Part 2)'
-  url: https://medium.com/towards-data-science/exploring-object-detection-with-r-cnn-models-a-comprehensive-beginners-guide-part-2-685bc89775e2
-  active: true
-- title: 'Towards DataScience: Object Detection Basics — A Comprehensive Beginner’s
-    Guide (Part 1)'
+  summary: How R-CNN, Fast R-CNN, and Faster R-CNN use region proposals and shared features to detect objects.
+- title: 'Towards DataScience: Object Detection Basics — A Comprehensive Beginner’s Guide (Part 1)'
   url: https://medium.com/towards-data-science/object-detection-basics-a-comprehensive-beginners-guide-part-1-f57380c89b78
   active: true
+  summary: A guide to localization, bounding boxes, evaluation, and the building blocks needed to understand object
+    detection models.
 - title: 'Towards DataScience: Supercharge Training of your Deep Learning Models'
   url: https://medium.com/towards-data-science/supercharge-training-of-your-deep-learning-models-7168ff81a042
   active: true
+  summary: A practical exploration of one-cycle learning rates and their effect on image classifier training.
 - title: 'Towards DataScience: Supercharge Image Classification with Transfer Learning'
   url: https://towardsdatascience.com/supercharge-image-classification-with-transfer-learning-4b8c52e69c0c
   active: true
+  summary: Using pretrained Big Transfer models to adapt image classifiers without training a large vision model
+    from scratch.
 - title: 'Towards DataScience: Supercharge your Image Search with Transfer Learning'
   url: https://towardsdatascience.com/supercharge-your-image-search-with-transfer-learning-75dfb5d29ceb
   active: true
+  summary: Building reverse image search with pretrained image representations and approximate nearest-neighbor
+    retrieval using ANNOY.
 - title: 'Towards DataScience: LSTMs for Music Generation'
   url: https://towardsdatascience.com/lstms-for-music-generation-8b65c9671d35
   active: true
+  summary: A walkthrough of generating single-instrument music with a stacked LSTM model, from data preparation
+    to listening to samples.
 - title: 'Perceptron : Where It All Started'
   url: https://medium.com/@Rghv_Bali/perceptron-where-it-all-started-55d3508e38af
   active: true
+  summary: The origins, learning rule, implementation, and limitations of the perceptron as a binary classifier.
 - title: 'CourseBricks: Introduction to Natural Language Processing'
   url: https://coursebricks.com/blog-introduction-to-natural-language-processing/
   active: false
@@ -40,8 +141,11 @@
 - title: PyDev of the Week
   url: https://www.blog.pythonlibrary.org/2021/06/14/pydev-of-the-week-raghav-bali/
   active: true
-  date: 2021-06-14 00:00:00 +0000
+  date: 2021-06-14 00:00:00+00:00
+  summary: A conversation about Python, machine learning, writing books, and the tools and interests behind my work.
 - title: Interview with Raghav Bali, Senior Data Scientist, United Health Group
   url: https://www.digitalvidya.com/blog/interview-with-raghav-bali/
   active: true
-  date: 2019-11-20 00:00:00 +0000
+  date: 2019-11-20 00:00:00+00:00
+  summary: An interview about my route into data science, practical experience, and advice for people entering the
+    field.

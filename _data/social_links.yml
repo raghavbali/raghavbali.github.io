@@ -1,0 +1,22 @@
+# Existing public profiles. Keep contact email out of both content and metadata.
+- name: LinkedIn
+  url: https://www.linkedin.com/in/baliraghav/
+- name: Twitter
+  url: https://twitter.com/rghv_bali
+- name: GitHub
+  url: https://github.com/raghavbali
+- name: Bluesky
+  url: https://bsky.app/profile/raghavbali.bsky.social
+- name: Mastodon
+  url: https://mastodon.social/@raghavbali
+  rel: me
+- name: Google Scholar
+  url: https://scholar.google.com/citations?hl=en&user=3oLGqC0AAAAJ
+- name: Medium
+  url: https://medium.com/@Rghv_Bali
+- name: Instagram
+  url: https://www.instagram.com/raghavbali/
+- name: VSCO
+  url: https://vsco.co/raghavbali/gallery
+- name: Goodreads
+  url: https://www.goodreads.com/user/show/87723774-raghav-bali

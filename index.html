@@ -1,92 +1,14 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
-<div class="hero">
-    <div class="hero-avatar">
-        <img src="{{ '/img/cover2.jpg' | relative_url }}" alt="{{ site.author.name }}" class="img-fluid circle">
-    </div>
-    <div class="hero-content">
-        <h1>{{ site.author.name }}</h1>
-        <p class="lead">Principal Data Scientist at Delivery Hero. Author. Shutterbug.</p>
-        <p>
-            I focus on researching and building enterprise-grade solutions using Machine Learning, Deep Learning, and Natural Language Processing for real-world challenges.
-        </p>
-        <div class="social-links">
-            <a href="https://github.com/raghavbali" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
-            <a href="https://twitter.com/rghv_bali" target="_blank" title="Twitter"><i class="bi bi-twitter"></i></a>
-            <a href="https://bsky.app/profile/raghavbali.bsky.social" target="_blank" title="BlueSky"><i class="bi bi-bluesky"></i></a>
-            <a href="https://mastodon.social/@raghavbali" target="_blank" title="Mastodon" rel="me"><i class="bi bi-mastodon"></i></a>
-            <a href="https://www.linkedin.com/in/baliraghav/" target="_blank" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
-            <a href="https://scholar.google.com/citations?hl=en&user=3oLGqC0AAAAJ" target="_blank" title="Google Scholar"><i class="bi bi-google"></i></a>
-            <a href="https://medium.com/@Rghv_Bali" target="_blank" title="Medium"><i class="bi bi-medium"></i></a>
-            <a href="https://www.instagram.com/raghavbali/" target="_blank" title="Instagram"><i class="bi bi-instagram"></i></a>
-        </div>
-    </div>
-</div>
-
-<hr>
-
-<div class="home-sections">
-    <div class="mb-5">
-        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
-            <h3>Latest Books</h3>
-            <a href="{{ '/published-works/#books' | relative_url }}">View all</a>
-        </div>
-        <div class="grid grid-3">
-            {% for book in site.data.authored_books limit:3 %}
-            <div class="grid-item">
-                <a href="{{ book.url }}" target="_blank" style="text-decoration: none; color: inherit;">
-                    <img src="{{ book.image | relative_url }}" alt="{{ book.title }}" class="img-fluid mb-2" style="max-height: 200px;">
-                    <h4 class="h5 mt-2">{{ book.title }}</h4>
-                </a>
-            </div>
-            {% endfor %}
-        </div>
-    </div>
-
-    <div class="grid-2" style="gap: 4rem;">
-        <div class="mb-5">
-            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
-                <h3>Recent Articles</h3>
-                <a href="{{ '/blog' | relative_url }}">View all</a>
-            </div>
-            <ul class="list-unstyled">
-                {% assign count = 0 %}
-                {% for article in site.data.articles %}
-                    {% if article.active != false %}
-                        {% if count < 3 %}
-                        <li class="list-item">
-                            <a href="{{ article.url }}" target="_blank" class="list-item-title">{{ article.title }}</a>
-                            {% if article.date %}
-                            <span class="list-item-meta">{{ article.date | date: "%B %d, %Y" }}</span>
-                            {% endif %}
-                        </li>
-                        {% assign count = count | plus: 1 %}
-                        {% endif %}
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-
-        <div class="mb-5">
-            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.5rem;">
-                <h3>Recent News</h3>
-                <a href="{{ '/about/#news' | relative_url }}">View all</a>
-            </div>
-            <ul class="list-unstyled">
-                {% assign news_count = 0 %}
-                {% for item in site.data.news %}
-                    {% if news_count < 5 %}
-                    <li class="list-item">
-                        <span style="font-family: monospace; background: var(--border-color); padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin-right: 0.5rem; color: var(--text-color);">{{ item.year }}</span>
-                        {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
-                    </li>
-                    {% assign news_count = news_count | plus: 1 %}
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-    </div>
-</div>
+{% assign intro = site.data.copy.home-introduction %}
+<section class="hero"><div><p class="eyebrow">{{ intro.eyebrow | escape }}</p><h1>{{ intro.headline | escape }}</h1><p class="intro">{{ intro.intro | escape }}</p><div class="hero-actions"><a class="primary-link" href="{{ '/work/' | relative_url }}">Explore my work →</a><a href="{{ '/about/' | relative_url }}">About &amp; experience →</a></div><div class="connect-line"><a href="https://www.linkedin.com/in/baliraghav/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a><span>·</span><a href="https://twitter.com/rghv_bali" target="_blank" rel="noopener noreferrer">Twitter ↗</a></div></div><img class="portrait" src="{{ '/img/cover2.jpg' | relative_url }}" alt="Raghav Bali" width="158" height="158"></section>
+<section class="site-section"><div class="section-head"><h2>Work</h2><a href="{{ '/work/' | relative_url }}">Explore the work →</a></div>
+{% assign first_id = site.data.homepage.work | first %}{% assign item = site.data.work | where: 'id', first_id | first %}<div class="work-highlight"><div><p class="small-label">{{ item.home_category | default: item.category }}</p><h3>{{ item.home_title | default: item.title }}</h3><p>{{ item.home_summary | default: item.summary }}</p><a class="text-link" href="{{ '/work/' | append: item.id | append: '/' | relative_url }}">Project overview →</a></div>{% if site.data.homepage.work_note %}<aside class="work-note"><p>{{ site.data.homepage.work_note.title }}</p><p class="result-detail">{{ site.data.homepage.work_note.text }}</p></aside>{% endif %}</div>
+<div class="work-followups">{% for id in site.data.homepage.work offset:1 %}{% assign item = site.data.work | where: 'id', id | first %}<a href="{{ '/work/' | append: item.id | append: '/' | relative_url }}"><span>{{ item.home_category | default: item.category }}</span>{{ item.home_title | default: item.title }} →</a>{% endfor %}</div></section>
+<section class="site-section"><div class="section-head"><h2>Books, papers &amp; patents</h2><a href="{{ '/published-works/' | relative_url }}">All publications →</a></div><div class="evidence-grid">{% for selection in site.data.homepage.publications %}{% assign item = site.data[selection.catalog] | where: 'id', selection.id | first %}<article class="evidence-item"><p class="small-label">{{ selection.label }}</p><div{% if selection.catalog == 'authored_books' %} class="compact-book"{% endif %}>{% if selection.catalog == 'authored_books' %}<img class="book-cover" src="{{ item.image | relative_url }}" alt="{{ item.title | escape }} — book cover" width="72" loading="lazy">{% endif %}<div><h3>{{ selection.display_title | default: item.title }}</h3><p class="selection-meta">{{ selection.detail }}</p></div></div><a class="text-link" href="{{ '/published-works/' | relative_url }}#{{ selection.catalog }}">{% case selection.catalog %}{% when 'authored_books' %}View book{% when 'papers' %}Read paper{% else %}View patent{% endcase %} →</a></article>{% endfor %}</div></section>
+<section class="site-section"><div class="section-head"><h2>Talks &amp; hands-on workshops</h2><a href="{{ '/talks/' | relative_url }}">Browse talks →</a></div><div class="workshop-grid">{% for id in site.data.homepage.talks %}{% assign item = site.data.talks | where: 'id', id | first %}<article><p class="small-label">{{ item.event }} · {{ item.year }}</p><h3>{{ item.title }}</h3><div class="source-links">{% include link.html url=item.url text='Session details' %}{% for link in item.links %}{% include link.html url=link.url text=link.text %}{% endfor %}</div></article>{% endfor %}</div></section>
+<section class="site-section"><div class="section-head"><h2>Things I’m building</h2><a href="{{ '/projects/' | relative_url }}">All projects →</a></div><div class="home-projects">{% for id in site.data.homepage.projects limit:2 %}{% assign item = site.data.projects | where: 'id', id | first %}{% include project-home.html item=item %}{% endfor %}</div></section>

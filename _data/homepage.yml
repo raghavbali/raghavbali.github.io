@@ -1,0 +1,34 @@
+publications:
+- catalog: authored_books
+  id: generative-ai-pytorch
+  label: Book · 2025
+  detail: Second Edition · Co-authored with Joseph Babcock
+- catalog: papers
+  id: /dhrd
+  label: Conference paper · RecSys 2023
+  display_title: Delivery Hero Recommendation Dataset
+  detail: Co-authored research providing a real-world benchmark for recommendation algorithms.
+- catalog: patents
+  id: /patent2
+  label: USPTO
+  display_title: Predictive entity scoring for NLP
+  detail: US11853700B1 · Granted 2023 · Co-inventor
+talks:
+- mastering-llms-2025
+- internal-knowledge-odsc-2024
+articles:
+- ai-toolkit-2026
+- ai-orchestration-2026
+- employeegpt-2024
+work_note:
+  title: Architecture, model delivery, and the whole ML pipeline.
+  text: With published technical accounts of the team's work.
+archive_discovery:
+  enabled: false
+work:
+- case-study
+- employeegpt
+- ai-workflows
+projects:
+- nestly
+- gnocchi

@@ -1,0 +1,1 @@
+<section class="site-section" id="{{ include.id }}"><div class="section-head"><h2>{{ include.title }}</h2></div><div class="entry-list">{% for entry in site.data[include.catalog] %}{% if entry.active != false %}{% include catalog-entry.html item=entry catalog=include.catalog %}{% endif %}{% endfor %}</div></section>

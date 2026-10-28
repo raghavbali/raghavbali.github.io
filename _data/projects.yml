@@ -1,0 +1,101 @@
+- id: nestly
+  name: Nestly
+  wordmark: Nestly
+  category: Hardware + software
+  title: A baby monitor, built at home.
+  summary: A camera, a Raspberry Pi, and a dashboard for monitoring from another device.
+  detail_category: Hardware & software
+  intro: A baby monitor I built at home, from the monitoring software to the dashboard.
+  github_url: ''
+  sections:
+  - title: Why I built it
+    content: I wanted a practical way to monitor the baby from another device, and a project I could build and adapt
+      myself.
+  - title: How it fits together
+    content: The camera supplies the feed, a Raspberry Pi runs Nestly, and a phone or laptop opens the monitoring
+      dashboard.
+  - title: What interests me
+    content: Connecting hardware and software is only part of the work. The dashboard also needs to be easy to read
+      and straightforward to use in everyday life.
+  - title: Build notes
+    notes:
+    - title: Getting the camera and monitoring server working together.
+      summary: Camera setup, the Raspberry Pi, and the first working feed.
+    - title: Making the dashboard easier to use.
+      summary: Phone viewing, notifications, and practical controls.
+  home_summary: Bringing a camera, Raspberry Pi, and a simple monitoring dashboard together.
+- id: pibot
+  name: PiBot
+  wordmark: PiBot_
+  category: Personal tools
+  title: Capture first. Organize later.
+  summary: My take on a personal assistant powered by self-hosted LLMs through Ollama and the pi.dev harness.
+  detail_category: Capture & personal tools
+  intro: My take on a personal assistant using self-hosted LLMs through Ollama and the pi.dev harness, starting
+    with ideas, notes, and things I want to come back to.
+  github_url: ''
+  sections:
+  - title: Why I'm building it
+    content: An idea shouldn't need a category, date, or perfectly organized destination before it can be saved.
+  - title: The approach
+    content: Capture first, process later. Keep the capture step simple and make room to organize and connect the
+      material afterwards. I use Ollama to run the models and the pi.dev harness to build the assistant around them.
+  - title: Build notes
+    notes:
+    - title: Starting with a simple capture workflow.
+      summary: Getting thoughts down with as little friction as possible.
+    - title: Exploring a personal knowledge base.
+      summary: A direction for connecting captured material, sources, and people.
+  home_summary: A personal capture assistant built with self-hosted LLMs, Ollama, and the pi.dev harness.
+- id: headroom
+  name: Headroom
+  wordmark: Headroom
+  category: Android widget
+  title: Quota and usage at a glance.
+  summary: An Android widget for tracking OpenAI weekly and hourly quotas, with usage analytics.
+  detail_category: Android widget
+  intro: An Android widget for tracking OpenAI weekly and hourly quotas, with usage analytics.
+  github_url: ''
+  sections: []
+- id: pitgram
+  name: Pitgram
+  wordmark: Pitgram
+  category: pi.dev extension
+  title: Connect pi with Telegram.
+  summary: A pi.dev extension that connects pi with a Telegram bot.
+  detail_category: pi.dev extension
+  intro: A pi.dev extension that connects pi with a Telegram bot.
+  github_url: ''
+  sections: []
+- id: photospec
+  name: PhotoSpec
+  wordmark: PhotoSpec
+  category: Local web app
+  title: Passport and visa photo preparation.
+  summary: An entirely local web app for cropping and resizing photos to passport and visa requirements.
+  detail_category: Local web app
+  intro: An entirely local web app for cropping and resizing photos to passport and visa requirements.
+  github_url: ''
+  sections: []
+- id: chatgpt-work-highlighter
+  name: ChatGPT Work Highlighter
+  wordmark: Work Highlighter
+  category: Chrome extension
+  title: Make Work and Chat easier to distinguish.
+  summary: A Chrome extension with distinct indicators for Work and Chat conversations on the ChatGPT website.
+  detail_category: Chrome extension
+  intro: A Chrome extension with distinct indicators for Work and Chat conversations on the ChatGPT website.
+  github_url: ''
+  sections: []
+- id: gnocchi
+  name: Gnocchi
+  wordmark: Gnocchi
+  category: macOS presentation tool
+  title: The Invisible Presentation Assistant.
+  summary: A floating macOS notch widget for presentation prompts, with on-device speech recognition.
+  detail_category: macOS presentation tool
+  intro: A floating macOS widget that places scrolling prompts beneath the MacBook notch or Studio/XDR webcam housing
+    to help preserve eye contact. It uses on-device models for speech recognition and is designed to keep prompts
+    out of audience screen shares and recordings.
+  github_url: ''
+  sections: []

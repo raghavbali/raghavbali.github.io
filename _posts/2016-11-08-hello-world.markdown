@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Hello World: Setting up things"
-date:   2016-11-08 19:22:34 +0530
+summary: Notes on setting up this Jekyll website on Windows, with the resources that helped get it running.
+title: 'Hello World: Setting up things'
+date: 2016-11-08 19:22:34 +0530
 categories: general
-excerpt:    "As with any programming activity, hello world is what we all start with."
-logo:       "/img/the-setup/lab.png"
+excerpt: As with any programming activity, hello world is what we all start with.
+logo: /img/the-setup/lab.png
 ---
 
 I am setting up this website after a lot of procrastinating and delays. I am learning ```jekyll``` along with writing posts, so expect layout and other changes as I progress.

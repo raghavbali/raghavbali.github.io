@@ -1,0 +1,104 @@
+- id: case-study
+  category: Recommendation & personalization
+  title: Recommendation systems in production
+  summary: End-to-end recommendation systems, with MLOps practices that improve training, deployment, and iteration.
+  detail_title: Recommendation systems in production.
+  detail_intro: Understanding customers and improving the pipeline around the model.
+  detail_category: Recommendation & personalization
+  sections:
+  - title: The broader system
+    content: Our published work describes personalization as a system of customer understanding, model development,
+      evaluation, and shared engineering infrastructure. Customer feedback and user research inform the modeling
+      choices; offline evaluation and online experiments help assess them.
+  - title: My contribution to a model improvement
+    content: 'Working with the team, I helped explore a deep learning model to improve on an existing XGBoost baseline,
+      balancing customer preferences and business objectives including GMV and average order value.
+
+
+      I also helped architect the end-to-end setup, from data preparation and model training to deployment.
+
+
+      I helped explore model and architecture choices, GPU training, deployment optimizations, and latency requirements.
+      I focused on understanding which features mattered, improving data preparation and precomputation, and standardizing
+      interfaces for handovers between data scientists and engineers.'
+  - title: What changed
+    content: These improvements shortened iteration cycles and time to market, reduced maintenance overhead, and
+      lowered training and inference costs. The model achieved statistically significant improvements in target
+      metrics in an A/B test and is deployed across brands and markets.
+  - title: Published technical accounts
+    content: The articles below describe the wider system and its evolution; they provide context alongside this
+      account of my contribution.
+    links:
+    - text: Personalisation Journey @ Delivery Hero
+      url: https://deliveryhero.jobs/blog/personalisation-journey-delivery-hero/
+    - text: Understanding Customers
+      url: https://deliveryhero.jobs/blog/personalisation-at-delivery-hero-understanding-customers/
+    - text: Research and evaluation at RecSys 2023
+      url: https://deliveryhero.jobs/blog/delivery-heros-double-feature-at-acm-recsys-2023/
+  home_summary: Understanding customer behavior and architecting end-to-end recommendation systems. My focus includes
+    MLOps improvements that make training, deployment, and iteration more efficient.
+- id: employeegpt
+  category: Production LLMs · RAG
+  title: 'EmployeeGPT: internal knowledge discovery'
+  summary: An early production RAG bot for internal knowledge discovery in Slack, with source citations, ingestion
+    budget controls, index updates, and support for queries at scale.
+  detail_title: EmployeeGPT
+  detail_intro: Building a useful internal knowledge tool while production RAG practices were still emerging.
+  detail_category: Production LLMs
+  sections:
+  - title: The problem
+    content: Useful information was spread across documents and platforms. Finding an answer often meant searching
+      multiple places or asking another team.
+  - title: The approach
+    content: Our team developed EmployeeGPT during the early wave of RAG applications, when production patterns
+      and tooling were still emerging. We integrated the bot with Slack to help people find answers across internal
+      sources. The project gave us an opportunity to explore a new technology and work through what it needed to
+      be useful in practice.
+  - title: Making it work in production
+    content: 'We developed source citations, budget guardrails for ingesting new data, processes to keep indexes
+      up to date, and support for handling queries at scale. We also iterated on chunking techniques and embedding
+      models to improve retrieval.
+
+
+      Many of these capabilities have since become standard or available off the shelf. Building them at the time
+      involved experimentation across ingestion, retrieval, and serving, alongside the model itself.'
+  - title: Sharing the work
+    content: 'We shared the work and lessons from building EmployeeGPT at:
+
+
+      - **ODSC APAC · August 2024:** “Leveraging LLMs for Internal Knowledge Discovery,” which I co-presented with
+      Timothy Low.
+
+      - **AIAI Berlin, Generative AI Summit · September 2024:** “LLMs for internal knowledge discovery: real world
+      challenges and learnings,” which I presented.'
+  - title: Published account
+    content: I co-authored the technical write-up with Timothy Low and Sai Bharath Gottam. It explains the ingestion
+      and retrieval setup, practical constraints, and impact reported in 2024.
+    links:
+    - text: Read EmployeeGPT on Delivery Hero Tech
+      url: https://deliveryhero.jobs/blog/employeegpt-leveraging-ai-for-internal-knowledge-discovery/
+  home_category: Production LLMs
+  home_title: 'EmployeeGPT: knowledge discovery'
+- id: ai-workflows
+  category: ML tooling & technical leadership
+  title: AI-assisted data science workflows
+  summary: Reusable tooling for feature discovery, documentation, code review, and production-readiness checks.
+  detail_title: Improving how data science gets done.
+  detail_intro: Applying AI tooling to recurring workflow bottlenecks, with clear review and engineering standards.
+  detail_category: ML tooling & technical leadership
+  sections:
+  - title: The opportunity
+    content: Feature discovery, documentation, and repeatable reviews can become bottlenecks as a codebase and team
+      grow.
+  - title: The approach
+    content: Our published work describes repository-aware skills for finding and creating features, producing documentation,
+      reviewing ML changes, and checking production readiness. Senior contributors remain responsible for architectural
+      decisions and validation.
+  - title: Published accounts
+    content: I co-authored these accounts with Manchit Madan and Nafi Ahmet Turgut.
+    links:
+    - text: From Manual Coding to AI Orchestration · April 2026
+      url: https://deliveryhero.jobs/blog/from-manual-coding-to-ai-orchestration-transforming-the-data-science-lifecycle/
+    - text: From Feature Discovery to Production · June 2026
+      url: https://deliveryhero.jobs/blog/from-feature-discovery-to-production-a-complete-ai-toolkit-for-the-data-science-lifecycle/
+  home_category: Technical leadership

@@ -1,0 +1,7 @@
+---
+layout: default
+title: Archive
+permalink: /archive/
+---
+
+<div class="page-head">{% include page-head.html key='archive-introduction' %}</div><section class="site-section"><div class="entry-list">{% for item in site.data.news %}<article class="entry"><p class="small-label">{{ item.year }}</p><div class="archive-copy">{{ item.content | markdownify }}</div></article>{% endfor %}</div></section>

@@ -1,0 +1,20 @@
+- company: Delivery Hero
+  url: https://www.deliveryhero.com/
+  period: 2022 — present
+  description: Currently Principal Data Scientist · Berlin
+  logo: /img/logos/dh_logo.png
+- company: Optum
+  url: https://www.optum.com/
+  period: 2017 — 2022
+  description: Applied ML and AI for healthcare
+  logo: /img/logos/optum_logo.png
+- company: Intel
+  url: https://intel.in
+  period: 2015 — 2017
+  description: NLP, deep learning, and data-first IT initiatives
+  logo: /img/logos/intel_logo.png
+- company: American Express
+  url: https://www.americanexpress.com/en-in/
+  period: 2014 — 2015
+  description: Customer retention and digital engagement
+  logo: /img/logos/amex_logo.jpg

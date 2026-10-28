@@ -1,45 +1,11 @@
 ---
 layout: default
-title: Blog
+title: Writing
 permalink: /blog/
+nav: Writing
 ---
 
-<div class="mb-5">
-    <ul class="list-unstyled">
-        {% assign undated_articles = "" | split: "" %}
-        {% assign dated_articles = "" | split: "" %}
-
-        {% for article in site.data.articles %}
-            {% if article.active != false %}
-                {% if article.date %}
-                    {% assign dated_articles = dated_articles | push: article %}
-                {% else %}
-                    {% assign undated_articles = undated_articles | push: article %}
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-
-        {% assign all_dated = site.posts | concat: dated_articles | sort: "date" | reverse %}
-        {% assign all_items = undated_articles | concat: all_dated %}
-
-        {% for item in all_items %}
-        <li class="list-item">
-            <span style="display: flex; justify-content: space-between; align-items: baseline;">
-                <a href="{{ item.url }}" target="_blank" class="list-item-title">
-                    {% if item.url contains "medium.com" or item.url contains "towardsdatascience.com" %}
-                        <i class="bi bi-medium"></i>
-                    {% elsif item.layout == 'post' or item.url contains "github" %}
-                         <i class="bi bi-github"></i>
-                    {% else %}
-                        <i class="bi bi-link-45deg"></i>
-                    {% endif %}
-                    &nbsp;{{ item.title }}
-                </a>
-            </span>
-            {% if item.date %}
-            <span class="list-item-meta">{{ item.date | date: "%B %d, %Y" }}</span>
-            {% endif %}
-        </li>
-        {% endfor %}
-    </ul>
-</div>
+<div class="page-head">{% include page-head.html key='writing-introduction' %}</div><section class="site-section"><div class="section-head"><h2>Articles &amp; posts</h2></div><div class="entry-list">
+{% assign dated_articles = site.data.articles | where_exp: 'a', 'a.date != nil' %}{% assign merged = dated_articles | concat: site.posts | sort: 'date' | reverse %}
+{% for item in merged %}{% if item.active != false and item.authored != false and item.hide_from_writing != true %}{% include catalog-entry.html catalog='articles' item=item %}{% endif %}{% endfor %}
+{% for item in site.data.articles %}{% unless item.date %}{% if item.active != false and item.authored != false %}{% include catalog-entry.html catalog='articles' item=item %}{% endif %}{% endunless %}{% endfor %}</div></section>

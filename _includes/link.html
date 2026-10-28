@@ -1,0 +1,1 @@
+{% if include.url and include.url != '' and include.url != '#' %}<a href="{{ include.url | escape }}"{% if include.url contains 'https://' or include.url contains 'http://' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ include.text | escape }} →</a>{% endif %}

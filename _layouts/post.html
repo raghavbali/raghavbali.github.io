@@ -1,14 +1,4 @@
 ---
 layout: default
 ---
-
-<article class="post">
-    <header class="mb-4">
-        <h1>{{ page.title }}</h1>
-        <p style="color: var(--text-muted);">{{ page.date | date: "%B %d, %Y" }}</p>
-    </header>
-
-    <div class="post-content">
-        {{ content }}
-    </div>
-</article>
+<article><div class="page-head"><a class="back-link" href="{{ '/blog/' | relative_url }}">← Writing</a><p class="eyebrow">{{ page.date | date: '%-d %B %Y' }}</p><h1>{{ page.title | escape }}</h1></div><div class="post-body">{{ content | replace: '/public/img//perceptron_notebook_snapshot.jpg', '/img/posts/perceptron/perceptron_notebook_snapshot.jpg' | replace: '/posts/img/perceptron/perceptron_schematic.PNG', '/img/posts/perceptron/perceptron_schematic.PNG' | replace: '/posts/img/perceptron/perceptron_output.PNG', '/img/posts/perceptron/perceptron_output.PNG' }}</div></article>

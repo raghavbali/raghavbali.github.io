@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Supercharge Image Classification with Transfer Learning"
-date:   2021-09-09 13:00:34 +0530
+summary: Using pretrained Big Transfer models to adapt image classifiers without training a large vision model from
+  scratch.
+title: Supercharge Image Classification with Transfer Learning
+date: 2021-09-09 13:00:34 +0530
 categories: general
-excerpt:    "Image Classification using BiT Models"
+excerpt: Image Classification using BiT Models
 ---
 
 The field of computer vision by itself has existed since probably the 1960s, where the initial key objective was to build an artificial system to mimic human visual capabilities. Deep learning models like CNNs have caused a resurgence in the last decade owing to a number of factors which include better algorithms, faster compute (GPUs), easy to use software and tools (TensorFlow, PyTorch) and more data availability.
