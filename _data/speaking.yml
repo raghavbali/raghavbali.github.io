@@ -1,0 +1,7 @@
+# Optional lead photograph for the Speaking page.
+photo:
+  src: /img/talks/talk_2023.jpg
+  alt: Raghav Bali presenting at DataHack Summit 2023
+  caption: DataHack Summit · 2023
+  width: 1600
+  height: 1066

@@ -263,3 +263,8 @@ body{margin:0;background:light-dark(#fff,#15181c)}
 #personal-site .post-body iframe{max-width:100%}
 @media(max-width:620px){#personal-site .page-tools{right:13px;bottom:13px}}
 @media(prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+#personal-site .speaking-head{display:grid;grid-template-columns:minmax(0,1fr) minmax(240px,330px);gap:36px;align-items:center}
+#personal-site .speaking-photo{margin:0;min-width:0}
+#personal-site .speaking-photo img{display:block;width:100%;height:auto;border-radius:3px}
+#personal-site .speaking-photo figcaption{font-size:12px;line-height:1.6;color:var(--site-sub);margin-top:9px}
+@container raghav-page (max-width:620px){#personal-site .speaking-head{grid-template-columns:1fr;gap:24px}}
