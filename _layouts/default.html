@@ -10,7 +10,7 @@
 <header class="site-header"><a class="site-brand" href="{{ '/' | relative_url }}" aria-label="Raghav Bali, home">Raghav Bali<span class="brand-dot">.</span></a>
 <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button><div class="site-nav-wrap">
 <nav class="site-nav" id="site-nav" aria-label="Main navigation">
-{% assign names = 'Work,Writing,Publications,Projects,About' | split: ',' %}{% assign routes = '/work/,/blog/,/published-works/,/projects/,/about/' | split: ',' %}
+{% assign names = 'Work,Speaking,Writing,Publications,Projects,About' | split: ',' %}{% assign routes = '/work/,/talks/,/blog/,/published-works/,/projects/,/about/' | split: ',' %}
 {% for name in names %}{% assign route = routes[forloop.index0] %}<a href="{{ route | relative_url }}"{% if page.url contains route or page.nav == name %} aria-current="page"{% endif %}>{{ name }}</a>{% endfor %}
 </nav><button class="theme-button" type="button" aria-label="Appearance: system. Switch to light mode." title="Appearance: system. Switch to light mode.">
 <span data-appearance-icon="auto">{% include icon.html %}</span><span data-appearance-icon="light" hidden>{% include icon.html name='sun' %}</span><span data-appearance-icon="dark" hidden>{% include icon.html name='moon' %}</span></button></div></header>
