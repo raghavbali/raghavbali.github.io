@@ -1,67 +1,282 @@
-- date: '2026-08-14'
-  time: '23:50:00'
+- date: '2026-10-29'
+  time: '18:22:33'
   category: Log
   is_post: true
-  content: somehow all LLMS know that they can use curl with wttr.in to get weather
-    info without any steering. wow
+  content: a reset well used and just in time. Not sure if @tibo is on @bluesky ...
+    Or is he ?
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3myzv3qbbq72e
+  mastodon_url: https://mastodon.social/@raghavbali/117525587784574588
+- date: '2026-10-29'
+  time: '18:21:53'
+  category: Log
+  is_post: true
+  content: while the AI thing is amazing, the sheer number of test cases just sound
+    crazy 🤣
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3myzv2k2i2x2c
+  mastodon_url: https://mastodon.social/@raghavbali/117525585157502499
+- date: '2026-10-29'
+  time: '18:21:44'
+  category: Log
+  is_post: true
+  content: Nvidia cuda13.4 optimizations are pretty impressive
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3myzv2b7x2h2c
+  mastodon_url: https://mastodon.social/@raghavbali/117525584556277951
+- date: '2026-10-29'
+  time: '18:21:36'
+  category: Log
+  is_post: true
+  content: all it takes is a quota reset and the night hours go past like crazy.
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3myzuzzfaem2s
+  mastodon_url: https://mastodon.social/@raghavbali/117525584018862081
+- date: '2026-10-07'
+  time: '22:05:53'
+  category: Work
+  is_post: true
+  content: "[Work]\n\nself healing agents is a reality and seeing it work right in\
+    \ your eyes is mind-blowing\n\n Codex was tasked to inform pi about its progress\
+    \ such that pi would relay the message to me on telegram \n\n when Codex found\
+    \ that my custom telegram plugin does not have this functionality, it not just\
+    \ built it but \n\n it updated, reloaded and resumed an existing session for pi\
+    \ using herdr to make this work."
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mxcxcoeg5a2i
+  mastodon_url: https://mastodon.social/@raghavbali/117401895060593092
+- date: '2026-10-07'
+  time: '16:53:33'
+  category: System
+  is_post: true
+  content: '[System]
+
+
+    tailscale ftw. i dont know why i was delaying this setup'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mxcfud2wsb2i
+  mastodon_url: https://mastodon.social/@raghavbali/117400666965577198
+- date: '2026-10-02'
+  time: '21:59:03'
+  category: Work
+  is_post: true
+  content: '[Work]
+
+
+    chrome extension in the works. midnight frenzy'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mwwelxe5hp26
+  mastodon_url: https://mastodon.social/@raghavbali/117373556654245036
+- date: '2026-10-02'
+  time: '21:55:00'
+  category: Work
+  is_post: true
+  content: '[Work]
+
+
+    first swift and today i have apps in typescript to work on webOS as well. what
+    a day to be alive'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mwweeremk72n
+  mastodon_url: https://mastodon.social/@raghavbali/117373540807397361
+- date: '2026-10-01'
+  time: '20:58:42'
+  category: Development
+  is_post: true
+  content: '[Development]
+
+
+    pibot is evolving into a personal bot. capture done, next step processing'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mwtqr5rvii2u
+  mastodon_url: https://mastodon.social/@raghavbali/117367657064791147
+- date: '2026-10-01'
+  time: '20:55:52'
+  category: Log
+  is_post: false
+  content: '<!-- pibot-capture:64ffb8b2-be80-43e2-a3ea-e595abd8efb2:start -->
+
+    > pibot capture is now working
+
+
+    <!-- pibot-capture:64ffb8b2-be80-43e2-a3ea-e595abd8efb2:end -->'
+  tags: []
+  bluesky_url: null
+  mastodon_url: null
+- date: '2026-09-10'
+  time: '21:53:31'
+  category: System
+  is_post: true
+  content: '[System]
+
+
+    Codex for development, Jules for automated PR reviews and fixes, amazing times'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mv6zztoilp2c
+  mastodon_url: https://mastodon.social/@raghavbali/117248964102511522
+- date: '2026-08-22'
+  time: '21:10:16'
+  category: Optimization
+  is_post: true
+  content: '[Optimization]
+
+
+    gemma works even better after the sol-restructure and tightening of the scripts.
+    the flows are blazingly faster. wow'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mtp6qyld3n2h
+  mastodon_url: https://mastodon.social/@raghavbali/117141210127487741
+- date: '2026-08-22'
+  time: '21:04:35'
+  category: Technology
+  is_post: true
+  content: '[Technology]
+
+
+    while qwen3.8 hit a roadblock in using local llm through ollama API, lets see
+    if gemma4 is able to do so. the updated routing worked like a charm with qwen
+    though'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mtp6gub3mu2a
+  mastodon_url: https://mastodon.social/@raghavbali/117141187804282613
+- date: '2026-08-22'
+  time: '21:01:40'
+  category: Log
+  is_post: true
+  content: testing if qwen3.8 is able to use local harness with skills and agents.md
+    improvements using codex-sol-high
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mtp6blzo5t2b
+  mastodon_url: https://mastodon.social/@raghavbali/117141176251447276
+- date: '2026-08-22'
+  time: '20:27:24'
+  category: Development
+  is_post: true
+  content: '[Development]
+
+
+    Enhanced the existing pi_bot workspace: improved agent skill routing for smaller
+    local models, added Bluesky/Mastodon image posting and stats, made task summaries
+    deterministic, generated and cross-posted a manga visual, and refreshed journal
+    categories using Gemma 4 on Ollama.'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mtp4ee4gxu2h
+  mastodon_url: https://mastodon.social/@raghavbali/117141041568003280
+- date: '2026-08-22'
+  time: '20:12:02'
+  category: Update
+  is_post: true
+  content: '[Update]
+
+
+    codex powered image posting now enabled'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mtp3its5lo2s
+  mastodon_url: https://mastodon.social/@raghavbali/117140981159650930
+- date: '2026-08-16'
+  time: '22:50:18'
+  category: Technology
+  is_post: true
+  content: '[Technology]
+
+
+    onto qwen3.8 mania with @ollama and mlx'
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mtabkeik7w2p
+  mastodon_url: https://mastodon.social/@raghavbali/117107629643080690
+- date: '2026-08-15'
+  time: '22:26:53'
+  category: Software
+  is_post: true
+  content: "[Software]\n\ntrying out some @OpenAI codex flavors now. smooth feels\
+    \ so far... cli seems intuitive but would need some muscle memory.\n\ngpt-5.6-terra\
+    \ medium feels solid. tool use just works\n\n /pet is a nice touch.... @ClaudeDevs\
+    \ could you bring back your prank features pahlease!"
+  tags: []
+  bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt5prhakpn2s
+  mastodon_url: https://mastodon.social/@raghavbali/117101875171577214
+- date: '2026-08-14'
+  time: '23:50:00'
+  category: Technology
+  is_post: true
+  content: '[Technology]
+
+
+    somehow all LLMS know that they can use curl with wttr.in to get weather info
+    without any steering. wow'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3dxc6j5z2h
   mastodon_url: https://mastodon.social/@raghavbali/117096539785531054
 - date: '2026-08-14'
   time: '23:49:12'
-  category: Log
+  category: Technology
   is_post: true
-  content: 'gemma4: when it works, it works like a charm and boy that tps. qwen is
-    amazing but needs to be reminded about AGENTS.md and a bit of steering'
+  content: '[Technology]
+
+
+    gemma4: when it works, it works like a charm and boy that tps. qwen is amazing
+    but needs to be reminded about AGENTS.md and a bit of steering'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3dvue3k72r
   mastodon_url: https://mastodon.social/@raghavbali/117096536636677478
 - date: '2026-08-14'
   time: '23:47:50'
-  category: Log
+  category: Observation
   is_post: true
-  content: Wow, gemma just streamed the exact required output message without actually
-    executing the commands. Not a failure, just plain lying
+  content: '[Observation]
+
+
+    Wow, gemma just streamed the exact required output message without actually executing
+    the commands. Not a failure, just plain lying'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3dtg7wnn2h
   mastodon_url: https://mastodon.social/@raghavbali/117096531265332026
 - date: '2026-08-14'
   time: '23:15:13'
-  category: Log
+  category: Technology
   is_post: true
-  content: trying out meta's muse-glimmer. works good so far, thinking vibes are a
-    bit weird but maybe I am being critical. Tool usage seems pretty decent so far.
-    TPS seems a bit on the lower side as compared to qwen3.6 and gemma4
+  content: '[Technology]
+
+
+    trying out meta''s muse-glimmer. works good so far, thinking vibes are a bit weird
+    but maybe I am being critical. Tool usage seems pretty decent so far. TPS seems
+    a bit on the lower side as compared to qwen3.6 and gemma4'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mt3bz3pyj72e
   mastodon_url: https://mastodon.social/@raghavbali/117096403011438568
 - date: '2026-07-28'
   time: '19:40:33'
-  category: Log
+  category: Technology
   is_post: true
-  content: Tried image generation without explicit tooling information provided to
-    pi. simply asked it to use ollama with a specific model along with the prompt
-    and voila, it just did it
+  content: '[Technology]
+
+
+    Tried image generation without explicit tooling information provided to pi. simply
+    asked it to use ollama with a specific model along with the prompt and voila,
+    it just did it'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrq63lpq7x2j
   mastodon_url: https://mastodon.social/@raghavbali/116999299637990282
 - date: '2026-07-27'
   time: '22:38:46'
-  category: Log
+  category: Technology
   is_post: true
-  content: "gemma4:26b thinking is absolute nuts... just look at this\n\n \"Wait,\
-    \ looking at AGENTS.md:\n \"ABSOLUTE OUTPUT PRIMACY: If a task maps to a script-backed\
-    \ command, your VERY FIRST output token must be the forward slash (/) character.\
-    \ Never include conversational preambles.\" \""
+  content: "[Technology]\n\ngemma4:26b thinking is absolute nuts... just look at this\n\
+    \n \"Wait, looking at AGENTS.md:\n \"ABSOLUTE OUTPUT PRIMACY: If a task maps to\
+    \ a script-backed command, your VERY FIRST output token must be the forward slash\
+    \ (/) character. Never include conversational preambles.\" \""
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrnxlcgffb24
   mastodon_url: https://mastodon.social/@raghavbali/116994338103577298
 - date: '2026-07-27'
   time: '22:35:49'
-  category: Learning
+  category: Technology
   is_post: true
-  content: 'tool calling and contextual understanding is orders of magnitudes better
-    between 12b and 26b without any impact on tps.
+  content: '[Technology]
+
+
+    tool calling and contextual understanding is orders of magnitudes better between
+    12b and 26b without any impact on tps.
 
 
     well there is but the tradeoff is more than worth it'
@@ -70,20 +285,26 @@
   mastodon_url: https://mastodon.social/@raghavbali/116994326465145446
 - date: '2026-07-27'
   time: '22:20:51'
-  category: Log
+  category: Technology
   is_post: true
-  content: gemma4-26b-mlx using ollama with pi is as blazing fast as the 12b variant.
-    This is beyond fantastic. Amazing work by ollama and google teams
+  content: '[Technology]
+
+
+    gemma4-26b-mlx using ollama with pi is as blazing fast as the 12b variant. This
+    is beyond fantastic. Amazing work by ollama and google teams'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mrnwlcbcpw2j
   mastodon_url: https://mastodon.social/@raghavbali/116994267640234844
 - date: '2026-07-12'
   time: '16:19:39'
-  category: Log
+  category: Technology
   is_post: true
-  content: 'nvidia NIM works most of the time but isnt suitable for long running tasks.
-    the API tends to timeout pretty often, still a good way to explore latest open
-    weights models like glm5.2
+  content: '[Technology]
+
+
+    nvidia NIM works most of the time but isnt suitable for long running tasks. the
+    API tends to timeout pretty often, still a good way to explore latest open weights
+    models like glm5.2
 
 
     however I would be keeping to local models for better control and reliability'
@@ -92,90 +313,117 @@
   mastodon_url: https://mastodon.social/@raghavbali/116907912643515178
 - date: '2026-07-11'
   time: '19:18:47'
-  category: Log
+  category: Testing
   is_post: true
-  content: 'antigravity with Gemini 3.5 Flash: single post capability check'
+  content: '[Testing]
+
+
+    antigravity with Gemini 3.5 Flash: single post capability check'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfewyzggl2x
   mastodon_url: https://mastodon.social/@raghavbali/116902954737902942
 - date: '2026-07-11'
   time: '19:18:25'
-  category: Log
+  category: Development
   is_post: true
-  content: This is antigravity with Gemini 3.5 Flash trying to add threading capabilities
-    to existing skills.\n\nStay tuned!
+  content: '[Development]
+
+
+    This is antigravity with Gemini 3.5 Flash trying to add threading capabilities
+    to existing skills.\n\nStay tuned!'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfewbnro32d
   mastodon_url: https://mastodon.social/@raghavbali/116902953253036389
 - date: '2026-07-11'
   time: '18:57:06'
-  category: Log
+  category: Software
   is_post: true
-  content: 'pitgram is directly available here: https://pi.dev/packages/pitgram?name=pitgram&sort=name'
+  content: '[Software]
+
+
+    pitgram is directly available here: https://pi.dev/packages/pitgram?name=pitgram&sort=name'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfdqa6aj32c
   mastodon_url: https://mastodon.social/@raghavbali/116902869495045247
 - date: '2026-07-11'
   time: '18:56:53'
-  category: Log
+  category: Development
   is_post: true
-  content: pitgram is a pi-dev extension plugin that extends existing packages by
-    adding new session creation (a specific requirement I had for myself. _Local Agents
-    enabling bespoke apps_ is finally coming true. -pi-dev|gemma4|qwen3.6|glm5.2
+  content: '[Development]
+
+
+    pitgram is a pi-dev extension plugin that extends existing packages by adding
+    new session creation (a specific requirement I had for myself. _Local Agents enabling
+    bespoke apps_ is finally coming true. -pi-dev|gemma4|qwen3.6|glm5.2'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqfdptfzxd2r
   mastodon_url: https://mastodon.social/@raghavbali/116902868600630675
 - date: '2026-07-11'
   time: '07:24:38'
-  category: Log
+  category: Technology
   is_post: true
-  content: exploring nvidia nim based access to glm5.2. the response time is pretty
-    amazing yet comparable to local models. exciting times
+  content: '[Technology]
+
+
+    exploring nvidia nim based access to glm5.2. the response time is pretty amazing
+    yet comparable to local models. exciting times'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqe4zyx5ry2d
   mastodon_url: https://mastodon.social/@raghavbali/116900146586720562
 - date: '2026-07-11'
   time: '06:32:01'
-  category: Log
+  category: Technology
   is_post: true
-  content: gemma4 mtp on ollama responded to a simple _Hi_ with a response stating
-    available skills is pretty delightful
+  content: '[Technology]
+
+
+    gemma4 mtp on ollama responded to a simple _Hi_ with a response stating available
+    skills is pretty delightful'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mqe23vxjrf2z
   mastodon_url: https://mastodon.social/@raghavbali/116899939707575659
 - date: '2026-07-06'
   time: '21:52:28'
-  category: Log
+  category: Update
   is_post: true
-  content: pitgram now supports creation of new sessions from telegram
+  content: '[Update]
+
+
+    pitgram now supports creation of new sessions from telegram'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mpz37a2wuy2r
   mastodon_url: https://mastodon.social/@raghavbali/116875247541828939
 - date: '2026-06-26'
   time: '17:37:58'
-  category: Log
+  category: Development
   is_post: true
-  content: gnocchi is complete and turned out far better than I expected. on some
-    final polish and proper announcements soon. Have to get it done before I am back
-    to work on Monday. Google Gemini 3.5 Flash works like a charm with minimal handholding
-    (I know 0 swift 🙊)
+  content: '[Development]
+
+
+    gnocchi is complete and turned out far better than I expected. on some final polish
+    and proper announcements soon. Have to get it done before I am back to work on
+    Monday. Google Gemini 3.5 Flash works like a charm with minimal handholding (I
+    know 0 swift 🙊)'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp7icvx4ja2y
   mastodon_url: https://mastodon.social/@raghavbali/116817623649532812
 - date: '2026-06-26'
   time: '14:38:23'
-  category: Log
+  category: Development
   is_post: true
-  content: antigravity 2 seems to hit daily quota pretty fast. still impressed by
-    the progress on gnocchi and a pi-dev extension I am working on in parallel
+  content: '[Development]
+
+
+    antigravity 2 seems to hit daily quota pretty fast. still impressed by the progress
+    on gnocchi and a pi-dev extension I am working on in parallel'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp76bs7pqf2m
   mastodon_url: https://mastodon.social/@raghavbali/116816917500977639
 - date: '2026-06-26'
   time: '11:13:53'
-  category: Log
+  category: Development
   is_post: true
-  content: '[Antigravity2]
+  content: '[Development] [Antigravity2]
 
 
     today exploring antigravity2 for personal website improvements as well as something
@@ -189,9 +437,9 @@
   mastodon_url: https://mastodon.social/@raghavbali/116816113384060062
 - date: '2026-06-25'
   time: '18:44:45'
-  category: AI-Stack
+  category: Technology
   is_post: false
-  content: '[AI Stack] [Brain Dump]
+  content: '[Technology] [Brain Dump]
 
 
     AI psychosis! 🤯 Setup: Qwen3.6 + pi-dev as my personal assistant & local LLM playground;
@@ -205,85 +453,111 @@
   mastodon_url: https://mastodon.social/@raghavbali/116812223981102951
 - date: '2026-06-25'
   time: '17:58:17'
-  category: Log
+  category: Technology
   is_post: true
-  content: ai psychosis kicking in. Pi-dev with qwen3.6 handling todos and journaling,
-    NotebookLM keeping me up to date with latest papers (Qwen world podcast up for
-    tonight), Gemini 3.5 flash taking care of app development, Jules for website ux
-    updates and antigravity 2 for exploring autonomous agents (breadcrumbs and pi-bot
-    sync). Work related AI is another ball game. All through missing is openai's codex
-    and whisper flow (or similar). Should explore these soon as well
+  content: '[Technology]
+
+
+    ai psychosis kicking in. Pi-dev with qwen3.6 handling todos and journaling, NotebookLM
+    keeping me up to date with latest papers (Qwen world podcast up for tonight),
+    Gemini 3.5 flash taking care of app development, Jules for website ux updates
+    and antigravity 2 for exploring autonomous agents (breadcrumbs and pi-bot sync).
+    Work related AI is another ball game. All through missing is openai''s codex and
+    whisper flow (or similar). Should explore these soon as well'
   tags: []
   bluesky_url: null
   mastodon_url: https://mastodon.social/@raghavbali/116812041257080825
 - date: '2026-06-25'
   time: '13:28:52'
-  category: Log
+  category: Development
   is_post: true
-  content: the constant termination and dropped tasks has left the control-centre
-    / dashboard app for my pi-bot
+  content: '[Development]
+
+
+    the constant termination and dropped tasks has left the control-centre / dashboard
+    app for my pi-bot'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp4jwl3tmy2c
   mastodon_url: https://mastodon.social/@raghavbali/116810981850428931
 - date: '2026-06-25'
   time: '13:24:13'
-  category: Log
+  category: Development
   is_post: true
-  content: the constant termination and dropped tasks has left the control-centre
-    / dashboard app for my pi-bot
+  content: '[Development]
+
+
+    the constant termination and dropped tasks has left the control-centre / dashboard
+    app for my pi-bot'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp4job4ltf2n
   mastodon_url: https://mastodon.social/@raghavbali/116810963575317627
 - date: '2026-06-25'
   time: '13:07:30'
-  category: Log
+  category: Technology
   is_post: true
-  content: linked my journal to my personal website hosted on github
+  content: '[Technology]
+
+
+    linked my journal to my personal website hosted on github'
   tags: []
   bluesky_url: https://bsky.app/profile/did:plc:unfzppe2iwsw5kulewnhmrnc/post/3mp4iqe646x2a
   mastodon_url: https://mastodon.social/@raghavbali/116810897809993183
 - date: '2026-06-24'
   time: '08:26:26'
-  category: Log
+  category: Technical
   is_post: true
-  content: 'for some reason tasks are getting terminated in between, no reasons provided
-    : qwen3.6, context at 32%'
+  content: '[Technical]
+
+
+    for some reason tasks are getting terminated in between, no reasons provided :
+    qwen3.6, context at 32%'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-24'
   time: '06:07:41'
-  category: Log
+  category: System
   is_post: false
-  content: 'Session reset: all active JSONL conversation logs purged for a completely
-    fresh start on +0200.'
+  content: '[System]
+
+
+    Session reset: all active JSONL conversation logs purged for a completely fresh
+    start on +0200.'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-24'
   time: '01:42:57'
-  category: Log
+  category: Development
   is_post: true
-  content: I should explore creating a package to enable scheduled tasks in pi-dev
+  content: '[Development]
+
+
+    I should explore creating a package to enable scheduled tasks in pi-dev'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-24'
   time: '01:11:20'
-  category: Log
+  category: Testing
   is_post: true
-  content: testing if new session creation succeeds and still allows for scheduled
-    skill execution
+  content: '[Testing]
+
+
+    testing if new session creation succeeds and still allows for scheduled skill
+    execution'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '23:33:18'
-  category: Log
+  category: Technology
   is_post: true
-  content: tool calling and context utilization coupled with decent TPS on a MBP M3
-    pro 36Gigs is pretty impressive from qwen3.6. blew everything else out of the
-    water
+  content: '[Technology]
+
+
+    tool calling and context utilization coupled with decent TPS on a MBP M3 pro 36Gigs
+    is pretty impressive from qwen3.6. blew everything else out of the water'
   tags: []
   bluesky_url: null
   mastodon_url: null
@@ -298,124 +572,160 @@
   mastodon_url: null
 - date: '2026-06-23'
   time: '21:34:35'
-  category: Log
+  category: Development
   is_post: false
-  content: All skills verified and working after repository restructuring — spj hybrid
-    test!
+  content: '[Development]
+
+
+    All skills verified and working after repository restructuring — spj hybrid test!'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '20:45:35'
-  category: Log
+  category: Technology
   is_post: false
-  content: time to test out quwen3.6. at 27B, it is 20Gigs (as compared 9Gigs for
-    qwen 3.5)
+  content: '[Technology]
+
+
+    time to test out quwen3.6. at 27B, it is 20Gigs (as compared 9Gigs for qwen 3.5)'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '20:29:02'
-  category: Log
+  category: Technology
   is_post: false
-  content: time to test out quwen3.6. at 27B, it is 20Gigs (as compared 9Gigs for
-    qwen 3.5)
+  content: '[Technology]
+
+
+    time to test out quwen3.6. at 27B, it is 20Gigs (as compared 9Gigs for qwen 3.5)'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '20:20:53'
-  category: Log
+  category: Technology
   is_post: false
-  content: 'Qwen3.6 27B model update - memory: 20GB vs Qwen3.5''s 9GB'
+  content: '[Technology]
+
+
+    Qwen3.6 27B model update - memory: 20GB vs Qwen3.5''s 9GB'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '19:44:16'
-  category: Log
+  category: Technology
   is_post: false
-  content: 'Testing Qwen3.6 at 27B params - memory footprint: 20Gigs (vs 9G for Qwen
-    3.5)'
+  content: '[Technology]
+
+
+    Testing Qwen3.6 at 27B params - memory footprint: 20Gigs (vs 9G for Qwen 3.5)'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '19:27:30'
-  category: Log
+  category: Benchmarking
   is_post: false
-  content: Qwen3.6 testing at 27B parameters - memory footprint is 20Gigs vs 9Gigs
-    for Qwen 3.5
+  content: '[Benchmarking]
+
+
+    Qwen3.6 testing at 27B parameters - memory footprint is 20Gigs vs 9Gigs for Qwen
+    3.5'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '19:25:21'
-  category: Log
+  category: Technology
   is_post: false
-  content: Time to test out Qwen3.6 at 27B - it is 20Gigs (as compared 9Gigs for Qwen
-    3.5)
+  content: '[Technology]
+
+
+    Time to test out Qwen3.6 at 27B - it is 20Gigs (as compared 9Gigs for Qwen 3.5)'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '19:23:28'
-  category: Log
+  category: Technology
   is_post: false
-  content: Time to test out Qwen3.6 at 27B - it is 20Gigs (as compared 9Gigs for Qwen3.5)
+  content: '[Technology]
+
+
+    Time to test out Qwen3.6 at 27B - it is 20Gigs (as compared 9Gigs for Qwen3.5)'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '19:21:58'
-  category: Log
+  category: Testing
   is_post: false
-  content: Time to test Qwen3.6 at 27B
+  content: '[Testing]
+
+
+    Time to test Qwen3.6 at 27B'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-23'
   time: '17:33:53'
-  category: Log
+  category: Technology
   is_post: false
-  content: time to test out qwen3.6. at 27B, it is 20Gigs (as compared 9Gigs for qwen
-    3.5)
+  content: '[Technology]
+
+
+    time to test out qwen3.6. at 27B, it is 20Gigs (as compared 9Gigs for qwen 3.5)'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: '23:14:31'
-  category: Log
+  category: Development
   is_post: false
-  content: qwen3.5 combined with agents.md changes seems to have done the trick
+  content: '[Development]
+
+
+    qwen3.5 combined with agents.md changes seems to have done the trick'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: '22:49:58'
-  category: Log
+  category: Testing
   is_post: false
-  content: Test the new spj tool - verifying all three actions work correctly from
-    tools directory!
+  content: '[Testing]
+
+
+    Test the new spj tool - verifying all three actions work correctly from tools
+    directory!'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: '22:38:51'
-  category: Log
+  category: Development
   is_post: false
-  content: Update AGENTS.md with /spj skill reference. One command now does journaling
-    AND cross-posting to both BlueSky and Mastodon!
+  content: '[Development]
+
+
+    Update AGENTS.md with /spj skill reference. One command now does journaling AND
+    cross-posting to both BlueSky and Mastodon!'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: null
-  category: Reflection
+  category: Development
   is_post: false
-  content: After cleaning Agents.md and fixing skills directory lets see if the harness
-    picks up things as needed. Leap of faith with north-mini-code-1.0:mlx-nvfp4 (vibethinker
-    sticks to just thinking, no execution) but still no luck. back with gemma 4
+  content: '[Development]
+
+
+    After cleaning Agents.md and fixing skills directory lets see if the harness picks
+    up things as needed. Leap of faith with north-mini-code-1.0:mlx-nvfp4 (vibethinker
+    sticks to just thinking, no execution) but still no luck. back with gemma 4'
   tags: []
   bluesky_url: null
   mastodon_url: null
@@ -431,73 +741,90 @@
   mastodon_url: null
 - date: '2026-06-21'
   time: null
-  category: Log
+  category: Development
   is_post: false
-  content: updated AGENTS.md using GEMINI 3.5 Flash to steer model better, lets see
-    if this works
+  content: '[Development] updated AGENTS.md using GEMINI 3.5 Flash to steer model
+    better, lets see if this works'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: null
-  category: Log
+  category: Development
   is_post: false
-  content: Further refined AGENTS.md for better steering. This also raises the point
-    of versioning the changes to this bot's guardrails. what a missed opportunity
+  content: '[Development]
+
+
+    Further refined AGENTS.md for better steering. This also raises the point of versioning
+    the changes to this bot''s guardrails. what a missed opportunity'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: null
-  category: Log
+  category: Technology
   is_post: false
-  content: steering seems to have improved with proper guidance and ofcourse qwen.
-    next i will switch to gemma in a new session to see if it works
+  content: '[Technology]
+
+
+    steering seems to have improved with proper guidance and ofcourse qwen. next i
+    will switch to gemma in a new session to see if it works'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: null
-  category: Log
+  category: Testing
   is_post: false
-  content: before I switch the model, testing if it works equally well from telegram
-    bot or not
+  content: '[Testing]
+
+
+    before I switch the model, testing if it works equally well from telegram bot
+    or not'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-21'
   time: null
-  category: Learning
+  category: Development
   is_post: false
-  content: 'Repository restructuring completed using Qwen 3.6: consolidated 5 bluesky
-    variants into single blue sky.py, fixed mastadon typo to mastodon.py, rewrote
-    clean spj hybrid, updated all SKILL.md docs, and aligned AGENTS.md references.
-    All old scripts backed up to temps/Qwen 3.6 proved significantly better than Qwen
-    3.5 on tool calling fidelity, multi-turn coherence, and longer context management
-    — even outperforming Gemma 4 which previously held the lead for pi-dev. The key
-    advantage: Qwen 3.6 handles complex restructuring across dozens of files in a
-    single focused run without losing context, whereas earlier models would drift
-    or hallucinate after 5-7 steps.'
+  content: '[Development]
+
+
+    Repository restructuring completed using Qwen 3.6: consolidated 5 bluesky variants
+    into single blue sky.py, fixed mastadon typo to mastodon.py, rewrote clean spj
+    hybrid, updated all SKILL.md docs, and aligned AGENTS.md references. All old scripts
+    backed up to temps/Qwen 3.6 proved significantly better than Qwen 3.5 on tool
+    calling fidelity, multi-turn coherence, and longer context management — even outperforming
+    Gemma 4 which previously held the lead for pi-dev. The key advantage: Qwen 3.6
+    handles complex restructuring across dozens of files in a single focused run without
+    losing context, whereas earlier models would drift or hallucinate after 5-7 steps.'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-20'
   time: '12:45'
-  category: Reflection
+  category: Technical
   is_post: false
-  content: Thinking mode setting seems to somehow nerf `gemma4` as well. It is not
-    using the skills at all.
+  content: '[Technical]
+
+
+    Thinking mode setting seems to somehow nerf `gemma4` as well. It is not using
+    the skills at all.'
   tags:
   - gemma4
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-20'
   time: '10:00'
-  category: Reflection
+  category: Technology
   is_post: false
-  content: I keep coming back to `gemma4` despite its shortcomings; it still seems
-    like the most performant model for `pi-dev` so far. `Vibethinker3B` blew me away
-    with its TPS, but doesn't vibe much other than that.
+  content: '[Technology]
+
+
+    I keep coming back to `gemma4` despite its shortcomings; it still seems like the
+    most performant model for `pi-dev` so far. `Vibethinker3B` blew me away with its
+    TPS, but doesn''t vibe much other than that.'
   tags:
   - gemma4
   - pi-dev
@@ -506,40 +833,41 @@
   mastodon_url: null
 - date: '2026-06-20'
   time: null
-  category: Reflection
+  category: Development
   is_post: false
-  content: pi dev indeed is self improving. I was able to add a new model to its models.json
-    and a simple reload made it available in the same session
+  content: '[Development] pi dev indeed is self improving. I was able to add a new
+    model to its models.json and a simple reload made it available in the same session'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-20'
   time: null
-  category: Reflection
+  category: Development
   is_post: false
-  content: starting pi in the required directory did solve picking up agents.md but
-    skill availability is better with gemma4 while north mini is better at speed and
-    general chat only
+  content: '[Development] starting pi in the required directory did solve picking
+    up agents.md but skill availability is better with gemma4 while north mini is
+    better at speed and general chat only'
   tags:
   - gemma4
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
   time: '05:14'
-  category: Log
+  category: Development
   is_post: false
-  content: pi dev gemma4 work pretty nicely with things like skill creation and file
-    manipulation but falters when code updates take multiple turns.
+  content: '[Development] pi dev gemma4 work pretty nicely with things like skill
+    creation and file manipulation but falters when code updates take multiple turns.'
   tags:
   - gemma4
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
   time: '04:30'
-  category: Log
+  category: Education
   is_post: false
-  content: listening to Kevin Murphy's lecture on Agents while keeping an eye on Aviraj
-    for the night. [Link](https //mit.zoom.us/rec/play/LWVyn4NbU tth7SNUCi2yhe4DPP6fuL32gEP9dmGGOQJ4dPipTje8cf93RugMK8Dy0_eo)
+  content: '[Education] listening to Kevin Murphy''s lecture on Agents while keeping
+    an eye on Aviraj for the night. [Link](https //mit.zoom.us/rec/play/LWVyn4NbU
+    tth7SNUCi2yhe4DPP6fuL32gEP9dmGGOQJ4dPipTje8cf93RugMK8Dy0_eo)'
   tags:
   - Kevin Murphy
   - Agents
@@ -547,10 +875,10 @@
   mastodon_url: null
 - date: '2026-06-17'
   time: '03:13'
-  category: Reflection
+  category: Development
   is_post: false
-  content: Was able to work with bluesky seamlessly. Maston turns out to be messy
-    because gemma4 is not so adherent with requested changes.
+  content: '[Development] Was able to work with bluesky seamlessly. Maston turns out
+    to be messy because gemma4 is not so adherent with requested changes.'
   tags:
   - bluesky
   - Maston
@@ -559,46 +887,57 @@
   mastodon_url: null
 - date: '2026-06-17'
   time: '00:24'
-  category: Reflection
+  category: Computing
   is_post: false
-  content: queueing of tasks also works nicely when context utilisation is under 50%.
+  content: '[Computing]
+
+
+    queueing of tasks also works nicely when context utilisation is under 50%.'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
   time: '00:21'
-  category: Reflection
+  category: Analysis
   is_post: false
-  content: context utilisation directly impacts agent adherence and quality.
+  content: '[Analysis]
+
+
+    context utilisation directly impacts agent adherence and quality.'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
   time: '00:19'
-  category: Reflection
+  category: Technology
   is_post: false
-  content: spost is a composite skill that uses mpost and bpost for cross platform
-    posting.
+  content: '[Technology]
+
+
+    spost is a composite skill that uses mpost and bpost for cross platform posting.'
   tags: []
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-17'
   time: '00:10'
-  category: Reflection
+  category: Technology
   is_post: false
-  content: lfm2.5 is hallucinating a lot and making mistakes on simple tasks as well.
-    It is faster than gemma4 but nowhere near as usable.
+  content: '[Technology]
+
+
+    lfm2.5 is hallucinating a lot and making mistakes on simple tasks as well. It
+    is faster than gemma4 but nowhere near as usable.'
   tags:
   - gemma4
   bluesky_url: null
   mastodon_url: null
 - date: '2026-06-15'
   time: '17:49'
-  category: Learning
+  category: Technology
   is_post: false
-  content: Telegram can take audio input and while gemma4 models can work with audio
-    data, it can't transcribe and used the text till the harness (pi dev in this case)
-    has a tool to enable it. "
+  content: '[Technology] Telegram can take audio input and while gemma4 models can
+    work with audio data, it can''t transcribe and used the text till the harness
+    (pi dev in this case) has a tool to enable it. "'
   tags:
   - Telegram
   - gemma4
@@ -607,9 +946,10 @@
   mastodon_url: null
 - date: '2026-06-15'
   time: '16:15'
-  category: Reflection
+  category: Productivity
   is_post: false
-  content: 'I feel more productive today when I use the **bot** to organize my thoughts.
+  content: '[Productivity] I feel more productive today when I use the **bot** to
+    organize my thoughts.
 
 
     **It''s much easier to see everything on one page.**'
@@ -618,10 +958,13 @@
   mastodon_url: null
 - date: '2025-06-21'
   time: '23:00:00'
-  category: Log
+  category: Development
   is_post: false
-  content: Update AGENTS.md with /spj skill reference. One command now does journaling
-    AND cross-posting to both BlueSky and Mastodon!
+  content: '[Development]
+
+
+    Update AGENTS.md with /spj skill reference. One command now does journaling AND
+    cross-posting to both BlueSky and Mastodon!'
   tags: []
   bluesky_url: null
   mastodon_url: null
